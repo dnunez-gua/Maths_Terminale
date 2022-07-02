@@ -19,7 +19,7 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - La page d'accueil : index.md
-    - Chap1 : Les limites de fonctions
+    - Limites de Fonctions : Chap1.md
     
 
 
