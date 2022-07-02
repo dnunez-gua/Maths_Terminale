@@ -9,7 +9,7 @@ site_url: https://dnunez-gua.github.io/base_mkdocs_material/ #  modifier au form
 
 # Dépot du projet 
 repo_name: 'base_mkdocs_material' 
-repo_url: https://dnunez-gua.github.io/AP-2NDE-MATHEXP/ # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite
+repo_url: https://dnunez-gua.github.io/Maths_Terminales/ # Ajoute l'icone et le lien vers le dépot GitHub en haut à droite
 edit_uri: tree/main/docs/
 
 
@@ -19,7 +19,7 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - La page d'accueil : index.md
-    -
+    - 
     
 
 
