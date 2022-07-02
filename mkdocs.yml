@@ -1,11 +1,11 @@
 # Fichier de configuration du site à personnaliser
 
 # Informations du site 
-site_name: AP Maths Expertes 2nde
-site_description: Support de l'AP 
+site_name: Maths Terminales
+site_description: Support de cours
 site_author: "Delphine NUNEZ" 
 copyright: Document partagé par <a href="https://github.com/dnunez-gua" target="_blank">Delphine NUNEZ </a> &copy; 2021 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
-site_url: https://dnunez-gua.github.io/base_mkdocs_material/ #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
+site_url: https://dnunez-gua.github.io/Maths_Terminales/ #  modifier au format https://votrePseudoGitHub.github.io/votreDepot/
 
 # Dépot du projet 
 repo_name: 'base_mkdocs_material' 
@@ -19,7 +19,7 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - La page d'accueil : index.md
-    - 
+    - Chap 1 : Les limites de fonctions
     
 
 
