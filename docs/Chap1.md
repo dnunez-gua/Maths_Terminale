@@ -2,3 +2,6 @@
 
 > Cours 
 > [Chap 1](./cours/Cours-Chap1.pdf)
+
+## Définition de limites 
+### Limites en $+\infty$
