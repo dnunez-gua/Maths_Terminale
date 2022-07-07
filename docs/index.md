@@ -15,7 +15,7 @@ Ceci est la page d'accueil du travail fait en spécialité maths de Terminales
 >- calcul intégral ;
 >- somme de variables aléatoires ;
 >- concentration, loi des grands nombres.
->De plus, la section primitives, équations différentielles du programme de spécialité de terminale est mobilisable à l'exclusion du contenu suivant : >équation différentielle y' = ay, où a est un nombre réel ; allure des courbes. Équation différentielle y' = ay + b.
+>- De plus, la section primitives, équations différentielles du programme de spécialité de terminale est mobilisable à l'exclusion du contenu suivant : >équation différentielle y' = ay, où a est un nombre réel ; allure des courbes. Équation différentielle y' = ay + b.
 
 >Le sujet précise si l'usage de la calculatrice, dans les conditions précisées par les textes en vigueur, est autorisé.
 
