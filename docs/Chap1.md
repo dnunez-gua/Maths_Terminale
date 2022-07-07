@@ -8,6 +8,10 @@
 
 >Etude de la limite graphiquement 
 >Sur les graphiques ci-dessous, donner les limites de $f$ lorsque $x$ tend vers $+\infty$ 
+>
 >![courbe1](./images/infini1.png)
+>
 >![courbe2](./images/infini2.png)
+>
 >![courbe3](./images/infini3.png)
+>
