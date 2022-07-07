@@ -6,7 +6,7 @@
 ## Définition de limites 
 ### Limites en $+\infty$
 
->Etude de la limite graphiquement 
+>Etude de la limite graphiquement <br>
 >Sur les graphiques ci-dessous, donner les limites de $f$ lorsque $x$ tend vers $+\infty$ 
 >
 >![courbe1](./images/infini1.png)
