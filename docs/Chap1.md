@@ -20,3 +20,9 @@
 
 >Même question lorsque $x$ tend vers $-\infty$
 
+### Limites en $x_0$
+
+1. Pour la courbe 2, quelle est la limite de $f$ lorsque $x$ tend vers 0 ?
+2. Pour la courbe 1, quelle est la limite de $f$ lorsque $x$ tend vers -2 en restant plus grand que -2 ?
+3. Pour la courbe 1, quelle est la limite de $f$ lorsque $x$ tend vers -2 en restant plus petit que -2 ?
+4. Que constatez-vous ? 
