@@ -16,7 +16,7 @@
 >![courbe3](./images/infini3.png)
 >
 
-### Limites en $+\infty$
+### Limites en $-\infty$
 
 >Même question lorsque $x$ tend vers $-\infty$
 
