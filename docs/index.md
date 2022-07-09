@@ -24,3 +24,7 @@ Le sujet précise si l'usage de la calculatrice, dans les conditions précisées
 
 ### Grand Oral
 
+> Grille évaluation 
+> [grille](./Grille_GO.pdf)
+
+
