@@ -2,9 +2,7 @@
 ### Chapitre 1 - Limites de fonctions 
 
 !!! info "Cours et activités"
-
 [Chap 1](./cours/Chap1/Cours-Chap1.pdf)
-
 [Activité](./cours/Chap1/activite1.pdf)
 
 ### Chapitre 2- Suites numériques
