@@ -5,4 +5,5 @@
     Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
 
 ### Chapitre 2- Suites numériques
-> [Chap 2](./cours/Chap2/Cours-chap2.pdf)
+!!! info "Cours "
+    Le cours : [Chap 2](./cours/Chap2/Cours-chap2.pdf) et une démonstration : [demo](./cours/Chap2/Demo.pdf)
