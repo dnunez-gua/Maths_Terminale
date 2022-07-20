@@ -1,10 +1,10 @@
 # Chapitre 1 - Limites de fonctions 
 
 ## Cours
-> [Chap 1](./cours/Cours-Chap1.pdf)
+> [Chap 1](./cours/Chap1/Cours-Chap1.pdf)
 
 ## Activité 
 
  
-> [Activité](./cours/activite1.pdf)
+> [Activité](./cours/Chap1/activite1.pdf)
 
