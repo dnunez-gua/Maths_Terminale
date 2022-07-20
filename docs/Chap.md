@@ -10,4 +10,4 @@
 > [Activité](./cours/Chap1/activite1.pdf)
 
 ### Chapitre 2- Suites numériques
-> [Chap 2](./cours/Chap2/Cours-Chap2.pdf)
+> [Chap 2](./cours/Chap2/Cours-chap2.pdf)
