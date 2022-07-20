@@ -7,3 +7,7 @@
 ### Chapitre 2- Suites numériques
 ??? info "Cours "
     Le cours : [Chap 2](./cours/Chap2/Cours-chap2.pdf) et une démonstration : [demo](./cours/Chap2/Demo.pdf)
+
+### Chapitre 3- Continuité de fonctions et Applications
+??? info "Cours "
+    Le cours : [Chap 3](./cours/Chap3/Cours-chap3.pdf)
