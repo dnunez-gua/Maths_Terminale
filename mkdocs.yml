@@ -20,6 +20,7 @@ docs_dir: docs
 nav: 
     - La page d'accueil : index.md
     - Chapitres : Chap.md
+    - Cahier de textes : progression.md
     
 
 
