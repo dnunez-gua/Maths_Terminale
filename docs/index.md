@@ -5,9 +5,9 @@ Ceci est la page d'accueil du travail fait en spécialité maths de Terminales
 > [progression](./Progression_2022-eleves.pdf)
 
 ## Conseils pour travailler les mathématiques
-> Les documents suivants viennent du site https://www.lyceedadultes.fr/, les cours de mathématiques sont faits par Paul MILAN. <br>
-> - [conseils](./conseils.pdf)
-> - [redaction](./redaction.pdf)
+ Les documents suivants viennent du site [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN"){target="_blank"}, les cours de mathématiques sont faits par Paul MILAN. <br>
+ - [conseils](./conseils.pdf)
+ - [redaction](./redaction.pdf)
 ## Epreuves
 ### Epreuve écrite : 4 h <br>
 Structure : A compter de la session 2022 du baccalauréat, la structure de la partie écrite de l'épreuve de l'enseignement de spécialité mathématiques de la classe de terminale de la voie générale définie dans la note de service n° 2020-029 du 11 février 2020 est modifiée comme suit : <br>
