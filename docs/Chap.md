@@ -1,5 +1,5 @@
 # Chapitres 
-### Chapitre 1 - Limites de fonctions 
+### Chapitre 1 - Limites de fonctions
 
 ??? info "Cours et activités"
     Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
