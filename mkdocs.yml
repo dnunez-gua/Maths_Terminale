@@ -18,10 +18,12 @@ docs_dir: docs
 
 # Menu de navigation
 nav: 
-    - La page d'accueil : index.md
-    - Chapitres : Chap.md
-    - Cahier de textes : progression.md
-    
+- Terminale Spécialité Mathématiques :
+    La page d'accueil : index.md
+    Chapitres : Chap.md
+    Cahier de textes : progression.md
+- Option Maths Expertes : 
+    La page d'acceuil : mathexp.md
 
 
     # Référencer vos autres pages ci-dessus...
