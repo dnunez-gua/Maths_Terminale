@@ -23,7 +23,8 @@ nav:
     Chapitres : Chap.md
     Cahier de textes : progression.md
 - Option Maths Expertes : 
-    La page d'acceuil : mathexp.md
+    Chapitres : mathexp.md
+    Cahier de textes : prog-mexp.md
 
 
     # Référencer vos autres pages ci-dessus...
