@@ -5,4 +5,5 @@ L'option est évaluée en controle continu.
 
 ## Chapitre 1 - Les complexes point de vue algébrique
 
-???
+??? info "Cours" 
+    Le cours [Cours](./docs/MEXP/Chap1/Cours-Chap1.pdf)
