@@ -31,4 +31,11 @@ Le sujet précise si l'usage de la calculatrice, dans les conditions précisées
 > Grille évaluation 
 > [grille](./Grille_GO.pdf)
 
+### Notes et références
+
+- Paul MILAN  [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN"){target="_blank"}
+- Patrick SCHILLI , Philippe MAGOUTIER [IREM Reunion](https://irem.univ-reunion.fr/spip.php?article1111 "IREM REUINION"){target="_blank"}
+- Hans Amble - Maths au Lycée
+- Yvan Monka "m@ths et tiques"
+
 
