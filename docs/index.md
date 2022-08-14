@@ -8,7 +8,7 @@ Ceci est la page d'accueil du travail fait en spécialité maths de Terminales
 > [progression](./Progression_2022-eleves.pdf)
 
 ## Conseils pour travailler les mathématiques
- Les documents suivants viennent du site [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN"){target="_blank"}, les cours de mathématiques sont faits par Paul MILAN :
+ Les documents suivants viennent du site [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN"), les cours de mathématiques sont faits par Paul MILAN :
  
  - [conseils](./conseils.pdf)
  - [redaction](./redaction.pdf)
@@ -36,7 +36,7 @@ Le sujet précise si l'usage de la calculatrice, dans les conditions précisées
 
 ### Notes et références
 
-- Paul MILAN  [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN"){target="_blank"}
+- Paul MILAN  [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN")
 - Patrick SCHILLI , Philippe MAGOUTIER [IREM Reunion](https://irem.univ-reunion.fr/spip.php?article1111 "IREM REUINION"){target="_blank"}
 - Hans Amble - Maths au Lycée
 - Yvan Monka "m@ths et tiques"
