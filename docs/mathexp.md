@@ -2,7 +2,8 @@
 
 Page regroupant les documents des cours de l'option Maths Expertes. <br>
 L'option est évaluée en controle continu.
-
+## Manuel Numérique 
+[livre scolaire](https://fr.calameo.com/read/0005967295d0b5d5c47f6?authid=nDfde6HMoRP5 "Livre spé Maths")
 ## Chapitre 1 - Les complexes point de vue algébrique
 
 ??? info "Cours" 
