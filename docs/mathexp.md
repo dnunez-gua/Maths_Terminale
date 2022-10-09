@@ -8,3 +8,7 @@ L'option est évaluée en controle continu.
 
 ??? info "Cours" 
     Le cours [Cours](./cours/MEXP/Chap1/Cours-Chap1.pdf)
+    
+## Chapitre 2 - Arithmétique - Divisibilité dans Z
+??? info "Cours" 
+    Le cours [Cours](./cours/MEXP/Chap2/Cours-Chap2.pdf)
