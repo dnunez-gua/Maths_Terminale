@@ -11,3 +11,7 @@
 ### Chapitre 3- Continuité de fonctions et Applications
 ??? info "Cours "
     Le cours : [Chap 3](./cours/Chap3/Cours-chap3.pdf)
+    
+### Chapitre 4- Compléments sur la dérivation
+??? info "Cours "
+    Le cours : [Chap 4](./cours/Chap4/Cours-chap4.pdf)
