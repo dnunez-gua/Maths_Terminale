@@ -19,4 +19,4 @@
     
 ### Chapitre 5- Vecteurs, droites et plans de l'espace
 ??? info "Cours "
-    Le cours : [Chap 5](./cours/Chap5/Cours-chap5.pdf)
+    Le cours : [Chap 5](./cours/Chap5/Cours_chap5.pdf)
