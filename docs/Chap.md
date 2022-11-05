@@ -15,3 +15,8 @@
 ### Chapitre 4- Compléments sur la dérivation
 ??? info "Cours "
     Le cours : [Chap 4](./cours/Chap4/Cours-chap4.pdf)
+
+    
+### Chapitre 5- Vecteurs, droites et plans de l'espace
+??? info "Cours "
+    Le cours : [Chap 5](./cours/Chap5/Cours-chap5.pdf)
