@@ -15,4 +15,4 @@ L'option est évaluée en controle continu.
 
 ## Chapitre 3 - Matrice 
 ??? info "Cours" 
-    Le cours [Cours](./cours/MEXP/Chap3/Cours_chap3.pdf)
+    Le cours [Cours](./cours/MEXP/Chap3/Cours-chap3.pdf)
