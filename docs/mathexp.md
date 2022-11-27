@@ -12,3 +12,7 @@ L'option est évaluée en controle continu.
 ## Chapitre 2 - Arithmétique - Divisibilité dans Z
 ??? info "Cours" 
     Le cours [Cours](./cours/MEXP/Chap2/Cours_Chap2.pdf)
+
+## Chapitre 3 - Matrice 
+??? info "Cours" 
+    Le cours [Cours](./cours/MEXP/Chap3/Cours_Chap3.pdf)
