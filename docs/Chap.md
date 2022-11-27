@@ -20,3 +20,8 @@
 ### Chapitre 5- Vecteurs, droites et plans de l'espace
 ??? info "Cours "
     Le cours : [Chap 5](./cours/Chap5/Cours_chap5.pdf)
+
+
+### Chapitre 6- Loi Binomiale
+??? info "Cours "
+    Le cours : [Chap 6](./cours/Chap6/Cours_chap6.pdf)
