@@ -109,7 +109,7 @@ extra:
     - icon: fontawesome/brands/github
       link: https://dnunez-gua.github.io/AP-2NDE-MATHEXP/
       name: dépôt github
-    - icon: fontawesome/solid/university
+    - icon: fontawesome/solid/school
       link: https://www.ecmorlaix.fr/nos-etablissements/lycee-notre-dame-du-mur/
       name: Lycée Notre Dame du Mur
 
