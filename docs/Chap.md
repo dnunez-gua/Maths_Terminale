@@ -26,3 +26,7 @@
 ### Chapitre 6- Loi Binomiale
 ??? info "Cours "
     Le cours : [Chap 6](./cours/Chap6/Cours_Chap6.pdf)
+
+### Chapitre 7- Produit scalaire dans l'espace
+??? info "Cours "
+    Le cours : [Chap 7](./cours/Chap7/Cours-Chap7.pdf)
