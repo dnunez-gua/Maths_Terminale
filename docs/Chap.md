@@ -30,3 +30,7 @@
 ### Chapitre 7- Produit scalaire dans l'espace
 ??? info "Cours "
     Le cours : [Chap 7](./cours/Chap7/Cours-Chap7.pdf)
+    
+### Chapitre 8 - Logarithme Népérien
+??? info "Cours "
+    Le cours : [Chap 8](./cours/Chap8/Cours-Chap8.pdf)
