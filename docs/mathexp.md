@@ -16,3 +16,7 @@ L'option est évaluée en controle continu.
 ## Chapitre 3 - Matrice 
 ??? info "Cours" 
     Le cours [Cours](./cours/MEXP/Chap3/Cours-chap3.pdf)
+
+## Chapitre 4 - Les complexes point de vue géométrique
+??? info "Cours" 
+    Le cours [Cours](./cours/MEXP/Chap4/Cours-chap4.pdf)
