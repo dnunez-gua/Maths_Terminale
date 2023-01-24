@@ -19,4 +19,4 @@ L'option est évaluée en controle continu.
 
 ## Chapitre 4 - Les complexes point de vue géométrique
 ??? info "Cours" 
-    Le cours [Cours](./cours/MEXP/Chap4/Cours-chap4.pdf)
+    Le cours [Cours](./cours/MEXP/Chap4/Cours-Chap4.pdf)
