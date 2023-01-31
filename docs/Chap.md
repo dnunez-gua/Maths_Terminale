@@ -34,3 +34,7 @@
 ### Chapitre 8 - Logarithme Népérien
 ??? info "Cours "
     Le cours : [Chap 8](./cours/Chap8/Cours-Chap8.pdf)
+
+### Chapitre 9 - Primitives et Intégrales
+??? info "Cours "
+    Le cours : [Chap 8](./cours/Chap9/Cours-Chap9.pdf)
