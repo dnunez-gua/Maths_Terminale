@@ -38,3 +38,7 @@
 ### Chapitre 9 - Primitives et Intégrales
 ??? info "Cours "
     Le cours : [Chap 9](./cours/Chap9/Cours-Chap9.pdf)
+    
+### Python
+??? info "TP"
+TP python de notions d'algorithmes de 1ere et Terminale. [python-term](./Python/python-term.ipynb)
