@@ -41,4 +41,4 @@
     
 ### Python
 ??? info "TP"
-TP python de notions d'algorithmes de 1ere et Terminale. [python-term](./Python/python-term.ipynb)
+TP python de notions d'algorithmes de 1ere et Terminale. [python-term](./python-term.ipynb)
