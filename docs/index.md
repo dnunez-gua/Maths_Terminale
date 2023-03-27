@@ -35,8 +35,12 @@ Le sujet précise si l'usage de la calculatrice, dans les conditions précisées
 > [grille](./Grille_GO.pdf)
 
 Voyages au pays des maths (Arte) : Vidéos sur des thèmes pouvant être utilisés pour le Grand Oral. 
+
 - [Sur la route de l'infini](https://www.arte.tv/fr/videos/097454-005-A/voyages-au-pays-des-maths/ "Sur la route de l'infini")
- - [Les irrationnnels ](https://www.arte.tv/fr/videos/097454-009-A/voyages-au-pays-des-maths/ "Les irrationnels")
+- [Les irrationnnels ](https://www.arte.tv/fr/videos/097454-009-A/voyages-au-pays-des-maths/ "Les irrationnels")
+
+Une liste d'exemples de questions :
+    [liste](./GrandOral.md)
 ### Notes et références
 
 - Paul MILAN  [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN")
