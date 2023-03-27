@@ -168,5 +168,14 @@
 - En quoi les travaux de Turing ont posé les bases de l'informatique ?
 - Combien de réglages différents sont réalisables avec la machine Egnima ?
 
+## Mathématiques et Arts 
 
 
+- Comment les mathématiques interviennent dans l'architecture de la cité radieuse de Le Corbusier ?
+- Quels sont les apports des fractales dans la création artistique ?
+- En quoi le nombre d’or a-t-il une dimension esthétique ?
+- Quelle place des mathématiques dans l'art des pavages ?
+- Les mathématiques sont-elles liées à la musique ?
+- Comment retrouve-t-on la suite de Fibonacci dans la musique ?
+- Les mathématiques peuvent-elles être utiles à la conception d'une chorégraphie ?
+- Quelle est la place des mathématiques dans le design graphique et la communication visuelle ?
