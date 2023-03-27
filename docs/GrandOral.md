@@ -1,4 +1,4 @@
-# exemples de sujets grand oral
+# Exemples de sujets grand oral
 ## Analyse
 
 - Qu'est-ce qu'une croissance exponentielle ?
