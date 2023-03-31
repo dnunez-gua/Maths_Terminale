@@ -21,6 +21,7 @@
 - Comment la méthode de Newton Raphson permet-elle de déterminer rapidement une approximation d’un zéro d’une fonction dérivable ?
 - Quel est l’intérêt de la dérivation en mathématiques ?
 - Route orthodromique et loxodromique, quelles différences ?
+
 ## Probabilités
 
 - Le jeu de Galton : pour quelle raison les gains des cases situées aux extrémités sont-ils toujours plus élevés à la fête foraine ?
@@ -50,7 +51,9 @@
 - Comment les statistiques permettent de prévoir les résultats d'un cheval en compétition ?
 - Comment fonctionnent les statistiques à deux variables ?
 - Le hasard existe-t-il vraiment ?
-- Modélisations mathématiques
+
+## Modélisations mathématiques
+
 - En quoi les maths sont utiles quand je fais du surf ?
 - Quelle est la surface d’un mur de soutènement d’une rampe de skate ?
 - Comment modéliser l’évolution de la vitesse d’un TGV ?
@@ -68,6 +71,7 @@
 - Comment utiliser la trigonométrie avec un radar ou un sonar ?
 - Comment améliorer les performances d'un sportif à l'aide des mathématiques ?
 - En quoi les suites et les limites jouent-elles sur les performances sportives ?
+
 ## Raisonnement mathématique
 
 - Les paradoxes mathématiques peuvent-ils nier une démonstration ? 
@@ -78,7 +82,9 @@
 - Pourquoi prouver quand ça se voit ?
 - Comment peut-on démontrer en mathématiques ?
 - Comment démontrer que tout le monde devrait avoir la même taille ?
+
 ## Culture mathématique
+
 - Comment Lewis Carroll réussit-il à cacher des concepts mathématiques dans Alice au pays des Merveilles ?
 - Qui est Euler et pourquoi peut-on dire qu’il a révolutionné les mathématiques ?
 - Comment les limites permettent de résoudre le paradoxe de Zénon ?
@@ -92,7 +98,9 @@
 - Approximation de pi par des calculs d'aire sous la courbe
 - Pourquoi le nombre e est-il si spécial ?
 - En quoi l'arbre de Pythagore fait-il partie de la forêt des objets mathématiques mystérieux ?
+
 ## Mathématiques et SVT
+
 - Comment grâce aux mathématiques peut-on atteindre une concentration idéale dans l'organisme ?
 - Comment l'alcoolémie évolue dans le temps ?
 - Comment peut-on prévoir la disparition des espèces ?
@@ -158,6 +166,7 @@
 - Quel rôle les femmes ont joué dans l'histoire des mathématiques ?
 
 ## Mathématiques et NSI
+
 - Comment les calculs numériques permettent une approximation d'une intégrale ?
 - Quelles sont les premières méthodes de chiffrement et leur résistance aux attaques extérieures ?
 - Comment la cryptologie a changé le cours de la seconde guerre mondiale ?
