@@ -39,6 +39,10 @@
 ??? info "Cours "
     Le cours : [Chap 9](./cours/Chap9/Cours-Chap9.pdf)
     
+### Chapitre 10 - Dénombrement
+??? Info "Cours "
+    Le cours : [Chap10](./cours/Chap10/Cours-Chap10.pdf)
+    
 ### Python
 ??? info "TP"
 TP python de notions d'algorithmes de 1ere et Terminale. [python-term](./python-term.ipynb)
