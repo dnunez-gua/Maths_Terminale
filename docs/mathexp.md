@@ -20,3 +20,7 @@ L'option est évaluée en controle continu.
 ## Chapitre 4 - Les complexes point de vue géométrique
 ??? info "Cours" 
     Le cours [Cours](./cours/MEXP/Chap4/Cours-Chap4.pdf)
+    
+## Chapitre 5- Graphes et Suites de matrices
+??? info "Cours" 
+    Le cours [Cours](./cours/MEXP/Chap5/Cours-Chap5.pdf)
