@@ -43,6 +43,10 @@
 ??? Info "Cours "
     Le cours : [Chap10](./cours/Chap10/Cours-Chap10.pdf)
     
+### Chapitre 11 - Equations différentielles
+??? Info "Cours "
+    Le cours : [Chap10](./cours/Chap11/Cours-Chap11.pdf)
+    
 ### Python
 ??? info "TP"
 TP python de notions d'algorithmes de 1ere et Terminale. [python-term](./python-term.ipynb)
