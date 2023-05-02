@@ -45,7 +45,7 @@
     
 ### Chapitre 11 - Equations différentielles
 ??? Info "Cours "
-    Le cours : [Chap10](./cours/Chap11/Cours-Chap11.pdf)
+    Le cours : [Chap11](./cours/Chap11/Cours-Chap11.pdf)
     
 ### Python
 ??? info "TP"
