@@ -27,4 +27,4 @@ L'option est évaluée en controle continu.
     
 ## Chapitre 6- PGCD et applications
 ??? info "Cours" 
-    Le cours [Cours](./cours/MEXP/Chap6/Cours-Chap6.pdf)
+    Le cours [Cours](./cours/MEXP/Chap6/Cours_Chap6.pdf)
