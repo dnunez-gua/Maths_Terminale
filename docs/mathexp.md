@@ -24,3 +24,7 @@ L'option est évaluée en controle continu.
 ## Chapitre 5- Graphes et Suites de matrices
 ??? info "Cours" 
     Le cours [Cours](./cours/MEXP/Chap5/Cours-Chap5.pdf)
+    
+## Chapitre 6- PGCD et applications
+??? info "Cours" 
+    Le cours [Cours](./cours/MEXP/Chap6/Cours-Chap6.pdf)
