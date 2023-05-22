@@ -47,6 +47,10 @@
 ??? Info "Cours "
     Le cours : [Chap11](./cours/Chap11/Cours-Chap11.pdf)
     
+### Chapitre 12- Sommes de variables aleatoires
+??? Info "Cours "
+    Le cours : [Chap12](./cours/Chap12/Cours-Chap12.pdf)
+    
 ### Python
 ??? info "TP"
 TP python de notions d'algorithmes de 1ere et Terminale. [python-term](./python-term.ipynb)
