@@ -4,9 +4,9 @@
 
 ??? info "Cours et activités"
     Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
-    ===  "Justifier :"
+    === "Justifier :"
         $1+1=10$
-    ===  "Indice :"
+    === "Indice :"
         test
     === "Réponse :"
         _**Calculer en base 2 !**_ &nbsp; :wink:
