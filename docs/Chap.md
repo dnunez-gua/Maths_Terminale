@@ -3,14 +3,15 @@
 
 
 ??? info "Cours et activités"
-    Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
-    === "Justifier :"
-        $1+1=10$ ici
-    === "Indice :"
-        test
-    === "Réponse :"
-        _**Calculer en base 2 !**_ &nbsp; :wink:
-    
+=== "Justifier :"
+    $1+1=10$ ici
+=== "Indice :"
+    test
+=== "Réponse :"
+    _**Calculer en base 2 !**_ &nbsp; :wink:
+        
+        
+Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
 ### Chapitre 2- Suites numériques
 ??? info "Cours "
     Le cours : [Chap 2](./cours/Chap2/Cours-chap2.pdf) 
