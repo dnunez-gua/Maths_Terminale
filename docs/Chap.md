@@ -4,7 +4,7 @@
 
 ??? info "Cours et activités"
 ===  "Justifier :"
-    $1+1=10$ ici
+    $1+1=10$ ici2
 ===  "Indice :"
     test
 ===  "Réponse :"
