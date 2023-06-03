@@ -1,5 +1,3 @@
-Test
-
 ===  "Justifier :"
     $1+1=10$
 ===  "Indice :"
