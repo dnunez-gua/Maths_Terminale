@@ -2,5 +2,5 @@
     $1+1=10$
 ===  "Indice :"
    Indice 2
-=== "Réponse :"
+===  "Réponse :"
     _**Calculer en base 2 !**_ &nbsp; :wink:
