@@ -3,11 +3,11 @@
 
 
 ??? info "Cours et activités"
-=== "Justifier :"
+===  "Justifier :"
     $1+1=10$ ici
-=== "Indice :"
+===  "Indice :"
     test
-=== "Réponse :"
+===  "Réponse :"
     _**Calculer en base 2 !**_ &nbsp; :wink:
         
         
