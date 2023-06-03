@@ -1,14 +1,12 @@
 # Chapitres  
 ### Chapitre 1 - Limites de fonctions
 
-
-??? info "Cours et activités"
-    ===  "Justifier :"
-        $1+1=10$ ici3
-    ===  "Indice :"
-        test
-    ===  "Réponse :"
-        Calculer en base 2 !
+=== "Justifier :"
+    $1+1=10$ ici3
+=== "Indice :"
+    test
+=== "Réponse :"
+    Calculer en base 2 !
         
         
 Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
