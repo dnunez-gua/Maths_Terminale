@@ -5,7 +5,7 @@
 ??? info "Cours et activités"
     Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
     === "Justifier :"
-        $1+1=10$
+        $1+1=10$ ici
     === "Indice :"
         test
     === "Réponse :"
