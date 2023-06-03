@@ -5,16 +5,13 @@
 ??? info "Cours et activités"
     Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
  
-=== "Resumé "
-     test resume
-=== "Exercices"
-    === "Seance 1"
-         test1
-    === " Indices"
-         test i
-    === "Corrigés "
-         test c
-
+===  "Justifier :"
+    $1+1=10$
+===  "Indice :"
+    test
+=== "Réponse :"
+    _**Calculer en base 2 !**_ &nbsp; :wink:
+    
 ### Chapitre 2- Suites numériques
 ??? info "Cours "
     Le cours : [Chap 2](./cours/Chap2/Cours-chap2.pdf) 
