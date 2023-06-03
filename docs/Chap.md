@@ -4,6 +4,16 @@
 
 ??? info "Cours et activités"
     Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
+ 
+=== "Resumé "
+     test resume
+=== "Exercices"
+    === "Seance 1"
+         test1
+    === " Indices"
+         test i
+    === "Corrigés "
+         test c
 
 ### Chapitre 2- Suites numériques
 ??? info "Cours "
