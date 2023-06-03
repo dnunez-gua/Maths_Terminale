@@ -3,12 +3,12 @@
 
 
 ??? info "Cours et activités"
-===  "Justifier :"
-    $1+1=10$ ici2
-===  "Indice :"
-    test
-===  "Réponse :"
-    _**Calculer en base 2 !**_ &nbsp; :wink:
+    ===  "Justifier :"
+        $1+1=10$ ici2
+    ===  "Indice :"
+        test
+    ===  "Réponse :"
+        _**Calculer en base 2 !**_ &nbsp; :wink:
         
         
 Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
