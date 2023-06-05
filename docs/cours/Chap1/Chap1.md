@@ -11,9 +11,9 @@
 
 !!! question "Notions de limites :"
     ===  "Exercices  :"
-        N°17 p176 (5 minutes)
-        N°20 p176 (5 minutes)
-        N°21 p176 (5 minutes)
+        N°17 p176 (5 minutes)<br>
+        N°20 p176 (5 minutes)<br>
+        N°21 p176 (5 minutes)<br>
         
     ===  "Corrigé :"
         A venir
