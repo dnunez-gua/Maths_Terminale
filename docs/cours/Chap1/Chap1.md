@@ -6,12 +6,12 @@
 
 ## Exercices 
 !!! Activités 
-    A page 162
+    A page 162 <br>
     B page 162
 
 !!! Notions de limites
-===  "Exercices  :"
-    N°17-20-21 p176
-===  "Corrigé :"
-    A venir
+    ===  "Exercices  :"
+        N°17-20-21 p176
+    ===  "Corrigé :"
+        A venir
 
