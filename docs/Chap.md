@@ -1,9 +1,6 @@
 # Chapitres  
-### Chapitre 1 - Limites de fonctions
-
-Test : [Test](./Test.md) 
-        
-Le cours : [Chap 1](./cours/Chap1/Cours-Chap1.pdf) et des activités sont proposées [Activité](./cours/Chap1/activite1.pdf)
+### Chapitre 1 - Limites de fonction
+[limites de fonctions](./cours/Chap1/Chap1.md)
 ### Chapitre 2- Suites numériques
 ??? info "Cours "
     Le cours : [Chap 2](./cours/Chap2/Cours-chap2.pdf) 
