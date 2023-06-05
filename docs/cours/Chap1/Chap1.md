@@ -5,10 +5,11 @@
 [cours Chap1](./Cours-Chap1.pdf)
 
 ## Exercices 
-### Activités 
+!!! Activités 
     A page 162
     B page 162
-### Notions de limites
+
+!!! Notions de limites
 ===  "Exercices  :"
     N°17-20-21 p176
 ===  "Corrigé :"
