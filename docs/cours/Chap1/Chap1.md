@@ -5,11 +5,11 @@
 [cours Chap1](./Cours-Chap1.pdf)
 
 ## Exercices 
-!!! example Activités 
+!!! example "Activités :" 
     A page 162 <br>
     B page 162
 
-!!! question Notions de limites
+!!! question "Notions de limites :"
     ===  "Exercices  :"
         N°17-20-21 p176
     ===  "Corrigé :"
