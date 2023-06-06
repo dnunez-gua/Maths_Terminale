@@ -9,7 +9,7 @@
     A page 162 <br>
     B page 162
 
-!!! question "Notions de limites :"
+!!! question "Recherche de limites :"
     ===  "Exercices  :"
         N°17 p176 (5 minutes)<br>
         N°20 p176 (5 minutes)<br>
@@ -17,4 +17,14 @@
         
     ===  "Corrigé :"
         A venir
+        
+ !!! question "Formalisme des limites"
+     === "Exercices :"
+         N°38 p178
+     === "Indice :"
+         Pour $m$ donné, il faut résoudre l'inéquation $f(x)>m$
+     === "Corrigé :"
+         A venir
+         
+    
 
