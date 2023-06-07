@@ -21,7 +21,7 @@
       
 !!! question "Formalisme des limites :"
     === "Exercices :"
-        N°38 p178
+        N°38 p178 (15 minutes)
     === "Indice :"
         Pour $A$ donné, il faut résoudre l'inéquation $f(x)>A$
     === "Corrigé :"
