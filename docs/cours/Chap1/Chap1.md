@@ -29,9 +29,9 @@
        <br>
 !!! question "Opérations sur les limites :"
     === "Exercices :"
-        N°24 p177 (7 minutes)
-        N°25 p177 (7 minutes)
-        N°26 p177 (7 minutes)
+        N°24 p177 (7 minutes)<br>
+        N°25 p177 (7 minutes)<br>
+        N°26 p177 (7 minutes)<br>
     === "Indice :"
         Utiliser les formules du cours
     === "Corrigé :"
