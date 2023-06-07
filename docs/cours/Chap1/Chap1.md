@@ -17,14 +17,14 @@
         
     ===  "Corrigé :"
         A venir
-        
- !!! question "Formalisme des limites"
-     === "Exercices :"
-         N°38 p178
-     === "Indice :"
-         Pour $m$ donné, il faut résoudre l'inéquation $f(x)>m$
-     === "Corrigé :"
-         A venir
+      
+!!! question "Formalisme des limites"
+    === "Exercices :"
+        N°38 p178
+    === "Indice :"
+        Pour $A$ donné, il faut résoudre l'inéquation $f(x)>A$
+    === "Corrigé :"
+        A venir
          
     
 
