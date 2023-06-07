@@ -17,8 +17,9 @@
         
     ===  "Corrigé :"
         A venir
+        <br>
       
-!!! question "Formalisme des limites"
+!!! question "Formalisme des limites :"
     === "Exercices :"
         N°38 p178
     === "Indice :"
