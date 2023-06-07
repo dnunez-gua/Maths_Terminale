@@ -26,6 +26,16 @@
         Pour $A$ donné, il faut résoudre l'inéquation $f(x)>A$
     === "Corrigé :"
         A venir
-         
+       <br>
+!!! question "Opérations sur les limites :"
+    === "Exercices :"
+        N°24 p177 (7 minutes)
+        N°25 p177 (7 minutes)
+        N°26 p177 (7 minutes)
+    === "Indice :"
+        Utiliser les formules du cours
+    === "Corrigé :"
+        A venir       
+       
     
 
