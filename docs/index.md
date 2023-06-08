@@ -4,9 +4,12 @@ Ceci est la page d'accueil du travail fait en spécialité maths de Terminales
 ## Lien vers le manuel 
 > [Livre scolaire](https://fr.calameo.com/read/000596729efdd44af7a7c?authid=P1QQmK1VcS5r "Livre Maths")
 
-## progression de l'année
+## Progression de l'année
 
 > [progression](./Progression_2022-eleves.pdf)
+
+## Chapitres
+> [Chapitres](./chap.md)
 
 ## Conseils pour travailler les mathématiques
  Les documents suivants viennent du site [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN"), les cours de mathématiques sont faits par Paul MILAN :
