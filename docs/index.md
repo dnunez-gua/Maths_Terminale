@@ -9,7 +9,7 @@ Ceci est la page d'accueil du travail fait en spécialité maths de Terminales
 > [progression](./Progression_2022-eleves.pdf)
 
 ## Chapitres
-> [Chapitres](./chap.md)
+> [Chapitres](./Chap.md)
 
 ## Conseils pour travailler les mathématiques
  Les documents suivants viennent du site [lycée pour adultes](https://www.lyceedadultes.fr/ "Paul MILAN"), les cours de mathématiques sont faits par Paul MILAN :
