@@ -53,12 +53,13 @@ theme:
     features:
         - navigation.instant
         - navigation.tabs
-        - navigation.expand
+      #  - navigation.expand 
         - navigation.top
         - toc.integrate
         - header.autohide
 
 
+        
 markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
     # extensions de la bibliothèque markdown standard
     - abbr # infobulles sur abbréviations 
