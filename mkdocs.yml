@@ -1,7 +1,7 @@
 # Fichier de configuration du site à personnaliser
 
 # Informations du site 
-site_name: SNT
+site_name: Maths Terminales
 site_description: Support de cours
 site_author: "Delphine NUNEZ" 
 copyright: Document partagé par <a href="https://github.com/dnunez-gua" target="_blank">Delphine NUNEZ </a> &copy; 2022 sous licence <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.fr" target="_blank">CC BY-NC-SA 4.0</a>
@@ -19,7 +19,6 @@ docs_dir: docs
 # Menu de navigation
 nav: 
     - Spécialité Maths : index.md
-    - Chapitres : chap.md
     - Maths Expertes : mathexp.md
 
 
