@@ -33,7 +33,8 @@
         N°25 p177 (7 minutes)<br>
         N°26 p177 (7 minutes)<br>
     === "Indice :"
-        Utiliser les formules du cours
+        Utiliser les formules du cours <br>
+        Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
     === "Corrigé :"
         A venir       
        
