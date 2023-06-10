@@ -1,7 +1,9 @@
+---
 hide:
     - navigation
     - toc
-    
+ 
+ ---    
 Ceci est la page d'accueil du travail fait en spécialité maths de Terminales
 
 ## Lien vers le manuel 
