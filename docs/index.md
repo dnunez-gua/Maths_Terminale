@@ -1,9 +1,4 @@
----
-hide:
-    - navigation
-    - toc
----    
-Ceci est la page d'accueil du travail fait en spécialité maths de Terminales
+ Ceci est la page d'accueil du travail fait en spécialité maths de Terminales
 
 ## Lien vers le manuel 
 > [Livre scolaire](https://fr.calameo.com/read/000596729efdd44af7a7c?authid=P1QQmK1VcS5r "Livre Maths")
