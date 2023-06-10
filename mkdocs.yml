@@ -56,7 +56,8 @@ theme:
         # - navigation.tabs.sticky # Menu de navigation horizontal collant
         - navigation.top # bouton pour remonter tout en haut de la page
         - toc.integrate # Table Of Content, table des matières intégrée dans la barre verticale de navigation
-        - header.autohide # masquage automatique de l'en tête du site lorsque l'on descend dans la page        
+        - header.autohide # masquage automatique de l'en tête du site lorsque l'on descend dans la page   
+        - navigation.indexes
 
 ### Configuration des extensions MarkDown :        
 markdown_extensions: # https://squidfunk.github.io/mkdocs-material/reference/abbreviations/
