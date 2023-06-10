@@ -58,9 +58,9 @@ theme:
         - toc.integrate # Table Of Content, table des matières intégrée dans la barre verticale de navigation
         - header.autohide # masquage automatique de l'en tête du site lorsque l'on descend dans la page   
         - navigation.indexes
-    hide:
-        - navigation
-        - toc
+hide:
+    - navigation
+    - toc
     
 
 ### Configuration des extensions MarkDown :        
