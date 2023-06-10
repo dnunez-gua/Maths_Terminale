@@ -31,6 +31,7 @@ theme:
     custom_dir: overrides
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
+    logo: Images/IMG_0650.png
     icon:
       logo: fontawesome/solid/code
 
