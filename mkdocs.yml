@@ -18,8 +18,8 @@ docs_dir: docs
 
 # Menu de navigation
 nav: 
-    - Spécialité Maths : index.md
-    - Maths Expertes : mathexp.md
+- Spécialité Maths : index.md
+- Maths Expertes : mathexp.md
 
 
     # Référencer vos autres pages ci-dessus...
