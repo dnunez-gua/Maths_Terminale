@@ -25,30 +25,30 @@ nav:
 
 
     # Référencer vos autres pages ci-dessus...
+# Définition du thème https://squidfunk.github.io/mkdocs-material/creating-your-site/
 theme:
-    name: material # autres thèmes : https://github.com/mkdocs/mkdocs/wiki/MkDocs-Themes
-    custom_dir: overrides #  
+    name: material
+    custom_dir: overrides
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
-    logo: images/LogoIO.png # image qui apparait dans l'en tête à gauche du titre de la page
-    # et qui est support du lien qui renvoie à la racine du site depuis toutes les pages
-    favicon: images/LogoIO-pink.png # image qui apparait dans l'onglet du navigateur avant le titre du site
-    # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
     icon:
-      repo: fontawesome/brands/github-alt # modifie l'icône du lien vers le dépot du projet de l'en tête
-    palette: 
+      logo: fontawesome/solid/code
+
+    palette: # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
       - scheme: default # nom du thème clair
-        primary: pink # couleur primaire des titres, des liens, ..., à prendre dans la liste
-        accent: cyan # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
+        primary: lime # couleur primaire des titres, des liens, ..., à prendre dans la liste
+        accent: amber # couleur d'accentuation au survol des boutons, desliens, ..., à prendre dans la liste
         toggle: # définition du bouton pour switcher de palette
           icon: material/weather-sunny # apparence
           name: Basculer en mode sombre # message
       - scheme: slate # nom du thème sombre
-        primary: cyan
-        accent: pink
+        primary: amber
+        accent: lime
         toggle:
           icon: material/weather-night
           name: Basculer en mode clair
+          
+          
     # Configuration du comportement de la navigation, cf : https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
     features: 
         - navigation.instant # active XHR https://fr.wikipedia.org/wiki/XMLHttpRequest
