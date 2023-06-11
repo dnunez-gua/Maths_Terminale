@@ -2,7 +2,7 @@
 
 ## Cours 
 
-[cours Chap1](./Cours-Chap1.pdf)
+[cours Chap1](./Cours-Chap1.pdf){:target="_blank"}
 
 ### Démonstration du chapitre 1
 !!! attention "Démonstration de la limite de $e^x$"
