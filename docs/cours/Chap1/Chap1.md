@@ -4,6 +4,9 @@
 
 [cours Chap1](./Cours-Chap1.pdf)
 
+### Démonstration du chapitre 1
+!!! attention "Démonstration de la limite de $e^x$
+    démonstration à venir
 ## Exercices 
 !!! example "Activités :" 
     A page 162 <br>
