@@ -6,10 +6,18 @@
 
 ### Démonstration du chapitre 1
 !!! attention "Démonstration de la limite de $e^x$"
-    
-    Pré-requis : théorème de comparaison <br>
-    Soit la fonction $g$ définie sur $\mathbb{R}$ par $g(x)=e^x-x$ <br>
-    $g$ est dérivable sur $\matbb{R}$ et $g'(x)=e^x-1$ 
+    === Propriété
+        $$\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$$
+    === Démonstration
+        Pré-requis : théorème de comparaison <br>
+        Soit la fonction $g$ définie sur $\mathbb{R}$ par $g(x)=e^x-x$ <br>
+        $g$ est dérivable sur $\mathbb{R}$ et $g'(x)=e^x-1$ <br>
+        $g'(x)>0 \Leftrightarrow x>0$. <br>
+        $g$ admet donc un minimum en 0 qui vaut $g(0)=0$. Donc $g(x)>0$ pour tout $x\in \mathbb{R}$<br>
+        Donc pour tout réel $x$, $e^x>x$
+        Par comparaison        
+        $$\displaystyle\lim_{x \to +\infty} {e^x}>\displaystyle\lim_{x \to +\infty} {x}=$$
+        donc         $$\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$$
 ## Exercices 
 !!! example "Activités :" 
     A page 162 <br>
