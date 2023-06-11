@@ -6,7 +6,10 @@
 
 ### Démonstration du chapitre 1
 !!! attention "Démonstration de la limite de $e^x$"
-    Démonstration à venir
+    
+    Pré-requis : théorème de comparaison <br>
+    Soit la fonction $g$ définie sur $\matbb{R}$ par $g(x)=\e^x-x$ <br>
+    $g$ est dérivable sur $\matbb{R}$ et $g'(x)=\e^x-1$ 
 ## Exercices 
 !!! example "Activités :" 
     A page 162 <br>
