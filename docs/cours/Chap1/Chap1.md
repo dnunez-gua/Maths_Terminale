@@ -6,9 +6,10 @@
 
 ### Démonstration du chapitre 1
 !!! attention "Démonstration de la limite de $e^x$"
-    === Propriété
+    ===  "Propriété : "
         $$\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$$
-    === Démonstration
+    
+    ===  "Démonstration :"
         Pré-requis : théorème de comparaison <br>
         Soit la fonction $g$ définie sur $\mathbb{R}$ par $g(x)=e^x-x$ <br>
         $g$ est dérivable sur $\mathbb{R}$ et $g'(x)=e^x-1$ <br>
