@@ -109,6 +109,8 @@ plugins:
 
 
 extra:
+  feature:
+    tabs: true
   social: # A personaliser...
     - icon: fontawesome/solid/paper-plane
       link: mailto:delphine.nunez@ecmorlaix.fr
