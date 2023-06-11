@@ -52,7 +52,6 @@ theme:
           
     # Configuration du comportement de la navigation, cf : https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/
     features: 
-        tabs: true
         - navigation.instant # active XHR https://fr.wikipedia.org/wiki/XMLHttpRequest
         # - navigation.tabs # Menu de navigation horizontal sous l'en-tête sauf sur appareil mobile
         # - navigation.tabs.sticky # Menu de navigation horizontal collant
