@@ -16,7 +16,7 @@
         $g$ admet donc un minimum en 0 qui vaut $g(0)=0$. Donc $g(x)>0$ pour tout $x\in \mathbb{R}$<br>
         Donc pour tout réel $x$, $e^x>x$
         Par comparaison        
-        $$\displaystyle\lim_{x \to +\infty} {e^x}>\displaystyle\lim_{x \to +\infty} {x}=$$
+        $$\displaystyle\lim_{x \to +\infty} {e^x}>\displaystyle\lim_{x \to +\infty} {x}$$
         donc         $$\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$$
 ## Exercices 
 !!! example "Activités :" 
