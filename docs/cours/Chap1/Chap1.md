@@ -27,7 +27,7 @@
     ===  "Démonstration :"
         **Pré-requis : limite en $+\infty$ et composition de limite** <br>
         $\displaystyle\lim_{x \to -\infty} {e^x}=\displaystyle\lim_{x \to +\infty} {e^-x}$<br>
-        $=\displaystyle\lim_{x \to +\infty} frac 1 {e^x}=0$
+        $=\displaystyle\lim_{x \to +\infty} \frac{1}{e^x}=0$
 
 
 ## Exercices 
