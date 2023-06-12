@@ -5,7 +5,7 @@
 [cours Chap1](./Cours-Chap1.pdf){:target="_blank"}
 
 ### Démonstration du chapitre 1
-!!! attention "Démonstration de la limite de $e^x$"
+!!! attention "Démonstration de la limite de $e^x$ en $+\infty$"
     ===  "Propriété : "
         $$\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$$
     
@@ -19,6 +19,17 @@
         Par comparaison: 
         $\displaystyle\lim_{x \to +\infty} {e^x}>\displaystyle\lim_{x \to +\infty} {x}$ <br>
         donc         $\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$
+       
+!!! attention  "Démonstration de la limite de $e^x$ en $-\infty$"  
+    ===  "Propriété : "
+        $$\displaystyle\lim_{x \to -\infty} {e^x}=0$$
+    
+    ===  "Démonstration :"
+        **Pré-requis : limite en $+\infty$ et composition de limite**
+        $\displaystyle\lim_{x \to -\infty} {e^x}=$\displaystyle\lim_{x \to +\infty} {e^-x}$<br>
+        $=$\displaystyle\lim_{x \to +\infty} frac{1}{e^x}=0$
+
+
 ## Exercices 
 !!! example "Activités :" 
     A page 162 <br>
