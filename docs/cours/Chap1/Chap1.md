@@ -14,7 +14,7 @@
         Soit la fonction $g$ définie sur $\mathbb{R}$ par $g(x)=e^x-x$ <br>
         $g$ est dérivable sur $\mathbb{R}$ et $g'(x)=e^x-1$ <br>
         $g'(x)>0 \Leftrightarrow x>0$. <br>
-        $g$ admet donc un minimum en 0 qui vaut $g(0)=0$. Donc $g(x)>0$ pour tout $x\in \mathbb{R}$<br>
+        $g$ admet donc un minimum en 0 qui vaut $g(0)=1$. Donc $g(x)>0$ pour tout $x\in \mathbb{R}$<br>
         Donc pour tout réel $x$, $e^x>x$ <br>
         Par comparaison: 
         $\displaystyle\lim_{x \to +\infty} {e^x}>\displaystyle\lim_{x \to +\infty} {x}$ <br>
@@ -30,14 +30,19 @@
         $=\displaystyle\lim_{x \to +\infty} \frac{1}{e^x}=0$
 
 !!! attention "Démonstration du théorème des croissances comparées"
-    === "Théorème 1: $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x^n}$"
-        A venir
+    === "Théorème 1: "
+        $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x^n}=+\infty$
         
     === "Démonstration 1"
-        A venir
+        **Cas n=1**<br>
+        Soit la fonction $g$ définie sur $\mathbb{R}$ par $g(x)=e^x-\frac{x^2}{2}$ <br>
+        $g$ est dérivable sur $\mathbb{R}$ et $g'(x)=e^x-x$ <br>
+        On a montré dans la démonstration de la limite de $e^x$ que $g'(x)>0$ donc $g$ est croissante sur $\mathbb{R}$.<br>
+        donc $\forall x>0$, on a $g(x)>g(0) \Leftrightarrow g(x)>1>0$ donc $e^x>\frac{x^2}{2} \Rightarrow \frac{e^x}{x}>\frac{x}{2}<br>
+        Par comparaison, comme $\displaystyle\lim_{x \to +\infty} \frac{x}{2}=+\infty$ alors $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x^n}=+\infty$
         
-    === "Théorème 2 : $\displaystyle\lim_{x \to -\infty} {x^n e^x}$"
-        A venir
+    === "Théorème 2 : "
+        $\displaystyle\lim_{x \to -\infty} {x^n e^x}=0$
         
     === "Démonstration 2"
         A venir
