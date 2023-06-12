@@ -4,7 +4,7 @@
 
 [cours Chap1](./Cours-Chap1.pdf){:target="_blank"}
 
-### Démonstration du chapitre 1
+### Démonstrations du chapitre 1
 !!! attention "Démonstration de la limite de $e^x$ en $+\infty$"
     ===  "Propriété : "
         $$\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$$
