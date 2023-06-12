@@ -26,10 +26,22 @@
     
     ===  "Démonstration :"
         **Pré-requis : limite en $+\infty$ et composition de limite** <br>
-        $\displaystyle\lim_{x \to -\infty} {e^x}=\displaystyle\lim_{x \to +\infty} {e^-x}$<br>
+        $\displaystyle\lim_{x \to -\infty} {e^x}=\displaystyle\lim_{x \to +\infty} {e^{-x}}$<br>
         $=\displaystyle\lim_{x \to +\infty} \frac{1}{e^x}=0$
 
-
+!!! attention "Démonstration du théorème des croissances comparées"
+    === "Théorème 1: $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x^n}$"
+        A venir
+        
+    === "Démonstration 1"
+        A venir
+        
+    === "Théorème 2 : $\displaystyle\lim_{x \to -\infty} {x^n e^x}$"
+        A venir
+        
+    === "Démonstration 2"
+        A venir
+        
 ## Exercices 
 !!! example "Activités :" 
     A page 162 <br>
