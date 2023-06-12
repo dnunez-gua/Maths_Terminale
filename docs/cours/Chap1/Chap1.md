@@ -10,7 +10,7 @@
         $$\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$$
     
     ===  "Démonstration :"
-        Pré-requis : théorème de comparaison <br>
+        **Pré-requis : théorème de comparaison** <br>
         Soit la fonction $g$ définie sur $\mathbb{R}$ par $g(x)=e^x-x$ <br>
         $g$ est dérivable sur $\mathbb{R}$ et $g'(x)=e^x-1$ <br>
         $g'(x)>0 \Leftrightarrow x>0$. <br>
