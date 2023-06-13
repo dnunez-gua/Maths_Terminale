@@ -43,7 +43,8 @@
         
         **Cas $n\geq 1$** <br>
         
-        $\frac{e^x}{x^n}=(\frac{e^{\frac{x}{n}}{\frac{x}{n}})^n$<br>
+        $\frac{e^x}{x^n}=$<br>
+        (\frac{e^{x}{\frac{x}{n}})^n$<br>
         $\times(\frac{1}{n})^n$<br>
         Posons $X=\frac{x}{n}$ alors $(\frac{e^{\frac{x}{n}}{\frac{x}{n}})^n\times(\frac{1}{n})^n=(\frac{e^X}{X})^n\times(\frac{1}{n})^n$. <br>
         On a $\displaystyle\lim_{x \to +\infty}X=+\infty$ et on a vu que $\displaystyle\lim_{X \to +\infty} \frac{e^X}{X}=+\infty$ donc par produit $\displaystyle\lim_{X \to +\infty} \frac{e^X}{X}\times(\frac{1}{n})^n=+\infty$ <br>
