@@ -42,7 +42,6 @@
         Par comparaison, comme $\displaystyle\lim_{x \to +\infty} \frac{x}{2}=+\infty$ alors $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x}=+\infty$ <br>
         
         **Cas $n\geq 1$** <br>
-        
         $\frac{e^x}{x^n}=$<br>
         $(\frac{e^{x}}{\frac{x}{n}})^n$<br>
         $\times(\frac{1}{n})^n$<br>
