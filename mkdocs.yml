@@ -31,7 +31,7 @@ theme:
     custom_dir: overrides
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
-    logo: Images/Pi_v2 2023-06-13 16_30_41.svg
+    logo: Images/Pi_x.svg
     icon:
       logo: fontawesome/solid/code
 
