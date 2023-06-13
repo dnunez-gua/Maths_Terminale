@@ -35,7 +35,7 @@
         
     === "Démonstration 1"
         **Pré-requis : Opérations sur les limites, composition de limites, théorème des gendarmes**<br>
-        **Cas n=1**<br>
+        **Cas $n=1$**<br>
         Soit la fonction $g$ définie sur $\mathbb{R}$ par $g(x)=e^x-\frac{x^2}{2}$ <br>
         $g$ est dérivable sur $\mathbb{R}$ et $g'(x)=e^x-x$ <br>
         On a montré dans la démonstration de la limite de $e^x$ que $g'(x)>0$ donc $g$ est croissante sur $\mathbb{R}$.<br>
