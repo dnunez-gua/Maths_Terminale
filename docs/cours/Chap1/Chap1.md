@@ -18,7 +18,7 @@
         Donc pour tout réel $x$, $e^x>x$ <br>
         Par comparaison: 
         $\displaystyle\lim_{x \to +\infty} {e^x}>\displaystyle\lim_{x \to +\infty} {x}$ <br>
-        donc         $\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$
+        donc         $\displaystyle\lim_{x \to +\infty} {e^x}=+\infty$ **CQFD**
        
 !!! attention  "Démonstration de la limite de $e^x$ en $-\infty$"  
     ===  "Propriété : "
@@ -27,7 +27,7 @@
     ===  "Démonstration :"
         **Pré-requis : limite en $+\infty$ et composition de limite** <br>
         $\displaystyle\lim_{x \to -\infty} {e^x}=\displaystyle\lim_{x \to +\infty} {e^{-x}}$<br>
-        $=\displaystyle\lim_{x \to +\infty} \frac{1}{e^x}=0$
+        $=\displaystyle\lim_{x \to +\infty} \frac{1}{e^x}=0$ **CQFD**
 
 !!! attention "Démonstration du théorème des croissances comparées"
     === "Théorème 1: "
@@ -39,13 +39,28 @@
         $g$ est dérivable sur $\mathbb{R}$ et $g'(x)=e^x-x$ <br>
         On a montré dans la démonstration de la limite de $e^x$ que $g'(x)>0$ donc $g$ est croissante sur $\mathbb{R}$.<br>
         donc $\forall x>0$, on a $g(x)>g(0) \Leftrightarrow g(x)>1>0$ donc $e^x>\frac{x^2}{2} \Rightarrow \frac{e^x}{x}>\frac{x}{2}$<br>
-        Par comparaison, comme $\displaystyle\lim_{x \to +\infty} \frac{x}{2}=+\infty$ alors $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x}=+\infty$
+        Par comparaison, comme $\displaystyle\lim_{x \to +\infty} \frac{x}{2}=+\infty$ alors $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x}=+\infty$ <br>
+        
+        **Cas n\geq 1** <br>
+        $\frac{e^x}{x^n}=(\frac{e^{\frac{x}{n}}{\frac{x}{n}})^n\times(\frac{1}{n})^n$<br>
+        Posons $X=\frac{x}{n}$ alors $(\frac{e^{\frac{x}{n}}{\frac{x}{n}})^n\times(\frac{1}{n})^n=(\frac{e^X}{X})^n\times(\frac{1}{n})^n$. <br>
+        On a $\displaystyle\lim_{x \to +\infty}X=+\infty$ et on a vu que $\displaystyle\lim_{X \to +\infty} \frac{e^X}{X}=+\infty$ donc par produit $\displaystyle\lim_{X \to +\infty} \frac{e^X}{X}\times(\frac{1}{n})^n=+\infty$ <br>
+        Et par composition on a         $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x^n}=+\infty$
+      
+
+        
+        
+        **CQFD**
         
     === "Théorème 2 : "
         $\displaystyle\lim_{x \to -\infty} {x^n e^x}=0$
         
     === "Démonstration 2"
-        A venir
+        **Pré-requis : Théorème 1**<br>
+        $x^n e^x=\frac{x^n}{e^{-x}}$ <br>
+        $\displaystyle\lim_{x \to -\infty} {x^n e^x}=\displaystyle\lim_{x \to -\infty}\frac{x^n}{e^{-x}}=\displaystyle\lim_{x \to +\infty}\frac{(-x)^n}{e^{x}}=\displaystyle\lim_{x \to +\infty}(-1)^n\frac{(x^n}{e^{x}}$<br>
+        On sait que $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x}=+\infty$ donc par inverse, $\displaystyle\lim_{x \to +\infty}(-1)^n\frac{(x^n}{e^{x}}=0$. De plus, $-1\leq (-1)^n\leq 1$ donc par produit $\displaystyle\lim_{x \to +\infty}(-1)^n\frac{(x^n}{e^{x}}=0$ **CQFD**
+      
         
 ## Exercices 
 !!! example "Activités :" 
