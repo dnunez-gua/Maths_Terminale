@@ -34,7 +34,7 @@
         $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x^n}=+\infty$
         
     === "Démonstration 1"
-        **Pré-requis** Opérations sur les limites, composition de limites, théorème des gendarmes**<br>
+        **Pré-requis : Opérations sur les limites, composition de limites, théorème des gendarmes**<br>
         **Cas n=1**<br>
         Soit la fonction $g$ définie sur $\mathbb{R}$ par $g(x)=e^x-\frac{x^2}{2}$ <br>
         $g$ est dérivable sur $\mathbb{R}$ et $g'(x)=e^x-x$ <br>
@@ -53,7 +53,7 @@
         $\displaystyle\lim_{x \to -\infty} {x^n e^x}=0$
         
     === "Démonstration 2"
-        **Pré-requis : Théorème 1**<br>
+        **Pré-requis : Théorème 1, opérations sur les limites, composition de limites, théorème des gendarmes**<br>
         $x^n e^x=\frac{x^n}{e^{-x}}$ <br>
         $\displaystyle\lim_{x \to -\infty} {x^n e^x}=\displaystyle\lim_{x \to -\infty}\frac{x^n}{e^{-x}}=\displaystyle\lim_{x \to +\infty}\frac{(-x)^n}{e^{x}}=\displaystyle\lim_{x \to +\infty}(-1)^n\frac{x^n}{e^{x}}$<br>
         On sait que $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x}=+\infty$ donc par inverse, $\displaystyle\lim_{x \to +\infty}\frac{x^n}{e^{x}}=0$. De plus, $-1\leq (-1)^n\leq 1$ donc $-\frac{x^n}{e^{x}}<(-1)^n\frac{x^n}{e^{x}}<\frac{x^n}{e^{x}}$ par produit $\displaystyle\lim_{x \to +\infty}-\frac{x^n}{e^{x}}=\displaystyle\lim_{x \to +\infty}\frac{x^n}{e^{x}}=0$<br>
