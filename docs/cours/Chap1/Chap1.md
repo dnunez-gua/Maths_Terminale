@@ -56,7 +56,7 @@
         **Pré-requis : Théorème 1**<br>
         $x^n e^x=\frac{x^n}{e^{-x}}$ <br>
         $\displaystyle\lim_{x \to -\infty} {x^n e^x}=\displaystyle\lim_{x \to -\infty}\frac{x^n}{e^{-x}}=\displaystyle\lim_{x \to +\infty}\frac{(-x)^n}{e^{x}}=\displaystyle\lim_{x \to +\infty}(-1)^n\frac{x^n}{e^{x}}$<br>
-        On sait que $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x}=+\infty$ donc par inverse, $\displaystyle\lim_{x \to +\infty}(-1)^n\frac{x^n}{e^{x}}=0$. De plus, $-1\leq (-1)^n\leq 1$ donc $-\frac{x^n}{e^{x}}<(-1)^n\frac{x^n}{e^{x}}<\frac{x^n}{e^{x}}$ par produit $\displaystyle\lim_{x \to +\infty}-\frac{x^n}{e^{x}}=\displaystyle\lim_{x \to +\infty}\frac{x^n}{e^{x}}=0$<br>
+        On sait que $\displaystyle\lim_{x \to +\infty} \frac{e^x}{x}=+\infty$ donc par inverse, $\displaystyle\lim_{x \to +\infty}\frac{x^n}{e^{x}}=0$. De plus, $-1\leq (-1)^n\leq 1$ donc $-\frac{x^n}{e^{x}}<(-1)^n\frac{x^n}{e^{x}}<\frac{x^n}{e^{x}}$ par produit $\displaystyle\lim_{x \to +\infty}-\frac{x^n}{e^{x}}=\displaystyle\lim_{x \to +\infty}\frac{x^n}{e^{x}}=0$<br>
         Donc par le théorème des gendarmes         $\displaystyle\lim_{x \to -\infty} {x^n e^x}=0$ **CQFD**
       
         
