@@ -1,9 +1,14 @@
 # Chapitre 1 - Limites de fonctions
 ## Progression
 ??? info "Plan de travail"
-    **Séance 1 :** Presentation de la specialité <br>
-    Notion de limite : Activites en classe <br>
-    **Séance 2 :**
+    === "Séances"
+        **Séance 1 :** Presentation de la specialité <br>
+        Notion de limite : Activites en classe <br>
+        **Séance 2 :**
+
+   === "A faire"
+       **Seance 1** Etudier la partie 2.1 du cours sauf les démonstrations
+    
 ## Cours 
 
 [cours Chap1](./Cours-Chap1.pdf){:target="_blank"}
