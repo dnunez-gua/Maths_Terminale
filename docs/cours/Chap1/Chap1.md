@@ -7,7 +7,7 @@
         **Séance 2 :**
         
     === "A faire"
-       **Seance 1** Etudier la partie 2.1 du cours sauf les démonstrations
+        **Seance 1** Etudier la partie 2.1 du cours sauf les démonstrations
     
 ## Cours 
 
