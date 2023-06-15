@@ -2,7 +2,7 @@
 ## Progression
 ??? info "Plan de travail"
     **Séance 1 :** Presentation de la specialité <br>
-    Notion de limite : Activites en classe
+    Notion de limite : Activites en classe <br>
     **Séance 2 :**
 ## Cours 
 
