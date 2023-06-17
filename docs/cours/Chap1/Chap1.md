@@ -5,14 +5,14 @@
         **Séance 1 :** Presentation de la specialité <br>
         Notion de limite : Activites en classe <br>
         **Séance 2 :** Recherche de limites - formalisme- Démonstration du cours<br>
-        **Séance 3 :** Opérations sur les limites
-        **Séance 4 :** Formes indéterminées
-        **Séance 5 :** Comparaisons - Théorème des gendarmes
+        **Séance 3 :** Opérations sur les limites<br>
+        **Séance 4 :** Formes indéterminées<br>
+        **Séance 5 :** Comparaisons - Théorème des gendarmes<br>
         **Séance 6 :** Croissances comparées
         
     === "A faire"
-        **Seance 1 :** Etudier la partie 2.1 du cours sauf les démonstrations
-        **Séance 3 :** Exercices 2 à 10 dans le cours - Etudier la page 9
+        **Seance 1 :** Etudier la partie 2.1 du cours sauf les démonstrations<br>
+        **Séance 3 :** Exercices 2 à 10 dans le cours - Etudier la page 9<br>
         **Séance 4 :** Exercices 11 à 14 dans le cours
         
     === "Evaluation"
@@ -117,12 +117,30 @@
     === "Exercices :"
         N°27 p177 (10 minutes)<br>
         N°28 p177 (10 minutes)<br>
-        N°26 p177 (7 minutes)<br>
     === "Indice :"
         Utiliser les méthodes vues page 9 du cours
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
     === "Corrigé :"
         A venir       
-       
-    
+
+
+!!! question "Comparaisons - Théorème des gendarmes :"
+    === "Exercices :"
+        N°75 p183 (7 minutes)<br>
+        N°77 p183 (12 minutes)<br>
+        N°80 p183 (12 minutes)
+    === "Indice :"
+        Cours + les méthodes vues page 9 du cours (Ex 80)
+        Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
+    === "Corrigé :"
+        A venir       
+
+!!! question "Théorèmes des croissances comparées :"
+    === "Exercices :"
+        N°84 p183 (10 minutes)<br>
+    === "Indice :"
+        Cours
+        Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
+    === "Corrigé :"
+        A venir       
 
