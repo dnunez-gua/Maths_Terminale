@@ -10,6 +10,7 @@
         
     === "A faire"
         **Seance 1** Etudier la partie 2.1 du cours sauf les démonstrations
+        **Séance 3** Exercices dans le cours 
     
 ## Cours 
 
