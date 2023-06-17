@@ -1,16 +1,22 @@
 # Chapitre 1 - Limites de fonctions
 ## Progression
-??? info "Plan de travail"
+??? info "Plan de travail - 6 Séances"
     === "Séances"
         **Séance 1 :** Presentation de la specialité <br>
         Notion de limite : Activites en classe <br>
-        **Séance 2 :** Recherche de limites - formalisme<br>
+        **Séance 2 :** Recherche de limites - formalisme- Démonstration du cours<br>
         **Séance 3 :** Opérations sur les limites
-    
+        **Séance 4 :** Formes indéterminées
+        **Séance 5 :** Comparaisons - Théorème des gendarmes
+        **Séance 6 :** Croissances comparées
         
     === "A faire"
-        **Seance 1** Etudier la partie 2.1 du cours sauf les démonstrations
-        **Séance 3** Exercices dans le cours 
+        **Seance 1 :** Etudier la partie 2.1 du cours sauf les démonstrations
+        **Séance 3 :** Exercices 2 à 10 dans le cours - Etudier la page 9
+        **Séance 4 :** Exercices 11 à 14 dans le cours
+        
+    === "Evaluation"
+        Semaine du 18 septembre
     
 ## Cours 
 
