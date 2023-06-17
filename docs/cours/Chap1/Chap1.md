@@ -106,8 +106,20 @@
         N°24 p177 (7 minutes)<br>
         N°25 p177 (7 minutes)<br>
         N°26 p177 (7 minutes)<br>
+        N°54 p180 (10 minutes)
     === "Indice :"
         Utiliser les formules du cours <br>
+        Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
+    === "Corrigé :"
+        A venir       
+
+!!! question "Formes Indéterminées :"
+    === "Exercices :"
+        N°27 p177 (10 minutes)<br>
+        N°28 p177 (10 minutes)<br>
+        N°26 p177 (7 minutes)<br>
+    === "Indice :"
+        Utiliser les méthodes vues page 9 du cours
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
     === "Corrigé :"
         A venir       
