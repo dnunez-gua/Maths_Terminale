@@ -3,5 +3,5 @@
 ## Progression
 
 ## Cours 
-(cours Chap2)[./cours-Chap2.pdf)
+(cours Chap2)[./Cours-chap2.pdf)
 ## Exercices 
