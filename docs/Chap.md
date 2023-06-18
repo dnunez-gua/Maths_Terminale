@@ -1,9 +1,8 @@
 # Chapitres  
 ### Chapitre 1 - Limites de fonction
-[limites de fonctions](./cours/Chap1/Chap1.md)
+[Limites de fonctions](./cours/Chap1/Chap1.md)
 ### Chapitre 2- Suites numériques
-??? info "Cours "
-    Le cours : [Chap 2](./cours/Chap2/Cours-chap2.pdf) 
+[Suites Numériques](./cours/Chap2/Chap2.md)
 
 ### Chapitre 3- Continuité de fonctions et Applications
 ??? info "Cours "
