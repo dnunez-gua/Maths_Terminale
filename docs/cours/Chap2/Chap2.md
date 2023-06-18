@@ -3,5 +3,5 @@
 ## Progression
 
 ## Cours 
-(cours Chap2)[./Cours-chap2.pdf)
+[cours Chap1](./Cours-chap2.pdf){:target="_blank"}
 ## Exercices 
