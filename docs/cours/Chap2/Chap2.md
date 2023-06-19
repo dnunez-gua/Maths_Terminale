@@ -1,7 +1,20 @@
 # Suites Numériques
 
 ## Progression
-
+??? info "Plan de travail - ... Séances"
+    === "Séances" 
+        **Séance 1 :** Pré-requis<br>
+        **Séance 2 :** Démonstration par récurrence <br>
+        **Séance 3 :** <br>
+        
+    === "A faire"
+        **Seance 1 :** Etudier les rappels de 1ere dans le cours - lien vers exercices et syntèse<br>
+        **Séance 3 :** Exercices 1 et 2 dans le cours <br>
+        **Séance 4 :** 
+    
+    === "Evaluation"
+        Semaine du 2 octobre
+    
 ## Cours 
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
 
