@@ -78,4 +78,7 @@
         N°54 p176 (15 minutes)<br>
     === "Correction :"
         A venir
-  
+
+  !!! question "Opérations sur les limites :"
+     === "Exercices :"
+         N°25 page 
