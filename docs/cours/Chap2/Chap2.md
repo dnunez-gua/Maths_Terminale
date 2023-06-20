@@ -90,8 +90,8 @@
 
 !!! question "Limites finies :"
     === "Exercices : "
-       N°51p148 (20 minutes)<br>
-       N°49p147 (20 minutes)
+        N°51p148 (20 minutes)<br>
+        N°49p147 (20 minutes)
     === "Correction : "
         A venir
 
