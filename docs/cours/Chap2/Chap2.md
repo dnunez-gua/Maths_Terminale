@@ -19,7 +19,20 @@
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
 
 ## Démonstration Chapitre 2
+!!! attention "Démonstration "
+    === "Propriété : "
+        Toute suite croissante non majorée diverge
 
+    ===  "Démonstration :"
+        Soit une suite $u_n$, une suite croissante et un réel A>0.<br>
+        $u_n$ est non majorée donc, il existe un rang $n_0$ tel que $u_{n_0}>A$<br>
+        $u_n$ est croissante donc pour tout $n>n_0$ on a $u_n>u_{n_0}$<br>
+        On a donc montré que pour A>0 donné, il existe $n_0$ telque pour tout $n>n_0$ on a $u_n>A$<br>
+        ce qui est la définition de <br>
+        $$\displaystyle{n\to +\infty}u_n=+\infty$$
+        
+        <br>
+        **CQFD**
 
 ## Exercices 
 
