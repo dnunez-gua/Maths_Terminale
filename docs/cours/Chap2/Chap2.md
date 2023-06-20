@@ -38,7 +38,7 @@
     === "Propriété : "
         Si $q>1$, alors $\displaystyle\lim_{n\to +\infty}{q^n}=+\infty$
     === "Pré-requis : "
-        - Inégalité de Bernouilli : $\forall a>0, \forall n\leq 0, (1+a)^n>1+na$ <br>
+        - Inégalité de Bernouilli : $\forall a>0, \forall n\geq 0, (1+a)^n>1+na$ <br>
         - Propriétés de comparaison
 
     ===  "Démonstration :"
