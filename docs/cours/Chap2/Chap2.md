@@ -79,6 +79,12 @@
     === "Correction :"
         A venir
 
-  !!! question "Opérations sur les limites :"
-     === "Exercices :"
-         N°25 page 
+!!! question "Opérations sur les limites :"
+    === "Exercices :"
+        N°25 page 145 (15 minutes) <br>
+        N°27 page 145 (15 minutes) <br>
+        N°31 page 145 (15 minutes) <br>
+    === "Correction : "
+        A venir
+
+        
