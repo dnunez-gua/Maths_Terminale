@@ -29,7 +29,7 @@
         $u_n$ est croissante donc pour tout $n>n_0$ on a $u_n>u_{n_0}$<br>
         On a donc montré que pour A>0 donné, il existe $n_0$ telque pour tout $n>n_0$ on a $u_n>A$<br>
         ce qui est la définition de <br>
-        $$\displaystyle\lim_{n\to +\infty}u_n=+\infty$$
+        $\displaystyle\lim_{n\to +\infty}{u_n}=+\infty$
         
         <br>
         **CQFD**
