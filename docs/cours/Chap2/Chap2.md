@@ -18,18 +18,35 @@
 ## Cours 
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
 
-## Démonstration Chapitre 2
+## Démonstrations Chapitre 2
 !!! attention "Démonstration "
     === "Propriété : "
         Toute suite croissante non majorée diverge
 
     ===  "Démonstration :"
-        Soit une suite $u_n$, une suite croissante et un réel A>0.<br>
+        Soit une suite $u_n$, une suite croissante et un réel $A>0$.<br>
         $u_n$ est non majorée donc, il existe un rang $n_0$ tel que $u_{n_0}>A$<br>
         $u_n$ est croissante donc pour tout $n>n_0$ on a $u_n>u_{n_0}$<br>
-        On a donc montré que pour A>0 donné, il existe $n_0$ telque pour tout $n>n_0$ on a $u_n>A$<br>
+        On a donc montré que pour A>0 donné, il existe $n_0$ tel que pour tout $n>n_0$ on a $u_n>A$<br>
         ce qui est la définition de <br>
         $\displaystyle\lim_{n\to +\infty}{u_n}=+\infty$
+        
+        <br>
+        **CQFD**
+
+!!! attention "Démonstration "
+    === "Propriété : "
+        Si $q>1$, alors $\displaystyle\lim_{n\to +\infty}{q^n}=+\infty$
+    === "Pré-requis : "
+        - Inégalité de Bernouilli : $\forall a>0, \forall n\leq 0, (1+a)^n>1+na$ <br>
+        - Propriétés de comparaison
+
+    ===  "Démonstration :"
+        $q>1$ donc il existe un réel $a>0$ tel que $q=1+a$ <br>
+        $q^n=(1+a)^n>1+na$ <br>
+        Or $\displaystyle \lim_{n\to +\infty}{1+na}=+\infty$ donc par comparaison <br>
+        $\displaystyle \lim_{n\to +\infty}{q^n}=+\infty$ 
+    
         
         <br>
         **CQFD**
