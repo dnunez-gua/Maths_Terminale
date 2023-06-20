@@ -36,11 +36,11 @@
 
 !!! attention "Démonstration "
     === " Théorème de comparaison :" 
-        "Toute suite majorée par une suite divergente, diverge
+        Toute suite majorée par une suite divergente, diverge
     === " Démonstration :"
         Soit deux suites $u_n$ et $v_n$ telles que à partir d'un rang $n_0$ on a $u_n\leq v_n$ <br>
-        On a $\displaystyle\lim_{n\to +\infty}{v_n}=+\infty$ donc pour $A>0$ réel donné, il existe $n_1>0$ tel que $\forall n>n_1$ on a $v_n>A$<br>
-        Donc pour tout $n>max(n_0,n_1)$ on a $u_n>v_n>A$ donc $\displaystyle\lim_{n\to +\infty}{u_n}=+\infty$
+        On a $\displaystyle\lim_{n\to +\infty}{u_n}=+\infty$ donc pour $A>0$ réel donné, il existe $n_1>0$ tel que $\forall n>n_1$ on a $u_n>A$<br>
+        Donc pour tout $n>max(n_0,n_1)$ on a $v_n>u_n>A$ donc $\displaystyle\lim_{n\to +\infty}{v_n}=+\infty$
         <br>
         **CQFD**
     
