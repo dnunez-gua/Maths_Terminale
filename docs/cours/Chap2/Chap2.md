@@ -13,6 +13,7 @@
         **Séance 4 :** 
     
     === "Evaluation"
+        DM : N°73 page 150 et N°105 page 159 <br>
         Semaine du 2 octobre
     
 ## Cours 
@@ -87,4 +88,16 @@
     === "Correction : "
         A venir
 
+!!! question "Limites finies :"
+    === "Exercices : "
+       N°51p148 (20 minutes)<br>
+       N°49p147 (20 minutes)
+    === "Correction : "
+        A venir
+
+!!! question "Problèmes : "
+    === "Exercices : "
+        N°94 p153 <br>
         
+    === "Correction : "
+        A venir
