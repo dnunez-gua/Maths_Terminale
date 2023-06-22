@@ -1,16 +1,19 @@
 # Suites Numériques
 
 ## Progression
-??? info "Plan de travail - ... Séances"
+??? info "Plan de travail - 7 Séances"
     === "Séances" 
         **Séance 1 :** Pré-requis<br>
         **Séance 2 :** Démonstration par récurrence <br>
-        **Séance 3 :** <br>
-        
+        **Séance 3 :** Opérations sur les limites<br>
+        **Séance 4 :** Démonstrations <br>
+        **Séance 5 :** Limites finies <br>
+        **Séance 6 :** Problème
     === "A faire"
         **Seance 1 :** Etudier les rappels de 1ere dans le cours - lien vers exercices et syntèse<br>
         **Séance 3 :** Exercices 1 et 2 dans le cours <br>
-        **Séance 4 :** 
+        **Séance 4 :** Etudier le cours <br>
+        **Séance 5 :** DM à travailler/
     
     === "Evaluation"
         DM : N°73 page 150 et N°105 page 159 <br>
