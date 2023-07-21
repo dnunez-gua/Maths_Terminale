@@ -16,7 +16,7 @@
         **Séance 4 :** Exercices 11 à 14 dans le cours
         
     === "Evaluation"
-        Travail de groupe à rendre :[Activité](./TAF.pdf)  
+        Travail de groupe à rendre :[Activité](./TAF.pdf){:target="_blank"}  
         Bilan la semaine du 18 septembre
         
     
