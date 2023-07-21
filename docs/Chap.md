@@ -3,7 +3,7 @@
 [Limites de fonctions](./cours/Chap1/Chap1.md)
 ### Chapitre 2- Suites numériques
 [Suites Numériques](./cours/Chap2/Chap2.md)
-
+<!--
 ### Chapitre 3- Continuité de fonctions et Applications
 ??? info "Cours "
     Le cours : [Chap 3](./cours/Chap3/Cours-chap3.pdf)
@@ -45,7 +45,7 @@
 ### Chapitre 12- Sommes de variables aleatoires - Loi faible des grands nombres
 ??? Info "Cours "
     Le cours : [Chap12](./cours/Chap12/Cours-Chap12.pdf)
-    
+-->
 ### Python
 ??? info "TP"
 TP python de notions d'algorithmes de 1ere et Terminale. [python-term](./python-term.ipynb)
