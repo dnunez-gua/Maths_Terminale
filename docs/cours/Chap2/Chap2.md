@@ -90,6 +90,7 @@
         N°31 page 145 (15 minutes) <br>
     === "Correction : "
         A venir
+         <!-- [25-27-31](./corr/25-27-31.pdf){:target="_blank"}-->
 
 !!! question "Limites finies :"
     === "Exercices : "
@@ -97,6 +98,7 @@
         N°49p147 (20 minutes)
     === "Correction : "
         A venir
+        <!-- [51-49](./corr/51-49.pdf){:target="_blank"}-->
 
 !!! question "Problèmes : "
     === "Exercices : "
@@ -104,3 +106,4 @@
         
     === "Correction : "
         A venir
+        <!-- [94](./corr/94.pdf){:target="_blank"}-->
