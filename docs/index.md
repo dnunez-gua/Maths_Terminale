@@ -41,6 +41,7 @@ Voyages au pays des maths (Arte) : Vidéos sur des thèmes pouvant être utilis�
 
 - [Sur la route de l'infini](https://www.arte.tv/fr/videos/097454-005-A/voyages-au-pays-des-maths/ "Sur la route de l'infini")
 - [Les irrationnnels ](https://www.arte.tv/fr/videos/097454-009-A/voyages-au-pays-des-maths/ "Les irrationnels")
+- [notions infinitesimales](https://www.arte.tv/fr/videos/097454-003-A/voyages-au-pays-des-maths/ "calcul infinitésimal)
 
 Une liste d'exemples de questions :
     [liste](./GrandOral.md)
