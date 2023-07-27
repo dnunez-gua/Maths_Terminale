@@ -24,7 +24,7 @@ L'option est évaluée en controle continu.
     N°84-85-86p38
 
 !!! note "Formule de Newton" 
-    N°66p37
+    N°66p37  
     N°83p38  
     
 !!! note "Equations" 
