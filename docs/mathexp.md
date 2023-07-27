@@ -7,7 +7,7 @@ L'option est évaluée en controle continu.
 ## Chapitre 1 - Les complexes point de vue algébrique
 
 !!! info "Cours" 
-    Le cours [Cours](./cours/MEXP/Chap1/Cours-Chap1.pdf)
+    [Cours](./cours/MEXP/Chap1/Cours-Chap1.pdf)
 
 !!! note "Activité de découverte"
     Activité A p18  
