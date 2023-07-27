@@ -29,7 +29,7 @@ L'option est évaluée en controle continu.
     
 !!! note "Equations" 
     N°31-32p34  
-    N°33-34p34
+    N°33-34p34  
     N°94-96p39  
     N°43-44p35  
     N°110-111p40  
