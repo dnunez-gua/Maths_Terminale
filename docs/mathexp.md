@@ -17,15 +17,17 @@ L'option est évaluée en controle continu.
     N°26-27-29p34  
     N°61-62p36  
     N°64p36  
+    
+!!! note "Formule de Newton" 
+    N°66p37  
+    N°83p38  
 
 !!! note "Nombre complexe conjugué-inverse et quotient de nombres complexes"
     N°79p38  
     N°80-81p38  
     N°84-85-86p38
 
-!!! note "Formule de Newton" 
-    N°66p37  
-    N°83p38  
+
     
 !!! note "Equations" 
     N°31-32p34  
