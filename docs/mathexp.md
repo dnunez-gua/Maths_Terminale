@@ -37,7 +37,7 @@ L'option est évaluée en controle continu.
 
 !!! note "Factorisation de polynômes
     N°118-119p41  
-    N°120-121p41
+    N°120-121p41  
     N°124-125p42
 <!--
 ## Chapitre 2 - Arithmétique - Divisibilité dans Z
