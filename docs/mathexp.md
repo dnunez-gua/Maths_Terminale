@@ -35,7 +35,7 @@ L'option est évaluée en controle continu.
     N°110-111p40  
     N°113p41
 
-!!! note "Factorisation de polynômes
+!!! note "Factorisation de polynômes"
     N°118-119p41  
     N°120-121p41  
     N°124-125p42
