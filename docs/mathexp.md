@@ -15,8 +15,8 @@ L'option est évaluée en controle continu.
 
 !!! note "Forme algébrique"
     N°26-27-29p34  
-    N°61-62 p36  
-    N°64 p36  
+    N°61-62p36  
+    N°64p36  
 
 !!! note "Nombre complexe conjugué-inverse et quotient de nombres complexes"
     N°79p38  
