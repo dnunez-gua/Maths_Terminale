@@ -111,7 +111,7 @@
         N°24 p177 (7 minutes)<br>
         N°25 p177 (7 minutes)<br>
         N°26 p177 (7 minutes)<br>
-        N°54 p180 (10 minutes)
+        N°52 p180 (10 minutes)
     === "Indice :"
         Utiliser les formules du cours <br>
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
