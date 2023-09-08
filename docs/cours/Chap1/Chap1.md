@@ -93,7 +93,7 @@
         
     ===  "Corrigé :"
         A venir
-        <!-- [17-20-21](./corr/17-20-21.pdf){:target="_blank"} -->
+        [17-20-21](./corr/17-20-21.pdf){:target="_blank"}
         <br>
       
 !!! question "Formalisme des limites :"
