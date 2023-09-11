@@ -103,7 +103,7 @@
         Pour $A$ donné, il faut résoudre l'inéquation $f(x)>A$
     === "Corrigé :"
         A venir
-        <!-- [38](./corr/38.pdf){:target="_blank"}-->
+        [38](./corr/38.pdf){:target="_blank"}
 
        <br>
 !!! question "Opérations sur les limites :"
