@@ -128,7 +128,9 @@
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
     === "Corrigé :"
          A venir
-         <!-- [27-28](./corr/27-28.pdf){:target="_blank"}-->
+         <!-- [27-28](./corr/27-28.pdf){:target="_blank"}-->  
+
+    
 !!! question "Limite d'une composée de fonctions :" 
     === "Exercices : "
         Déterminer les limites suivantes :  
