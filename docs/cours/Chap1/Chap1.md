@@ -134,8 +134,8 @@
 !!! question "Limite d'une composée de fonctions :" 
     === "Exercices : "
         Déterminer les limites suivantes :  
-        $$\displaystyle\lim_{x \to +\infty} \sqrt{x^2+3x+2}$$  
-        $$\displaystyle\lim_{x \to +\infty} e^{-x^3-5x^2+2}$$  
+        $\displaystyle\lim_{x \to +\infty} \sqrt{x^2+3x+2}$  
+        $\displaystyle\lim_{x \to +\infty} e^{-x^3-5x^2+2}$  
 
 
     
