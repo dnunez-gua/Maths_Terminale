@@ -92,8 +92,8 @@
         N°21 p176 (5 minutes)<br>
         
     ===  "Corrigé :"
-        A venir
-        [17-20-21](./corr/17-20-21.pdf){:target="_blank"}
+        
+        [Correction 17-20-21](./corr/17-20-21.pdf){:target="_blank"}
         <br>
       
 !!! question "Formalisme des limites :"
@@ -102,8 +102,7 @@
     === "Indice :"
         Pour $A$ donné, il faut résoudre l'inéquation $f(x)>A$
     === "Corrigé :"
-        A venir
-        [38](./corr/38.pdf){:target="_blank"}
+        [Correction 38](./corr/38.pdf){:target="_blank"}  
 
        <br>
 !!! question "Opérations sur les limites :"
@@ -116,8 +115,7 @@
         Utiliser les formules du cours <br>
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
     === "Corrigé :"
-         A venir
-         <!-- [24-25-26-54](./corr/24-25-26-54.pdf){:target="_blank"}-->
+         [Correction 24-25-26](./corr/24-25-26-54.pdf){:target="_blank"}  
 
 !!! question "Formes Indéterminées :"
     === "Exercices :"
@@ -127,8 +125,7 @@
         Utiliser les méthodes vues page 9 du cours
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
     === "Corrigé :"
-         A venir
-         <!-- [27-28](./corr/27-28.pdf){:target="_blank"}-->  
+         [Correction 27-28](./corr/27-28.pdf){:target="_blank"}  
 
     
 !!! question "Limite d'une composée de fonctions :" 
