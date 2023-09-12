@@ -136,6 +136,9 @@
         Déterminer les limites suivantes :  
         $$\displaystyle\lim_{x \to +\infty} \sqrt{x^2+3x+2}$$  
         $$\displaystyle\lim_{x \to +\infty} e^{-x^3-5x^2+2}$$  
+
+
+    
 !!! question "Comparaisons - Théorème des gendarmes :"
     === "Exercices :"
         N°75 p183 (7 minutes)<br>
