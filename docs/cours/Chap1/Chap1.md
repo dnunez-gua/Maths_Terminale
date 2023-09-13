@@ -150,12 +150,12 @@
 
 !!! question "Demonstration limites de l'exponentielle : "
     === "Exercices :"
-        N°91 p184 (7 minutes)<br>
+        N°91 p184 (fait ensemble)<br>
     
 !!! question "Théorèmes des croissances comparées :"
     === "Exercices :"
         N°84 p183 (10 minutes)<br>
-        Demonstration 
+        Demonstration des théorèmes (faits ensemble)
     === "Indice :"
         Cours
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
