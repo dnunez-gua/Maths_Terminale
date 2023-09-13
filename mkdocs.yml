@@ -33,8 +33,8 @@ theme:
     font: false  # RGPD ; pas de fonte Google
     language: fr # français
     logo: Images/EPiX.svg
-    icon:
-      logo: fontawesome/solid/code
+
+
 
     palette: # Palettes de couleurs jour/nuit, cf : https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/
       - scheme: default # nom du thème clair
