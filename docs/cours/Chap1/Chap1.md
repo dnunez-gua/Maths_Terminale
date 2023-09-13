@@ -148,9 +148,14 @@
          A venir
          <!-- [75-77-80](./corr/75-77-80.pdf){:target="_blank"}-->
 
+!!! question "Demonstration limites de l'exponentielle : "
+    === "Exercices :"
+        N°91 p184 (7 minutes)<br>
+    
 !!! question "Théorèmes des croissances comparées :"
     === "Exercices :"
         N°84 p183 (10 minutes)<br>
+        Demonstration 
     === "Indice :"
         Cours
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
