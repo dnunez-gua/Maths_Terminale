@@ -28,7 +28,7 @@ L'option est évaluée en controle continu.
         N°80-81p38  
         N°84-85-86p38
     === " Correction :"
-        [correction 85 p38](./Images/85.jpeg)
+        [correction 85 p38](./cours/MEXP/Chap1/Ex_85.jpg)
 
     
 !!! note "Equations" 
