@@ -146,7 +146,7 @@
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
     === "Corrigé :"
          A venir
-         <!-- [75-77-80](./corr/75-77-80.pdf){:target="_blank"}-->
+         [75-77-80](./corr/75-77-80.pdf){:target="_blank"}  
 
 !!! question "Demonstration limites de l'exponentielle : "
     === "Exercices :"
