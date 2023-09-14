@@ -20,13 +20,15 @@ L'option est évaluée en controle continu.
     
 !!! note "Formule de Newton" 
     N°66p37  
-    N°83p38  
+    
 
 !!! note "Nombre complexe conjugué-inverse et quotient de nombres complexes"
-    N°79p38  
-    N°80-81p38  
-    N°84-85-86p38
-
+    === "Exercices :"
+        N°79p38  
+        N°80-81p38  
+        N°84-85-86p38
+    === " Correction :"
+        [correction 85 p38](./Images/85.jpeg)
 
     
 !!! note "Equations" 
