@@ -164,8 +164,8 @@
          <!-- [84](./corr/84.pdf){:target="_blank"}-->
 
 
-!!! note " Correction de travail / Devoirs : "
-    [Correction QCM](./corr/Correction QCM.pdf){:target="_blank"}
+!!! info " Correction de travail / Devoirs : "  
+    [Correction QCM](./corr/Correction QCM.pdf){:target="_blank"}   
 
 
 
