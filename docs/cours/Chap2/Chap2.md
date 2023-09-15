@@ -78,8 +78,8 @@
 !!! question "Démonstration par récurrence :"
     === "Exercices :" 
         N°48 p27 (10 minutes)<br>
-        N°49 p176 (15 minutes)<br>
-        N°54 p176 (15 minutes)<br>
+        N°49 p27 (15 minutes)<br>
+        N°54 p27 (15 minutes)<br>
     === "Correction :"
         A venir
 
