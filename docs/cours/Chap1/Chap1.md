@@ -165,7 +165,7 @@
 
 
 !!! info " Correction de travail / Devoirs : "  
-    [Correction QCM](./corr/Correction QCM.pdf){:target="_blank"}   
+    [Correction QCM](./corr/CorrectionQCM.pdf){:target="_blank"}   
 
 
 
