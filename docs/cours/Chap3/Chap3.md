@@ -3,7 +3,7 @@
 ## Progression
 ??? info "Plan de travail - 7 Séances"
     === "Séances" 
-        **Séance 1 :** Pré-requis<br>
+        **Séance 1 :** Activité<br>
         **Séance 2 :** 
         **Séance 3 :** 
         **Séance 4 :** 
@@ -21,43 +21,34 @@
 ## Cours 
 [cours Chap3](./Cours-chap3.pdf){:target="_blank"}
 
-## Démonstrations Chapitre 2
-!!! attention "Démonstration "
-    === "Propriété : "
-
-
-    ===  "Démonstration :"
-
-
-!!! attention "Démonstration "
-    === " "
-
-    === " Démonstration :"
-
-    
-!!! attention "Démonstration "
-    === "Propriété : "
-
-
-    ===  "Démonstration :"
-        
-        
-
-
 ## Exercices 
 
-!!! example "Pré-requis :" 
-
-
-!!! question ":"
+!!! question "Notion de continuité :"
     === "Exercices :" 
-
+        Activité A p192  
+        N°23-24-25 p202
     === "Correction :"
         A venir
 
-!!! question " :"
+!!! question " Théorème des valeurs intermédiaires :"
     === "Exercices :"
+        Activité B p192  
+        N°63-64 p205  
+        N°62-66 p205 
+    === "Correction : "
+        A venir
 
+!!! info " Algorithme - dichotomie :"  
+    === " Programmation :"
+        TP1 p200  
+    === " Exercice :"  
+        N°91 p208  
+    === "Correction :"  
+        A venir
+!!! question " Application aux limites - Théorème du point fixe:"
+    === "Exercices :"
+        Activité C p193  
+        N°79-80 p206  
     === "Correction : "
         A venir
 
