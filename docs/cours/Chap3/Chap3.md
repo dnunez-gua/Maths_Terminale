@@ -3,20 +3,20 @@
 ## Progression
 ??? info "Plan de travail - 7 Séances"
     === "Séances" 
-        **Séance 1 :** Activité<br>
-        **Séance 2 :** 
-        **Séance 3 :** 
-        **Séance 4 :** 
-        **Séance 5 :** 
-        **Séance 6 :** 
+        **Séance 1-2 :** Notion de continuité 
+        **Séance 3-4 :** T.V.I - Théorème de la Bijection
+        **Séance 5 :** Algorithme de la dichotomie
+        **Séance 6-7 :** Application aux suites
     === "A faire"
-        **Seance 1 :** 
+        **Seance 1 :** Etudier le cours 
         **Séance 3 :** 
         **Séance 4 :** 
         **Séance 5 :** 
     
     === "Evaluation"
-        
+        TP de groupe  
+        DM type BAC 92p231  
+        Evaluation 2H sur toute l'année  
     
 ## Cours 
 [cours Chap3](./Cours-chap3.pdf){:target="_blank"}
