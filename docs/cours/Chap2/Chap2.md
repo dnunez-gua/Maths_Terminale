@@ -107,3 +107,6 @@
     === "Correction : "
         A venir
         <!-- [94](./corr/94.pdf){:target="_blank"}-->
+
+!!! info "Algorithme "
+    TP Python seuil- suite
