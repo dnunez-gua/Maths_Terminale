@@ -3,15 +3,14 @@
 ## Progression
 ??? info "Plan de travail - 7 Séances"
     === "Séances" 
-        **Séance 1-2 :** Notion de continuité 
-        **Séance 3-4 :** T.V.I - Théorème de la Bijection
-        **Séance 5 :** Algorithme de la dichotomie
-        **Séance 6-7 :** Application aux suites
+        **Séance 1-2 :** Notion de continuité  
+        **Séance 3-4 :** T.V.I - Théorème de la Bijection  
+        **Séance 5 :** Algorithme de la dichotomie  
+        **Séance 6-7 :** Application aux suites  
     === "A faire"
-        **Seance 1 :** Etudier le cours 
-        **Séance 3 :** 
-        **Séance 4 :** 
-        **Séance 5 :** 
+        **Seance 1 :** Etudier le cours  
+        **Séance 4 :** Bien comprendre la rédaction du TVI
+        **Séance 5 :** DM
     
     === "Evaluation"
         TP de groupe  
