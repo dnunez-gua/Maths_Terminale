@@ -5,7 +5,7 @@
 [Suites Numériques](./cours/Chap2/Chap2.md)
 
 ### Chapitre 3- Continuité de fonctions et Applications
-[Continuité](./cours/Chap3/Cours-chap3.pdf)
+[Continuité](./cours/Chap3/Chap3.md)
 <!--    
 ### Chapitre 4- Compléments sur la dérivation
 ??? info "Cours "
