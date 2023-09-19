@@ -23,7 +23,7 @@
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
 
 ## Rappels
-![sens variation](./Images/VariationsSuites.jpg)
+![sens variation](../../Images/VariationsSuites.png)
 
 ## Démonstrations Chapitre 2
 !!! attention "Démonstration "
