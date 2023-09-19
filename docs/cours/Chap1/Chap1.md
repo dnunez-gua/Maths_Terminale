@@ -161,7 +161,7 @@
         Tracer la courbe représentative à la calculatrice pour conjecturer le résultat.
     === "Corrigé :"
          A venir
-         <!-- [84](./corr/84.pdf){:target="_blank"}-->
+         [84](./corr/84.pdf){:target="_blank"}  
 
 
 !!! info " Correction de travail / Devoirs : "  
