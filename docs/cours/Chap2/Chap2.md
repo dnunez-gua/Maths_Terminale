@@ -22,6 +22,9 @@
 ## Cours 
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
 
+## Rappels
+![sens variation](./Images/VariationsSuites.jpg)
+
 ## Démonstrations Chapitre 2
 !!! attention "Démonstration "
     === "Propriété : "
