@@ -23,6 +23,22 @@
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
 
 ## Rappels
+
+!!! info " Sens de variations d'une suite" 
+    === "Méthode 1" 
+        Calculer $u_{n+1}-u_n$ et étudier son signe.  
+        - Si $u_{n+1}-u_n<0$ alors la suite est décroissante  
+        - Si $u_{n+1}-u_n<0$ alors la suite est croissante  
+     === "Méthode 2" 
+        Calculer $\dfrac{u_{n+1}}{u_n}$ et étudier son signe.  
+        - Si $\dfrac{u_{n+1}}{u_n}<1$ alors la suite est décroissante  
+        - Si $\dfrac{u_{n+1}}{u_n}>1$ alors la suite est croissante  
+    === "Méthode 3" 
+        Etudier la fonction $f$ telle que $f(x)=u_n$
+        - Si $f$ est décroissante alors la suite $u_n$ est décroissante  
+        - Si $f$ est croissante alors la suite $u_n$ est croissante  
+        ATTENTION : ne pas confondre $u_n = f(n)$ et $u_{n+1}=f(u_n)$. Cette méthode ne sappliquerait pas dans ce cas.
+        
 ![sens variation](./VariationsSuites.PNG)
 ## Démonstrations Chapitre 2
 !!! attention "Démonstration "
