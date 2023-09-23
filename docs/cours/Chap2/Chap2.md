@@ -22,7 +22,7 @@
 ## Cours 
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
 
-## Rappels
+## Rappels principaux  
 
 !!! info " Sens de variations d'une suite" 
     === "Méthode 1" 
@@ -40,6 +40,16 @@
         - Si $f$ est décroissante alors la suite $u_n$ est décroissante  
         - Si $f$ est croissante alors la suite $u_n$ est croissante  
         ATTENTION : ne pas confondre $u_n = f(n)$ et $u_{n+1}=f(u_n)$. Cette méthode ne s'appliquerait pas dans ce cas.
+
+!!! info "Nature d'une suite "
+    === "Suites arithmétiques "
+        - Définition :$u_n$ est une suite arithmétique de raison $r$ si $\forall n \in \mathbb{N}, u_{n+1}=u_n+r$  
+        - Propriété : Si $u_n$ est une suite arithmétique de raison $r$ et premier terme $u_0$ alors $\forall n \in \mathbb{N}, u_n=u_0+nr$  
+        
+     === "Suites géométriques "
+        - Définition :$u_n$ est une suite géométrique de raison $q$ si $\forall n \in \mathbb{N}, u_{n+1}=u_n\times q$  
+        - Propriété : Si $u_n$ est une suite géométrique de raison $q$ et premier terme $u_0$ alors $\forall n \in \mathbb{N}, u_n=u_0\times q^n$  
+        
         
 ## Démonstrations Chapitre 2
 !!! attention "Démonstration "
