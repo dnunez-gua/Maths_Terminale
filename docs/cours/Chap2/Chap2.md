@@ -46,7 +46,7 @@
         - Définition :$u_n$ est une suite arithmétique de raison $r$ si $\forall n \in \mathbb{N}, u_{n+1}=u_n+r$  
         - Propriété : Si $u_n$ est une suite arithmétique de raison $r$ et premier terme $u_0$ alors $\forall n \in \mathbb{N}, u_n=u_0+nr$  
         
-     === "Suites géométriques "
+    === "Suites géométriques "
         - Définition :$u_n$ est une suite géométrique de raison $q$ si $\forall n \in \mathbb{N}, u_{n+1}=u_n\times q$  
         - Propriété : Si $u_n$ est une suite géométrique de raison $q$ et premier terme $u_0$ alors $\forall n \in \mathbb{N}, u_n=u_0\times q^n$  
         
