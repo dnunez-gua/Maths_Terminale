@@ -39,7 +39,7 @@
         Etudier la fonction $f$ telle que $f(x)=u_n$.  
         - Si $f$ est décroissante alors la suite $u_n$ est décroissante  
         - Si $f$ est croissante alors la suite $u_n$ est croissante  
-        ATTENTION : ne pas confondre $u_n = f(n)$ et $u_{n+1}=f(u_n)$. Cette méthode ne s'appliquerait pas dans ce cas.
+        ATTENTION : ne pas confondre $u_n = f(n)$ et $u_{n+1}=f(u_n)$. Cette méthode ne s'appliquerait pas dans ce cas.  
 
 !!! info "Nature d'une suite "
     === "Suites arithmétiques "
