@@ -119,7 +119,7 @@
         N°31 page 145 (15 minutes) <br>
     === "Correction : "
         A venir
-         <!-- [25-27-31](./corr/25-27-31.pdf){:target="_blank"}-->
+         [25-27-31](./corr/25-27-31.pdf){:target="_blank"}
 
 !!! question "Limites finies :"
     === "Exercices : "
