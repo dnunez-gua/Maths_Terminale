@@ -132,7 +132,8 @@
 
 !!! question "Problèmes : "
     === "Exercices : "
-        N°94 p153 <br>
+        N°94 p153   
+        N°73 p150
         
     === "Correction : "
         A venir
