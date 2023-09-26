@@ -28,7 +28,7 @@
     === "Méthode 1" 
         Calculer $u_{n+1}-u_n$ et étudier son signe.  
         - Si $u_{n+1}-u_n<0$ alors la suite est décroissante  
-        - Si $u_{n+1}-u_n<0$ alors la suite est croissante  
+        - Si $u_{n+1}-u_n>0$ alors la suite est croissante  
         
     === "Méthode 2" 
         Calculer $\dfrac{u_{n+1}}{u_n}$ et étudier son signe.  
@@ -45,10 +45,12 @@
     === "Suites arithmétiques "
         - Définition :$u_n$ est une suite arithmétique de raison $r$ si $\forall n \in \mathbb{N}, u_{n+1}=u_n+r$  
         - Propriété : Si $u_n$ est une suite arithmétique de raison $r$ et premier terme $u_0$ alors $\forall n \in \mathbb{N}, u_n=u_0+nr$  
+        - Remarque : si $u_n$ a pour premier terme $u_1$ alors $\forall n \in \mathbb{N}, u_n=u_1+(n-1)r$  
         
     === "Suites géométriques "
         - Définition :$u_n$ est une suite géométrique de raison $q$ si $\forall n \in \mathbb{N}, u_{n+1}=u_n\times q$  
         - Propriété : Si $u_n$ est une suite géométrique de raison $q$ et premier terme $u_0$ alors $\forall n \in \mathbb{N}, u_n=u_0\times q^n$  
+        - Remarque : si $u_n$ a pour premier terme $u_1$ alors $\forall n \in \mathbb{N}, u_n=u_1\timesq^{n-1}$  
         
         
 ## Démonstrations Chapitre 2
