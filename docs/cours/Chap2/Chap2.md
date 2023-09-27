@@ -16,8 +16,8 @@
         **Séance 5 :** DM à travailler/
     
     === "Evaluation"
-        DM : N°73 page 150 et N°105 page 159 <br>
-        Semaine du 2 octobre
+        **Travail de groupe** TP2  page 143 et N°105 page 159  
+        Semaine du 9 octobre
     
 ## Cours 
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
