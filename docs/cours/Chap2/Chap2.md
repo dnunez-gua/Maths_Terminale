@@ -15,8 +15,8 @@
         **Séance 4 :** Etudier le cours <br>
         **Séance 5 :** DM à travailler/
     
-    === "Evaluation"
-        **Travail de groupe** TP2  page 143 et N°105 page 159  
+    === "Evaluation"  
+        Travail de groupe : TP2  page 143 et N°105 page 159  
         Semaine du 9 octobre
     
 ## Cours 
