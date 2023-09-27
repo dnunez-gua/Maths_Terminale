@@ -17,7 +17,7 @@
     
     === "Evaluation"  
         Travail de groupe : TP2  page 143 et N°105 page 159  
-        Semaine du 9 octobre
+        Semaine du 9 octobre  
     
 ## Cours 
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
