@@ -166,6 +166,9 @@
 
 !!! info " Correction de travail / Devoirs : "  
     [Correction QCM](./corr/CorrectionQCM.pdf){:target="_blank"}   
+    [correction Eval G1](./corr/EvalG1.pdf){:target="_blank"}  
+    [correction Eval G12(./corr/EvalG2.pdf){:target="_blank"}  
+    
 
 
 
