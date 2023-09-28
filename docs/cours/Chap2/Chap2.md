@@ -126,7 +126,7 @@
     === "Exercices : "
         N°51p148 (20 minutes)<br>
         N°49p147 (20 minutes)
-    === "Correction : "
+    === "Correction : "  
        [51-49](./corr/51-49.pdf){:target="_blank"}  
 
 !!! question "Problèmes : "
