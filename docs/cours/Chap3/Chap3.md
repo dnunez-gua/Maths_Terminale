@@ -1,7 +1,7 @@
 # Continuité de fonctions
 
 ## Progression
-??? info "Plan de travail - 7 Séances"
+!!! info "Plan de travail - 7 Séances"
     === "Séances" 
         **Séance 1-2 :** Notion de continuité  
         **Séance 3-4 :** T.V.I - Théorème de la Bijection  
