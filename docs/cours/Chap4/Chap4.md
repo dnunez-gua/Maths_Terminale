@@ -3,13 +3,13 @@
 ## Progression
 !!! info "Plan de travail - 6 Séances"
     === "Séances" 
-        **Séance 1-2 :** Calcul des dérivées
-        **Séance 3-4 :** Position relative 
-        **Séance 5-6 :**  Dérivées secondes - Convexité
+        **Séance 1-2 :** Calcul des dérivées  
+        **Séance 3-4 :** Position relative  
+        **Séance 5-6 :**  Dérivées secondes - Convexité  
     === "A faire"
-        **Seance 1 :**  Revoir les formules
-        **Séance 4 :** Etudier les nouvelles formules 
-        **Séance 5 :** Etudier le cours
+        **Seance 1 :**  Revoir les formules  
+        **Séance 4 :** Etudier les nouvelles formules  
+        **Séance 5 :** Etudier le cours  
     
     === "Evaluation"  
         Travail de groupe N°92p231  
@@ -21,25 +21,25 @@
 ## Exercices 
 !!! question "Rappels  :"
     === "Exercices :" 
-        Ex1 du cours
+        Ex1 du cours  
         N°1 p210
     === "Correction :"
         A venir    
         
 !!! question "Des nouvelles formules de dérivées :"
     === "Exercices :" 
-        N°21-23-24-25-26p222
-        N°43-45 p224
+        N°21-23-24-25-26p222  
+        N°43-45 p224  
     === "Correction :"
         A venir
 
 !!! question " Dérivées secondes - Convexité :"
     === "Exercices :"
-        N°70p227
-        N°53p225
-        N°31p222
-        N°71 p227
-        N°32p222
-        N°75-76-77 p228
+        N°70p227  
+        N°53p225  
+        N°31p222  
+        N°71 p227  
+        N°32p222  
+        N°75-76-77 p228  
     === "Correction : "
         A venir
