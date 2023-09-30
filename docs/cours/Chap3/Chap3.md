@@ -27,7 +27,8 @@
         Activité A p192  
         N°23-24-25 p202
     === "Correction :"
-       <!--[23-24-25](./corr/23-24-25.pdf)--!>
+   
+       <!--[23-24-25](./corr/23-24-25.pdf){:target="_blank"}-->
 
 !!! question " Théorème des valeurs intermédiaires :"
     === "Exercices :"
@@ -35,20 +36,20 @@
         N°63-64 p205  
         N°62-66 p205 
     === "Correction : "
-        [63-64](./63-64.pdf)
-        [62-66](./62-66.pdf)
+        <!--[63-64](./63-64.pdf){:target="_blank"}-->
+        <!--[62-66](./62-66.pdf){:target="_blank"}-->
 !!! info " Algorithme - dichotomie :"  
     === " Programmation :"
         TP1 p200  
     === " Exercice :"  
         N°91 p208  
     === "Correction :"  
-        [91](./corr/91.pdf)
+        <!--[91](./corr/91.pdf){:target="_blank"}-->
 !!! question " Application aux limites - Théorème du point fixe:"
     === "Exercices :"
         Activité C p193  
         N°79-80 p206  
     === "Correction : "
-        [79-80](79-80.pdf)
+        <!--[79-80](79-80.pdf){:target="_blank"}-->
 
 
