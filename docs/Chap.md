@@ -10,10 +10,11 @@
 
 ### Chapitre 3- Continuité de fonctions et Applications
 [Continuité](./cours/Chap3/Chap3.md)
-<!--    
+
 ### Chapitre 4- Compléments sur la dérivation
-??? info "Cours "
-    Le cours : [Chap 4](./cours/Chap4/Cours-chap4.pdf)
+[Dérivées](./cours/Chap4/Chap4.md)
+
+<!--    
 
     
 ### Chapitre 5- Vecteurs, droites et plans de l'espace
