@@ -1,7 +1,7 @@
 # Suites Numériques
 
 ## Progression
-??? info "Plan de travail - 7 Séances"
+!!! info "Plan de travail - 7 Séances"
     === "Séances" 
         **Séance 1 :** Pré-requis<br>
         **Séance 2 :** Démonstration par récurrence <br>
