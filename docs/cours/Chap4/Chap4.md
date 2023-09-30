@@ -1,38 +1,45 @@
 # Compléments sur les dérivées
 
 ## Progression
-!!! info "Plan de travail - 7 Séances"
+!!! info "Plan de travail - 6 Séances"
     === "Séances" 
-        **Séance 1-2 :** Notion de continuité  
-        **Séance 3-4 :** T.V.I - Théorème de la Bijection  
-        **Séance 5 :** Algorithme de la dichotomie  
-        **Séance 6-7 :** Application aux suites  
+        **Séance 1-2 :** Calcul des dérivées
+        **Séance 3-4 :** Position relative 
+        **Séance 5-6 :**  Dérivées secondes - Convexité
     === "A faire"
-        **Seance 1 :** Etudier le cours  
-        **Séance 4 :** Bien comprendre la rédaction du TVI
-        **Séance 5 :** DM
+        **Seance 1 :**  Revoir les formules
+        **Séance 4 :** Etudier les nouvelles formules 
+        **Séance 5 :** Etudier le cours
     
-    === "Evaluation"
-        TP de groupe  
-        DM type BAC 92p231  
-        Evaluation 2H sur toute l'année  
+    === "Evaluation"  
+        Travail de groupe N°92p231  
+        Evaluation en Bac Blanc à la rentrée
     
 ## Cours 
-[cours Chap3](./Cours-chap3.pdf){:target="_blank"}
+[cours Chap4](./Cours-chap4.pdf){:target="_blank"}
 
 ## Exercices 
-
-!!! question "Notion de continuité :"
+!!! question "Rappels  :"
     === "Exercices :" 
-        Activité A p192  
-        N°23-24-25 p202
+        Ex1 du cours
+        N°1 p210
+    === "Correction :"
+        A venir    
+        
+!!! question "Des nouvelles formules de dérivées :"
+    === "Exercices :" 
+        N°21-23-24-25-26p222
+        N°43-45 p224
     === "Correction :"
         A venir
 
-!!! question " Théorème des valeurs intermédiaires :"
+!!! question " Dérivées secondes - Convexité :"
     === "Exercices :"
-        Activité B p192  
-        N°63-64 p205  
-        N°62-66 p205 
+        N°70p227
+        N°53p225
+        N°31p222
+        N°71 p227
+        N°32p222
+        N°75-76-77 p228
     === "Correction : "
         A venir
