@@ -35,7 +35,7 @@
         N°63-64 p205  
         N°62-66 p205 
     === "Correction : "
-        <!--[63-64](./63-64.pdf){:target="_blank"}-->
+        <!--[63-64](./63-64.pdf){:target="_blank"}-->  
         <!--[62-66](./62-66.pdf){:target="_blank"}-->
 !!! info " Algorithme - dichotomie :"  
     === " Programmation :"
