@@ -13,8 +13,7 @@
         **Séance 5 :** DM
     
     === "Evaluation"
-        TP de groupe  
-        DM type BAC 92p231  
+        TP de groupe  + type BAC 92p231  
         Evaluation 2H sur toute l'année  
     
 ## Cours 
