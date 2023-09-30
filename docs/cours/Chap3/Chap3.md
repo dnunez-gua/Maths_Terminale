@@ -27,8 +27,7 @@
         Activité A p192  
         N°23-24-25 p202
     === "Correction :"
-   
-       <!--[23-24-25](./corr/23-24-25.pdf){:target="_blank"}-->
+        <!--[23-24-25](./corr/23-24-25.pdf){:target="_blank"}-->
 
 !!! question " Théorème des valeurs intermédiaires :"
     === "Exercices :"
