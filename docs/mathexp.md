@@ -51,15 +51,32 @@ L'option est évaluée en controle continu.
     N°1-2-6-8p90  
     
 !!! note "Divisibilité dans $\mathbb{Z}$"
-    N°26-27p104
-    N°30-31-32-33p104
-    N°35-29-36p104
-    N°61-62-65p106
-    N°67-68p107
-    N°69-70-71p107
+    N°26-27p104  
+    N°30-31-32-33p104  
+    N°35-29-36p104  
+    N°61-62-65p106  
+    N°67-68p107  
+    N°69-70-71p107  
 
+!!! note "Division Euclidienne"
+    Activité Bp92  
+    N°40-41p105
+    N°79-80p107  
+    N°81-84-86p108  
+    N°88-89p108  
+    
 !!! note "Congruence"
-   
+    N°47-48-49p105  
+    N°92-93p109
+    N°99p109
+    N°50-51-52-53p105  
+    N°102-103-104p110  
+    N°106-108-109p110
+    N°115-116-117p111
+    
+!!! note "Chiffrement"
+    N°119p112
+    
 <!--
 ## Chapitre 3 - Matrice 
 ??? info "Cours" 
