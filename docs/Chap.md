@@ -3,8 +3,8 @@
 ### SUJET BAC
 
 [sujet](./cours/TYPE-BAC.pdf)
-### Chapitre 1 - Limites de fonction
-[Limites de fonctions](./cours/Chap1/Chap1.md)
+### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
+
 ### Chapitre 2- Suites numériques
 [Suites Numériques](./cours/Chap2/Chap2.md)
 
