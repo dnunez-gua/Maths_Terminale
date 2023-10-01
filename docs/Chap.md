@@ -2,7 +2,7 @@
 
 ### SUJET BAC
 
-[sujet Suite 1](./cours/TYPE-BAC.pdf)
+[sujet Suite 1](./cours/TYPE-BAC.pdf)  
 [Sujet Suite 2](./cours/Sujet2.pdf)
 ### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
 
