@@ -20,15 +20,14 @@
 ## Rappels de première
 !!! question "Rappels  :"
     === "Nombre dérivée
-         Le nombre dérivé $f'(a)$ est le coefficient directeur de la tangente à $\mathcal{C}_f$ au point d'abscisse $a$.  
-
-## Exercices 
-!!! question "Rappels  :"
-    === "Exercices :" 
+        Le nombre dérivé $f'(a)$ est le coefficient directeur de la tangente à $\mathcal{C}_f$ au point d'abscisse $a$.  
         Ex1 du cours  
-        N°1 p210
+        N°1 p210  
     === "Correction :"
-        A venir    
+        A venir  
+        
+## Exercices 
+
         
 !!! question "Des nouvelles formules de dérivées :"
     === "Exercices :" 
