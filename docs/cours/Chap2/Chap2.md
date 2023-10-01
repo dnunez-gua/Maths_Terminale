@@ -112,7 +112,8 @@
         N°49 p27 (15 minutes)<br>
         N°54 p27 (15 minutes)<br>
     === "Correction :"
-        A venir
+        l'exercice 54 est la démonstration de l'inégalité de Bernoulli faite dans le cours  
+        49p27(./corr/49p27.pdf){:target="_blank"}  
 
 !!! question "Opérations sur les limites :"
     === "Exercices :"
