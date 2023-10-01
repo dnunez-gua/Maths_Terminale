@@ -5,14 +5,12 @@
 [sujet](./cours/TYPE-BAC.pdf)
 ### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
 
-### Chapitre 2- Suites numériques
-[Suites Numériques](./cours/Chap2/Chap2.md)
+### [Chapitre 2- Suites Numériques](./cours/Chap2/Chap2.md)
 
-### Chapitre 3- Continuité de fonctions et Applications
-[Continuité](./cours/Chap3/Chap3.md)
 
-### Chapitre 4- Compléments sur la dérivation
-[Dérivées](./cours/Chap4/Chap4.md)
+### [Chapitre 3- Continuité de fonctions et Applications](./cours/Chap3/Chap3.md)
+
+### [Chapitre 4- Compléments sur la dérivation](./cours/Chap4/Chap4.md)
 
 <!--    
 
