@@ -36,14 +36,23 @@
         N°43-45 p224  
     === "Correction :"
         A venir
+        <!--[Ex 21-23-24-25](./21-23-24-25.pdf){:target="_blank"}-->  
+        <!--[Ex 43-45](./43-45.pdf){:target="_blank"}-->  
+
 
 !!! question " Dérivées secondes - Convexité :"
     === "Exercices :"
         N°70p227  
         N°53p225  
         N°31p222  
-        N°71 p227  
+        N°71p227  
         N°32p222  
         N°75-76-77 p228  
     === "Correction : "
         A venir
+        <!--[Ex 70](./70.pdf){:target="_blank"}-->  
+        <!--[Ex 53](./53.pdf){:target="_blank"}-->  
+        <!--[Ex 31](./31.pdf){:target="_blank"}-->  
+        <!--[Ex 71](./71.pdf){:target="_blank"}-->  
+        <!--[Ex 32](./32.pdf){:target="_blank"}-->  
+        <!--[Ex 75-76-77](./75-76-77.pdf){:target="_blank"}-->  
