@@ -1,3 +1,4 @@
+[Retour](../../Chap.md)
 # Continuité de fonctions
 
 ## Progression
