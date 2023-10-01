@@ -68,7 +68,7 @@ L'option est évaluée en controle continu.
 !!! note "Congruence"
     N°47-48-49p105  
     N°92-93p109
-    N°99p109
+    N°99p109  
     N°50-51-52-53p105  
     N°102-103-104p110  
     N°106-108-109p110
