@@ -1,8 +1,8 @@
 # Chapitres  
 
 ### SUJET BAC
-!!! info "Suites"
-    [sujet 1](./cours/TYPE-BAC.pdf)  
+!!! note "Suites"
+    [Sujet 1](./cours/TYPE-BAC.pdf)  
     [Sujet 2](./cours/Sujet2.pdf)  
 
 
