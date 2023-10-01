@@ -1,4 +1,4 @@
-[Retour](../../../Chap.md)
+[Retour](docs/Chap.md)
 # Chapitre 1 - Limites de fonctions
 ## Progression
 !!! info "Plan de travail - 6 Séances"
