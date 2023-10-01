@@ -44,14 +44,22 @@ L'option est évaluée en controle continu.
     N°120-121p41  
     N°124-125p42
 
-## Chapitre 2 - Arithmétique - Divisibilité dans $\mathbb{Z}"
+## Chapitre 2 - Arithmétique - Divisibilité dans $\mathbb{Z}$"
 !!! info "Cours" 
     Le cours [Cours](./cours/MEXP/Chap2/Cours_Chap2.pdf)   
 !!! note "Activité de découverte"
     N°1-2-6-8p90  
     
-!!! note "Divisibilité dans $\mathbb{Z}"
-    Activité A p18  
+!!! note "Divisibilité dans $\mathbb{Z}$"
+    N°26-27p104
+    N°30-31-32-33p104
+    N°35-29-36p104
+    N°61-62-65p106
+    N°67-68p107
+    N°69-70-71p107
+
+!!! note "Congruence"
+   
 <!--
 ## Chapitre 3 - Matrice 
 ??? info "Cours" 
