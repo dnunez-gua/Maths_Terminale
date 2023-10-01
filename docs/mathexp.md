@@ -44,7 +44,7 @@ L'option est évaluée en controle continu.
     N°120-121p41  
     N°124-125p42
 
-## Chapitre 2 - Arithmétique - Divisibilité dans $\mathbb{Z}$"
+## Chapitre 2 - Arithmétique - Divisibilité dans $\mathbb{Z}$
 !!! info "Cours" 
     Le cours [Cours](./cours/MEXP/Chap2/Cours_Chap2.pdf)   
 !!! note "Activité de découverte"
