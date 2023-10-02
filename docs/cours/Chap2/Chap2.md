@@ -17,7 +17,8 @@
         **Séance 5 :** DM à travailler/
     
     === "Evaluation"  
-        Travail de groupe : TP2  page 143 et N°105 page 159  
+        Travail de groupe : N°105 page 159  
+        TP Python : TP2  page 143 
         Semaine du 9 octobre  
     
 ## Cours 
