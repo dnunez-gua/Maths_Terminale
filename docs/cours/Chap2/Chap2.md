@@ -142,7 +142,7 @@
          [94](./corr/94.pdf){:target="_blank"}
 !!! note "Travail de groupe :"
     === "Indications :"
-        [Courbe](./105-courbe.pdf)
+        [Courbe](./105-courbe.pdf)  
         [Tracer les termes d'une suite](https://www.youtube.com/watch?v=vsi4JWESSH0)
 !!! info "Algorithme "
     TP Python seuil- suite
