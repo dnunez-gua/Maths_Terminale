@@ -18,8 +18,8 @@
     
     === "Evaluation"  
         Travail de groupe : N°105 page 159  
-        TP Python : TP2  page 143 
-        Semaine du 9 octobre  
+        TP Python : TP2  page 143  
+        Bilan la semaine du 9 octobre  
     
 ## Cours 
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
