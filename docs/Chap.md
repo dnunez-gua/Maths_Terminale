@@ -1,9 +1,12 @@
 # Chapitres  
 
 ### SUJETS BAC
-!!! note "Suites"
-    [Sujet 1](./cours/TYPE-BAC.pdf)  
-    [Sujet 2](./cours/Sujet2.pdf)  
+!!! note "Suites" 
+    === "Sujets "
+        [Sujet 1](./cours/TYPE-BAC.pdf)  
+        [Sujet 2](./cours/Sujet2.pdf)  
+    === " Correction "
+        [Corr-Sujet 1](./cours/corr/Sujet1.pdf)  
 
 
 ### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
