@@ -145,6 +145,6 @@
         [Courbe](./105-courbe.pdf)  
         [Tracer les termes d'une suite](https://www.youtube.com/watch?v=vsi4JWESSH0)  
     === "Correction :"
-        [105](/corr/105.pdf){:target="_blank"}  
+        [105](./corr/105.pdf){:target="_blank"}  
 !!! info "Algorithme "
     TP Python seuil- suite
