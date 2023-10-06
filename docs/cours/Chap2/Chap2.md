@@ -139,7 +139,9 @@
         N°73 p150
         
     === "Correction : "
-         [94](./corr/94.pdf){:target="_blank"}
+         [94](./corr/94.pdf){:target="_blank"}  
+         [73](./corr/73.pdf){:target="_blank"}
+
 !!! note "Travail de groupe :"
     === "Indications :"
         [Courbe](./105-courbe.pdf)  
