@@ -7,6 +7,7 @@
         [Sujet 2](./cours/Sujet2.pdf)  
     === " Correction "
         [Corr-Sujet 1](./cours/corr/sujet1.pdf)  
+        [Corr-Sujet 2](./cours/corr/sujet2.pdf)  
 
 
 ### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
