@@ -34,8 +34,8 @@
         N°63-64 p205  
         N°62-66 p205 
     === "Correction : "
-        [63-64](./63-64.pdf){:target="_blank"}  
-        [62-66](./62-66.pdf){:target="_blank"}  
+        [63-64](./corr/63-64.pdf){:target="_blank"}  
+        [62-66](./corr/62-66.pdf){:target="_blank"}  
 !!! info " Algorithme - dichotomie :"  
     === " Programmation :"
         TP1 p200  
@@ -48,6 +48,6 @@
         Activité C p193  
         N°79-80 p206  
     === "Correction : "
-        <!--[79-80](79-80.pdf){:target="_blank"}-->
+        <!--[79-80](./corr/79-80.pdf){:target="_blank"}-->
 
 
