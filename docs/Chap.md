@@ -9,7 +9,9 @@
         [Corr-Sujet 1](./cours/corr/sujet1.pdf)  
         [Corr-Sujet 2](./cours/corr/sujet2.pdf)  
 
-
+!!! note "Bac Blanc 2022-2023" 
+    === "Sujets : "
+        [Sujet Novembre 2022](./cours/BB1.pdf)
 ### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
 
 ### [Chapitre 2- Suites Numériques](./cours/Chap2/Chap2.md)
