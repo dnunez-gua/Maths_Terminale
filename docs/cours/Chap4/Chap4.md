@@ -33,6 +33,7 @@
         
 !!! question "Des nouvelles formules de dérivées :"
     === "Exercices :" 
+        Activité A p 212
         N°21-23-24-25-26p222  
         N°43-45 p224  
     === "Correction :"
@@ -43,6 +44,7 @@
 
 !!! question " Dérivées secondes - Convexité :"
     === "Exercices :"
+        Activtés B p212 et C p213  
         N°70p227  
         N°53p225  
         N°31p222  
