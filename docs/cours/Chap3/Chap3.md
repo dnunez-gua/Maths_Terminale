@@ -42,12 +42,12 @@
     === " Exercice :"  
         N°91 p208  
     === "Correction :"  
-        <!--[91](./corr/91.pdf){:target="_blank"}-->
+        <!-- [91](./corr/91.pdf){:target="_blank"}-->
 !!! question " Application aux limites - Théorème du point fixe:"
     === "Exercices :"
         Activité C p193  
         N°79-80 p206  
     === "Correction : "
-        <!--[79-80](./corr/79-80.pdf){:target="_blank"}-->
+       [79-80](./corr/79-80.pdf){:target="_blank"}
 
 
