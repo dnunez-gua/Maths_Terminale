@@ -44,6 +44,7 @@
 
 !!! question " Dérivées secondes - Convexité :"
     === "Exercices :"
+        N°5p210
         Activtés B p212 et C p213  
         N°70p227  
         N°53p225  
