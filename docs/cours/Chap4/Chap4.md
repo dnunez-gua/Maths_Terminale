@@ -13,7 +13,7 @@
         **Séance 5 :** Etudier le cours  
     
     === "Evaluation"  
-        Travail de groupe N°92p231  
+        <!--Travail de groupe 92 p231-->  
         Evaluation en Bac Blanc à la rentrée
     
 ## Cours 
