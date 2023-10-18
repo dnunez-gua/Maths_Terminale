@@ -33,7 +33,7 @@
         
 !!! question "Des nouvelles formules de dérivées :"
     === "Exercices :" 
-        Activité A p 212
+        Activité A p 212  
         N°21-23-24-25-26p222  
         N°43-45 p224  
     === "Correction :"
