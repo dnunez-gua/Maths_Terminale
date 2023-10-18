@@ -48,7 +48,7 @@
         Activtés B p212  
         Interprétation graphique de la convexité  
         N°31p222  
-        N°32p222
+        N°32p222  
         Lien entre dérivées et convexité  
         N°70p227    
         N°71p227  
