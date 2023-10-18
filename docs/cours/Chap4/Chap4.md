@@ -45,13 +45,15 @@
 !!! question " Dérivées secondes - Convexité :"
     === "Exercices :"
         N°5p210
-        Activtés B p212 et C p213  
-        N°70p227  
-        N°53p225  
+        Activtés B p212  
+        Interprétation graphique de la convexité  
         N°31p222  
+        N°32p222
+        Lien entre dérivées et convexité  
+        N°70p227    
         N°71p227  
-        N°32p222  
         N°75-76-77 p228  
+        N°53p225
     === "Correction : "
         A venir
         <!--[Ex 70](./70.pdf){:target="_blank"}-->  
