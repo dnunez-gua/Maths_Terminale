@@ -23,7 +23,7 @@
 !!! question " Dénombrement :"
     === "Exercices :" 
         Activité A p p34  
-        N°16-23-24-25-28-29p44
+        N°16-23-24-25-28-29p44  
         N°55-57 p46  
         Démo : 68-69p47  
     === "Correction :" 
