@@ -24,9 +24,8 @@
         Le nombre dérivé $f'(a)$ est le coefficient directeur de la tangente à $\mathcal{C}_f$ au point d'abscisse $a$.  
         Ex1 du cours  
         N°1 p210  
-    === "Correction :"
-        A venir  
-        <!--[Ex 1](./1.pdf){:target="_blank"}-->  
+    === "Correction :" 
+        [Ex 1](./1.pdf){:target="_blank"}
         
 ## Exercices 
 
@@ -36,10 +35,9 @@
         Activité A p 212  
         N°21-23-24-25-26p222  
         N°43-45 p224  
-    === "Correction :"
-        A venir
-        <!--[Ex 21-23-24-25](./21-23-24-25.pdf){:target="_blank"}-->  
-        <!--[Ex 43-45](./43-45.pdf){:target="_blank"}-->  
+    === "Correction :" 
+        [Ex 21-23-24-25](./21-23-24-25.pdf){:target="_blank"}  
+        [Ex 43-45](./43-45.pdf){:target="_blank"}  
 
 
 !!! question " Dérivées secondes - Convexité :"
@@ -55,10 +53,9 @@
         N°75-76-77 p228  
         N°53p225
     === "Correction : "
-        A venir
-        <!--[Ex 70](./70.pdf){:target="_blank"}-->  
-        <!--[Ex 53](./53.pdf){:target="_blank"}-->  
-        <!--[Ex 31](./31.pdf){:target="_blank"}-->  
-        <!--[Ex 71](./71.pdf){:target="_blank"}-->  
-        <!--[Ex 32](./32.pdf){:target="_blank"}-->  
-        <!--[Ex 75-76-77](./75-76-77.pdf){:target="_blank"}-->  
+        [Ex 70](./70.pdf){:target="_blank"}  
+        [Ex 53](./53.pdf){:target="_blank"}  
+        [Ex 31](./31.pdf){:target="_blank"}  
+        [Ex 71](./71.pdf){:target="_blank"}  
+        [Ex 32](./32.pdf){:target="_blank"}  
+        [Ex 75-76-77](./75-76-77.pdf){:target="_blank"}  
