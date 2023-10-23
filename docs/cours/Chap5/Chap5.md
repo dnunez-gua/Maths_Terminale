@@ -4,9 +4,9 @@
 ## Progression
 !!! info "Plan de travail - 6 Séances"
     === "Séances" 
-        **Séance 1-2 :** Cardinal d'ensemble
-        **Séance 3-4 :** Arrangement
-        **Séance 5-6 :**  Combinaison
+        **Séance 1-2 :** Cardinal d'ensemble  
+        **Séance 3-4 :** Arrangement  
+        **Séance 5-6 :**  Combinaison  
     === "A faire"
         **Séances 1 à 6:** Etudier le cours  
     
