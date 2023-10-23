@@ -25,7 +25,7 @@
         Ex1 du cours  
         N°1 p210  
     === "Correction :" 
-        [Ex 1](./1.pdf){:target="_blank"}
+        [Ex 1](./corr/1.pdf){:target="_blank"}
         
 ## Exercices 
 
@@ -36,8 +36,8 @@
         N°21-23-24-25-26p222  
         N°43-45 p224  
     === "Correction :" 
-        [Ex 21-23-24-25](./21-23-24-25.pdf){:target="_blank"}  
-        [Ex 43-45](./43-45.pdf){:target="_blank"}  
+        [Ex 21-23-24-25](./corr/21-23-24-25.pdf){:target="_blank"}  
+        [Ex 43-45](./corr/43-45.pdf){:target="_blank"}  
 
 
 !!! question " Dérivées secondes - Convexité :"
@@ -53,9 +53,9 @@
         N°75-76-77 p228  
         N°53p225
     === "Correction : "
-        [Ex 70](./70.pdf){:target="_blank"}  
-        [Ex 53](./53.pdf){:target="_blank"}  
-        [Ex 31](./31.pdf){:target="_blank"}  
-        [Ex 71](./71.pdf){:target="_blank"}  
-        [Ex 32](./32.pdf){:target="_blank"}  
-        [Ex 75-76-77](./75-76-77.pdf){:target="_blank"}  
+        [Ex 70](./corr/70.pdf){:target="_blank"}  
+        [Ex 53](./corr/53.pdf){:target="_blank"}  
+        [Ex 31](./corr/31.pdf){:target="_blank"}  
+        [Ex 71](./corr/71.pdf){:target="_blank"}  
+        [Ex 32](./corr/32.pdf){:target="_blank"}  
+        [Ex 75-76-77](./corr/75-76-77.pdf){:target="_blank"}  
