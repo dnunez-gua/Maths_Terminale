@@ -31,24 +31,24 @@
         
 !!! question " Factorielle :" 
     === "Exercices :" 
-         Activité B p34
-         17-18 p44
-         32-33 p45  
-         76-77 p48
-         81 p48
+         Activité B p34  
+         17-18 p44  
+         32-33 p45   
+         76-77 p48  
+         81 p48  
     === "Correction :" 
         A venir
         
 !!! question " Arrangement-Combinaison :"
     === "Exercices :" 
-        Activité C p34
+        Activité C p34  
         35-38-39p45  
         75 p48  
         84 p49  
         41-43-44 p45  
         88-89-92 p49-50  
         93-95-97 p50  
-        100-101 p50
+        100-101 p50  
         106-110 p51  
     === "Correction :" 
         A venir
