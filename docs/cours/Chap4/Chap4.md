@@ -36,7 +36,7 @@
         N°21-23-24-25-26p222  
         N°43-45 p224  
     === "Correction :" 
-        [Ex 21-23-24-25](./corr/21-23-24-25.pdf){:target="_blank"}  
+        [Ex 21-23-24-25-26](./corr/21-23-24-25-26.pdf){:target="_blank"}  
         [Ex 43-45](./corr/43-45.pdf){:target="_blank"}  
 
 
