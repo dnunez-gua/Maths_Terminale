@@ -25,9 +25,10 @@
         Activité A p p34  
         N°16-23-24-25-28-29p44
         N°55-57 p46  
-        Démo : 68-69p47
+        Démo : 68-69p47  
     === "Correction :" 
         A venir
+        
 !!! question " Factorielle :" 
     === "Exercices :" 
          Activité B p34
@@ -37,6 +38,7 @@
          81 p48
     === "Correction :" 
         A venir
+        
 !!! question " Arrangement-Combinaison :"
     === "Exercices :" 
         Activité C p34
