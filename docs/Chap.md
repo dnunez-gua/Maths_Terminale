@@ -3,15 +3,25 @@
 ### SUJETS BAC
 !!! note "Suites" 
     === "Sujets "
-        [Sujet 1](./cours/TYPE-BAC.pdf)  
-        [Sujet 2](./cours/Sujet2.pdf)  
+        [Sujet 1](./cours/TYPE-BAC.pdf){:target="_blank"}  
+        [Sujet 2](./cours/Sujet2.pdf){:target="_blank"}  
     === " Correction "
-        [Corr-Sujet 1](./cours/corr/sujet1.pdf)  
-        [Corr-Sujet 2](./cours/corr/sujet2.pdf)  
+        [Corr-Sujet 1](./cours/corr/sujet1.pdf){:target="_blank"}  
+        [Corr-Sujet 2](./cours/corr/sujet2.pdf){:target="_blank"}  
 
 !!! note "Bac Blanc 2022-2023" 
     === "Sujets : "
-        [Sujet Novembre 2022](./cours/BB1.pdf)
+        [Sujet Novembre 2022](./cours/BB1.pdf){:target="_blank"}
+
+
+### STAGES RAN
+!!! note "Octobre 2023" 
+    === "Fiches exercices "
+        [Suites](./cours/Suites.pdf){:target="_blank"}  
+        [Suites-recurrence](Suites-recurr.pdf){:target="_blank"}  
+        [Fonctions](./cours/Fonctions.pdf){:target="_blank"}  
+        [Continuité](./cours/Continuite.pdf){:target="_blank"}  
+
 ### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
 
 ### [Chapitre 2- Suites Numériques](./cours/Chap2/Chap2.md)
