@@ -25,10 +25,10 @@
         $\phi$ est deux fois dérivable, $\phi'(x)=f'(x)-f'(a)$ (les autres termes de $\phi$ étant des constantes).  
         Donc $\phi''(x)=f''(x)>0$ donc $\phi'$ est croissante sur I. 
         
-        - Si $x>a \Leftrightarrow \phi'(x)>\phi'(a)$ avec $\phi'(a)=f'(a)-f'(a)=0$ donc $\phi'(x)>0 \Leftrightarrow \phi$ est croissante sur I, donc $\phi(x)>\phi(a)$ avec \phi(a)=0$.  
-        Ainsi $\phi(x)>0\Leftrightarrow f(x)-y>0 \Leftrightarrow f(x)>y$ donc $\mathcal{C}_f$ est au-dessus de ses tangentes.  
+        - Si $x>a \Leftrightarrow \phi'(x)>\phi'(a)$ avec $\phi'(a)=f'(a)-f'(a)=0$ donc $\phi'(x)>0 \Leftrightarrow \phi$ est croissante sur I, donc $\phi(x)>\phi(a)$ avec $\phi(a)=0$.  
+        Ainsi $\phi(x)>0 \Leftrightarrow f(x)-y>0 \Leftrightarrow f(x)>y$ donc $\mathcal{C}_f$ est au-dessus de ses tangentes.  
         
-        - Si $x<a \Leftrightarrow \phi'(x)< \phi'(a) \Leftrightarrow \phi'(x)<0$  donc $\phi(x)$ est décroissante. Donc $x<a \Leftrightarrow \phi(x)> \phi(a) \Leftrightarrow \phi(x)>0$$.  
+        - Si $x<a \Leftrightarrow \phi'(x)< \phi'(a) \Leftrightarrow \phi'(x)<0$  donc $\phi(x)$ est décroissante. Donc $x<a \Leftrightarrow \phi(x)> \phi(a) \Leftrightarrow \phi(x)>0$.  
         Ainsi $f(x)-y>0 \Leftrightarrow f(x)>y$ donc $\mathcal{C}_f$ est au-dessus de ses tangentes.
 ## Cours 
 [cours Chap4](./Cours-chap4.pdf){:target="_blank"}
