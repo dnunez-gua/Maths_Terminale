@@ -28,7 +28,7 @@
         - Si $x>a \Leftrightarrow \phi'(x)>\phi'(a)$ avec $\phi'(a)=f'(a)-f'(a)=0$ donc $\phi'(x)>0 \Leftrightarrow \phi$ est croissante sur I.  
         Ainsi $f(x)-y>0 \Leftrightarrow f(x)>y$ donc $\mathcal{C}_f$ est au-dessus de ses tangentes.  
         
-        - Si $x<a \Leftrightarrow \phi'(x)< phi'(a) \Leftrigtharrow \phi'(x)<0$  donc $\phi(x) est décroissante. Donc $x<a \Leftrightarrow \phi(x)> phi(a)$.  
+        - Si $x<a \Leftrightarrow \phi'(x)< \phi'(a) \Leftrigtharrow \phi'(x)<0$  donc $\phi(x) est décroissante. Donc $x<a \Leftrightarrow \phi(x)> \phi(a)$.  
         Ainsi $f(x)-y>0 \Leftrightarrow f(x)>y$ donc $\mathcal{C}_f$ est au-dessus de ses tangentes.
 ## Cours 
 [cours Chap4](./Cours-chap4.pdf){:target="_blank"}
