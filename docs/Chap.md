@@ -18,7 +18,7 @@
 !!! note "Octobre 2023" 
     === "Fiches exercices "
         [Suites](./cours/Suites.pdf){:target="_blank"}  
-        [Suites-recurrence](Suites-recurr.pdf){:target="_blank"}  
+        [Suites-recurrence](./cours/Suites-recurr.pdf){:target="_blank"}  
         [Fonctions](./cours/Fonctions.pdf){:target="_blank"}  
         [Continuité](./cours/Continuite.pdf){:target="_blank"}  
 
