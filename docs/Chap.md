@@ -21,6 +21,11 @@
         [Suites-recurrence](./cours/Suites-recurr.pdf){:target="_blank"}  
         [Fonctions](./cours/Fonctions.pdf){:target="_blank"}  
         [Continuité](./cours/Continuite.pdf){:target="_blank"}  
+    === "Correction" 
+        [Suites](./cours/corr/Suites-corr.pdf){:target="_blank"}  
+        [Suites-recurrence](./cours/corr/Suites-recurr-corr.pdf){:target="_blank"}  
+        [Fonctions](./cours/corr/Fonctions-corr.pdf){:target="_blank"}  
+        [Continuité](./cours/corr/Continuite-corr.pdf){:target="_blank"}  
 
 ### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
 
