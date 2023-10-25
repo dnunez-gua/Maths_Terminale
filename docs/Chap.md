@@ -13,7 +13,7 @@
     === "Sujets : "
         [Sujet Novembre 2022](./cours/BB1.pdf){:target="_blank"}
     === "Corrigés : "
-        [Corrigé Novembre 2022](./cours/corrige-BB1.pdf){:target="_blank"}
+        [Corrigé Novembre 2022](./cours/corr/corrige-BB1.pdf){:target="_blank"}
 
 
 ### STAGES RAN
