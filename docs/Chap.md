@@ -12,6 +12,8 @@
 !!! note "Bac Blanc 2022-2023" 
     === "Sujets : "
         [Sujet Novembre 2022](./cours/BB1.pdf){:target="_blank"}
+    === "Corrigés : "
+        [Corrigé Novembre 2022](./cours/corrige-BB1.pdf){:target="_blank"}
 
 
 ### STAGES RAN
