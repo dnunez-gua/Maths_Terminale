@@ -15,7 +15,12 @@
     === "Evaluation"  
         <!--Travail de groupe 92 p231-->  
         Evaluation en Bac Blanc à la rentrée
-    
+## Démonstrations Chapitre 4
+!!! attention "Démonstration "
+    === "Propriété : "
+         $f''(x)>0\Leftrightarow \mathcal{C}_f$ est au-dessus de ses tangentes
+
+    ===  "Démonstration :"  
 ## Cours 
 [cours Chap4](./Cours-chap4.pdf){:target="_blank"}
 ## Rappels de première
