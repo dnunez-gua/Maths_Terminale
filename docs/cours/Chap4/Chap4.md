@@ -18,7 +18,7 @@
 ## Démonstrations Chapitre 4
 !!! attention "Démonstration "
     === "Propriété : "
-         $f''(x)>0\Leftrightarow \mathcal{C}_f$ est au-dessus de ses tangentes
+         $f''(x)>0\Leftrightarrow \mathcal{C}_f$ est au-dessus de ses tangentes
 
     ===  "Démonstration :"  
 ## Cours 
