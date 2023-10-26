@@ -43,7 +43,9 @@
     
 ### [Chapitre 5- Dénombrement](./cours/Chap5/Chap5.md)
 
-    
+### [Chapitre 6- Vecteurs, droites et plans de l'espace](./cours/Chap6/Chap6.md)    
+
+
 <!--  
 ### Chapitre 5- Vecteurs, droites et plans de l'espace
 ??? info "Cours "
