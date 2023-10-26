@@ -2,7 +2,7 @@
 # Vecteurs, droites et plans de l'espace
 
 ## Progression
-!!! info "Plan de travail - 6 Séances"
+!!! info "Plan de travail - 8 Séances"
     === "Séances" 
         **Séances 1-2 :** Rappels vecteurs  
         **Séances 3-4 :** Vecteurs de l'espace  
