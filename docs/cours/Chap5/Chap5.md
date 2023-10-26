@@ -28,7 +28,9 @@
         Démo : 68-69p47  
     === "Correction :" 
         A venir
-      <!--   [16-23-24-25-28-29](./corr/16-23-24-25-28-29.pdf){:target="_blank"} -->
+      <!--   [16-23-24-25-28-29](./corr/16-23-24-25-28-29.pdf){:target="_blank"}   -->
+      <!--   [55-57](./corr/55-57.pdf){:target="_blank"}   -->
+      <!--   [68-69](./corr/68-69.pdf){:target="_blank"}   -->
         
 !!! question " Factorielle :" 
     === "Exercices :" 
@@ -38,7 +40,12 @@
          76-77 p48  
          81 p48  
     === "Correction :" 
-        A venir
+        A venir  
+         <!--   [17-18](./corr/17-18.pdf){:target="_blank"}   -->
+         <!--   [32-33](./corr/32-33.pdf){:target="_blank"}   -->
+         <!--   [76-77](./corr/76-77.pdf){:target="_blank"}   -->
+         <!--   [81](./corr/81.pdf){:target="_blank"}   -->
+         
         
 !!! question " Arrangement-Combinaison :"
     === "Exercices :" 
@@ -52,4 +59,15 @@
         100-101 p50  
         106-110 p51  
     === "Correction :" 
-        A venir
+        A venir  
+        <!--   [35-38-39](./corr/35-38-39.pdf){:target="_blank"}   -->
+        <!--   [75](./corr/75.pdf){:target="_blank"}   -->
+        <!--   [84](./corr/84.pdf){:target="_blank"}   -->
+        <!--   [41-43-44](./corr/41-43-44.pdf){:target="_blank"}   -->
+        <!--   [88-89-92](./corr/88-89-92.pdf){:target="_blank"}   -->
+        <!--   [93-95-97](./corr/93-95-97.pdf){:target="_blank"}   -->
+        <!--   [100-101](./corr/100-101.pdf){:target="_blank"}   -->
+        <!--   [106-110](./corr/106-110.pdf){:target="_blank"}   -->
+        
+        
+
