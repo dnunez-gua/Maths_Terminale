@@ -28,7 +28,7 @@
         Démo : 68-69p47  
     === "Correction :" 
         A venir
-      <!--  [16-23-24-25-28-29](./corr/16-23-24-25-28-29.pdf){:target="_blank"} !-->
+      <!--   [16-23-24-25-28-29](./corr/16-23-24-25-28-29.pdf){:target="_blank"} -->
         
 !!! question " Factorielle :" 
     === "Exercices :" 
