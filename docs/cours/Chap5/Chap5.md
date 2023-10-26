@@ -15,7 +15,7 @@
         Evaluation 
     
 ## Cours 
-[cours Chap5](./Cours-chap5.pdf){:target="_blank"}
+[cours Chap5](./Cours_chap5.pdf){:target="_blank"}
 
 ## Exercices 
 
