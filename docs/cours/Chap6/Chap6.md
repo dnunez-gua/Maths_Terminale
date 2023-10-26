@@ -4,10 +4,10 @@
 ## Progression
 !!! info "Plan de travail - 6 Séances"
     === "Séances" 
-        **Séances 1-2 :** Rappels vecteurs 
-        **Séances 3-4 :** Vecteurs de l'espace
-        **Séances 5-6 :** Droites et plans de l'espace
-        **Séances 7-8 :** Sections et bilan 
+        **Séances 1-2 :** Rappels vecteurs  
+        **Séances 3-4 :** Vecteurs de l'espace  
+        **Séances 5-6 :** Droites et plans de l'espace  
+        **Séances 7-8 :** Sections et bilan   
     === "A faire"
         **Séances 1-4:** Etudier le cours + Exercices du cours interactifs  
     
