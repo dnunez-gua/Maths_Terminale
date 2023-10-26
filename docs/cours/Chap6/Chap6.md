@@ -26,8 +26,8 @@
 
 !!! question " Vecteurs de l'espace  :"
     === "Exercices :" 
-        N°17-18-25 p72 
-        N°45-50p74
+        N°17-18-25 p72  
+        N°45-50p74  
         N°31p73 (Indication : Montrer que L,M,N forment l'intersection des plans (BCD) et (IJK))  
         
     === "Correction :" 
@@ -38,11 +38,11 @@
 
 !!! question " Droites et plans de l'espace  :"
     === "Exercices :" 
-        N°59-60 p72 
-        N°79-80-81p74
-        N°82-83-84p73 
-        N°94p81
-        N°86p79
+        N°59-60 p72  
+        N°79-80-81p74  
+        N°82-83-84p73  
+        N°94p81  
+        N°86p79  
         
     === "Correction :" 
         A venir
@@ -55,8 +55,8 @@
 
 !!! question " Section de plan dans un volume:"
     === "Exercices :" 
-        N°62-63-65 p 76
-        N°104 p55
+        N°62-63-65 p 76  
+        N°104 p55  
         
     === "Correction :" 
         A venir
