@@ -14,7 +14,7 @@
         **Séance 5 :** DM
     
     === "Evaluation"
-        Evaluation 2H sur toute l'année  
+        Evaluation en BB semaine du 13 novembre
     
 ## Cours 
 [cours Chap3](./Cours-chap3.pdf){:target="_blank"}
