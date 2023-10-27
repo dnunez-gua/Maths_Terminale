@@ -14,7 +14,8 @@
     
     === "Evaluation"  
         <!--Travail de groupe 92 p231-->  
-        Evaluation en Bac Blanc à la rentrée
+        Travail de groupe semaine du 6 novembre
+        Evaluation en Bac Blanc à la rentrée  
 ## Démonstrations Chapitre 4
 !!! attention "Démonstration "
     === "Propriété : "  
