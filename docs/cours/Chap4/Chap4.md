@@ -22,7 +22,7 @@
          $f''(x)>0$ sur un intervalle I $\Leftrightarrow \mathcal{C}_f$ est au-dessus de ses tangentes  
     ===  "Démonstration :"  
         Soit $T_a$ la tangente à $\mathcal{C}_f$ au point d'abscisse $a$ avec $T_a:y=f'(a)(x-a)+f(a)$.  
-        On note $\phi$ la fonction définie par $\phi(x)=f(x)-y=f(x)-f'(a)(x-a)+f(a)=f(x)-f'(a)(x-a)-f(a)$.  
+        On note $\phi$ la fonction définie par $\phi(x)=f(x)-y=f(x)-(f'(a)(x-a)+f(a))=f(x)-f'(a)(x-a)-f(a)$.  
         $\phi$ est deux fois dérivable, $\phi'(x)=f'(x)-f'(a)$ (les autres termes de $\phi$ étant des constantes).  
         Donc $\phi''(x)=f''(x)>0$ donc $\phi'$ est croissante sur I. 
         
