@@ -27,10 +27,9 @@
         N°55-57 p46  
         Démo : 68-69p47  
     === "Correction :" 
-        A venir
-      <!--   [16-23-24-25-28-29](./corr/16-23-24-25-28-29.pdf){:target="_blank"}   -->
-      <!--   [55-57](./corr/55-57.pdf){:target="_blank"}   -->
-      <!--   [68-69](./corr/68-69.pdf){:target="_blank"}   -->
+        [16-23-24-25-28-29](./corr/16-23-24-25-28-29.pdf){:target="_blank"}   
+        [55-57](./corr/55-57.pdf){:target="_blank"}   
+        [68-69](./corr/68-69.pdf){:target="_blank"}   
         
 !!! question " Factorielle :" 
     === "Exercices :" 
@@ -40,9 +39,8 @@
          76-77 p48  
          81 p48  
     === "Correction :" 
-        A venir  
-         <!--   [17-18](./corr/17-18.pdf){:target="_blank"}   -->
-         <!--   [32-33](./corr/32-33.pdf){:target="_blank"}   -->
+          [17-18](./corr/17-18.pdf){:target="_blank"}   
+          [32-33](./corr/32-33.pdf){:target="_blank"}   
          <!--   [76-77](./corr/76-77.pdf){:target="_blank"}   -->
          <!--   [81](./corr/81.pdf){:target="_blank"}   -->
          
