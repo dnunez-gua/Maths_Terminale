@@ -60,6 +60,7 @@ L'option est évaluée en controle continu.
 
 !!! note "Division Euclidienne"
     Activité Bp92  
+    N°20-21-22-23-24p 104  
     N°40-41p105
     N°79-80p107  
     N°81-84-86p108  
