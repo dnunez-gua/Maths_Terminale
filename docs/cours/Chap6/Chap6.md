@@ -27,7 +27,7 @@
 !!! question " Vecteurs de l'espace  :"
     === "Exercices :" 
         N°17-18-25 p72  
-        N°45-50p74  
+        N°45-50-51-52p74  
         N°31p73 (Indication : Montrer que L,M,N forment l'intersection des plans (BCD) et (IJK))  
         
     === "Correction :" 
