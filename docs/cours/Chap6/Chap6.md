@@ -28,16 +28,18 @@
     === "Exercices :" 
         N°17-18-25 p72  
         N°45-50-51-52p74  
-        N°31p73 (Indication : Montrer que L,M,N forment l'intersection des plans (BCD) et (IJK))  
+        N°35-36-37-38p73
+
         
     === "Correction :" 
         A venir
       <!--   [17-18-25](./corr/17-18-25.pdf){:target="_blank"}   -->
       <!--   [45-50](./corr/45-50.pdf){:target="_blank"}   -->
-      <!--   [31](./corr/31.pdf){:target="_blank"}   -->
+
 
 !!! question " Droites et plans de l'espace  :"
     === "Exercices :" 
+        N°31p73 (Indication : Montrer que L,M,N forment l'intersection des plans (BCD) et (IJK))  
         N°59-60 p72  
         N°79-80-81p74  
         N°82-83-84p73  
@@ -46,6 +48,7 @@
         
     === "Correction :" 
         A venir
+      <!--   [31](./corr/31.pdf){:target="_blank"}   -->
       <!--   [59-60](./corr/59-60.pdf){:target="_blank"}   -->
       <!--   [79-80](./corr/79-80.pdf){:target="_blank"}   -->
       <!--   [82-83](./corr/82-83-84.pdf){:target="_blank"}   -->
