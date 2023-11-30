@@ -41,6 +41,7 @@
     === "Exercices :" 
         N°31p73 (Indication : Montrer que L,M,N forment l'intersection des plans (BCD) et (IJK))  
         N°59-60 p72  
+        N°67-68-69-70-71-73-74p77
         N°79-80-81p74  
         N°82-83-84p73  
         N°94p81  
