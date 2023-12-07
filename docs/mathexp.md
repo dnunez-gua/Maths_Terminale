@@ -47,6 +47,9 @@ L'option est évaluée en controle continu.
 ## Chapitre 2 - Arithmétique - Divisibilité dans $\mathbb{Z}$
 !!! info "Cours" 
     Le cours [Cours](./cours/MEXP/Chap2/Cours_Chap2.pdf)   
+
+!!! alerte "devoir 2022"
+    [Eval](./cours/MEXP/Chap2/eval.pdf)
 !!! note "Activité de découverte"
     N°1-2-6-8p90  
     
