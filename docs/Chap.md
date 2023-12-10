@@ -45,11 +45,9 @@
 
 ### [Chapitre 6- Vecteurs, droites et plans de l'espace](./cours/Chap6/Chap6.md)    
 
-
+### [Chapitre 7- Loi Binomiale](./cours/Chap7/Chap7.md)    
 <!--  
-### Chapitre 5- Vecteurs, droites et plans de l'espace
-??? info "Cours "
-    Le cours : [Chap 5](./cours/Chap5/Cours_chap5.pdf)
+
 ### Chapitre 6- Loi Binomiale
 ??? info "Cours "
     Le cours : [Chap 6](./cours/Chap6/Cours_Chap6.pdf)
