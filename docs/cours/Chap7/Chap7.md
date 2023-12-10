@@ -16,7 +16,7 @@
 
     
 ## Cours 
-[cours Chap7](./Cours-Chap7.pdf){:target="_blank"}
+[cours Chap7](./Cours_Chap7.pdf){:target="_blank"}
 
 ## Exercices
 
