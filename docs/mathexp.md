@@ -50,6 +50,7 @@ L'option est évaluée en controle continu.
 
 !!! alerte "devoir 2022"
     [Eval](./cours/MEXP/Chap2/eval.pdf)
+    [corrige](./cours/MEXP/Chap2/Ds1-divisibilite.pdf)
 !!! note "Activité de découverte"
     N°1-2-6-8p90  
     
