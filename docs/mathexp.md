@@ -90,7 +90,7 @@ L'option est évaluée en controle continu.
 
     
 !!! note "Construction de matrices"
-    ![Exo](./cours/MEXP/Chap3/exercice.PNG)
+    ![Exo](./cours/MEXP/Chap3/IMG_0907.jpeg)
     
     
 !!! note "Calculs matriciels"
