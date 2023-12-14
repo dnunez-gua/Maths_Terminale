@@ -59,8 +59,7 @@
         N°104 p55  
         
     === "Correction :" 
-        A venir
-      <!--   [62-63-65](./corr/62-63-65.pdf){:target="_blank"}   -->
-      <!--   [104](./corr/104.pdf){:target="_blank"}   -->
+         [62-63-65](./corr/62-63-65.pdf){:target="_blank"}   
+         [104](./corr/104.pdf){:target="_blank"}   
 
       
