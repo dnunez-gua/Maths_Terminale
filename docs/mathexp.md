@@ -99,8 +99,12 @@ L'option est évaluée en controle continu.
     N°47 p193
 
 !!! note "Inverse de matrices et applications"
-    N°26 p190
+    N°26-28-29 p190
     N°49-50-52-53 p193
+
+
+!!! note "Transformations géométriques "
+    En construction
 
 <!--
 ## Chapitre 3 - Matrice 
