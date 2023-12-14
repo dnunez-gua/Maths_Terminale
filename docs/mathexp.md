@@ -83,6 +83,25 @@ L'option est évaluée en controle continu.
 !!! note "Chiffrement"
     N°119p112
     
+## Chapitre 3 - Matrices et application aux graphes
+!!! info "Cours" 
+    Le cours [Cours](./cours/MEXP/Chap3/Cours-Chap3.pdf)   
+
+
+    
+!!! note "Construction de matrices"
+    ![Exo](./cours/MEXP/Chap3/exercice.PNG)
+    
+    
+!!! note "Calculs matriciels"
+    N°20-22-23-24 p190  
+    N°44 p192
+    N°47 p193
+
+!!! note "Inverse de matrices et applications"
+    N°26 p190
+    N°49-50-52-53 p193
+
 <!--
 ## Chapitre 3 - Matrice 
 ??? info "Cours" 
