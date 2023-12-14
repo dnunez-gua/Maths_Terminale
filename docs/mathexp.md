@@ -85,7 +85,7 @@ L'option est évaluée en controle continu.
     
 ## Chapitre 3 - Matrices et application aux graphes
 !!! info "Cours" 
-    Le cours [Cours](./cours/MEXP/Chap3/Cours-Chap3.pdf)   
+    Le cours [Cours](./cours/MEXP/Chap3/Cours-chap3.pdf)   
 
 
     
