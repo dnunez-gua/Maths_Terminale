@@ -29,6 +29,15 @@
         [Fonctions](./cours/corr/Fonctions-corr.pdf){:target="_blank"}  
         [Continuité](./cours/corr/Continuite-corr.pdf){:target="_blank"}  
 
+
+### Calculatrices 
+    === "Numworks : "
+         [Notice](./Numworks.pdf) 
+    === "Casio : "
+        [Notice](./Casio.pdf)
+    === "TI : " 
+        [Notice](./TI.pdf)
+
 ### [Chapitre 1- Limites de fonctions](./cours/Chap1/Chap1.md)
 
 ### [Chapitre 2- Suites Numériques](./cours/Chap2/Chap2.md)
