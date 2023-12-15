@@ -31,8 +31,10 @@
 
 
 ### Calculatrices 
+!!! alerte " NOTICES "
+
     === "Numworks : "
-         [Notice](./Numworks.pdf) 
+        [Notice](./Numworks.pdf) 
     === "Casio : "
         [Notice](./Casio.pdf)
     === "TI : " 
