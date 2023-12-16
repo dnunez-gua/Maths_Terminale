@@ -36,6 +36,7 @@
 
 !!! question " Echantillonage:"
     === "Exercices :" 
+        Activité C p353
         N°89-90-91 p 371  
         N°93-94 p371  
         N°97-98 p371  
