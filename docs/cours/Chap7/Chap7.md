@@ -43,3 +43,8 @@
          
     === "Correction :" 
          A venir 
+
+!!! question "Problèmes "
+    === "Exercices :"
+        [Exercice](./Exercices.pdf){:target="_blank"}
+    === "Corrigé : "
