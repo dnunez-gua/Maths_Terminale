@@ -9,6 +9,12 @@
         [Corr-Sujet 1](./cours/corr/sujet1.pdf){:target="_blank"}  
         [Corr-Sujet 2](./cours/corr/sujet2.pdf){:target="_blank"}  
 
+!!! note "Géométrie"
+    === "Sujets "
+         N°99p84
+    === " Correction "
+        [99](./cours/99.pdf){:target="_blank"}  
+
 !!! note "Bac Blanc 2022-2023" 
     === "Sujets : "
         [Sujet Novembre 2022](./cours/BB1.pdf){:target="_blank"}
