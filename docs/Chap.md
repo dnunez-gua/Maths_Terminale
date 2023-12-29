@@ -17,9 +17,9 @@
 
 !!! note "Bac Blanc 2022-2023" 
     === "Sujets : "
-        [Sujet Novembre 2022](./cours/BB1.pdf){:target="_blank"}
-        [Sujet Lundi 16 janvier](./cours/sujetLundi.pdf){:target="_blank"}
-        [Sujet Mardi 17 janvier](./cours/sujetMardi.pdf){:target="_blank"}
+        [Sujet Novembre 2022](./cours/BB1.pdf){:target="_blank"}  
+        [Sujet Lundi 16 janvier](./cours/sujetLundi.pdf){:target="_blank"}  
+        [Sujet Mardi 17 janvier](./cours/sujetMardi.pdf){:target="_blank"}  
 
     === "Corrigés : "
         [Corrigé Novembre 2022](./cours/corr/corrige-BB1.pdf){:target="_blank"}
