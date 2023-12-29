@@ -51,7 +51,7 @@
          
     === "Correction :" 
          [89-90-91-93-94](./corr/89-90-91-93-94.pdf){:target="_blank"}  
-         [98-99](./corr/98-99.pdf){:target="_blank"}  
+         [97-98](./corr/97-98.pdf){:target="_blank"}  
 
 !!! question "Problèmes "
     === "Exercices :"
