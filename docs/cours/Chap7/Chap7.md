@@ -32,7 +32,15 @@
          N°67-68 p367-368  
          
     === "Correction :" 
-         A venir 
+         [27-28-29](./corr/27-28-29.pdf){:target="_blank"}   
+         [31-32-33](./corr/31-32-33.pdf){:target="_blank"}   
+         [54-55](./corr/54-55.pdf){:target="_blank"}   
+         [59-60](./corr/59-60.pdf){:target="_blank"}   
+         [64-65-66](./corr/64-65-66.pdf){:target="_blank"}  
+         [67-68](./corr/64-65-66.pdf){:target="_blank"}  
+
+
+
 
 !!! question " Echantillonage:"
     === "Exercices :" 
@@ -42,7 +50,8 @@
         N°97-98 p371  
          
     === "Correction :" 
-         A venir 
+         [89-90-91-93-94](./corr/89-90-91-93-94.pdf){:target="_blank"}  
+         [98-99](./corr/98-99.pdf){:target="_blank"}  
 
 !!! question "Problèmes "
     === "Exercices :"
