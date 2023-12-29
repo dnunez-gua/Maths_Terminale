@@ -37,7 +37,7 @@
          [54-55](./corr/54-55.pdf){:target="_blank"}   
          [59-60](./corr/59-60.pdf){:target="_blank"}   
          [64-65-66](./corr/64-65-66.pdf){:target="_blank"}  
-         [67-68](./corr/64-65-66.pdf){:target="_blank"}  
+         [67-68](./corr/67-68.pdf){:target="_blank"}  
 
 
 
