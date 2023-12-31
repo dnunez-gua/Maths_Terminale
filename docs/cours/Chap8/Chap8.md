@@ -8,13 +8,12 @@
         **Séances 3-5 :** Equation cartésienne du plan  
         **Séances 6 :** Calcul d'angle
         **Séance 7 :** Projection orthogonal
-        **Séance 8 :** Problème
+        **Séance 8 :** Equation de sphères - Problèmes
     === "A faire"
         **Séances :** Etudier le cours     
     === "Evaluation"  
         Evaluation 
-        <!--   Travail de groupe 108p374-->
-        <!--   Travail de groupe 114-115p377-->
+        
 
     
 ## Cours 
@@ -22,9 +21,45 @@
 
 ## Exercices
 
-!!! question " Produit scalaire:"
+!!! question " Produit scalaire analytique :"
     === "Exercices :" 
          N°22-30 p102  
-         N°65 p105
-
+         N°64-65 p105  
+         N°72 p106  
+         N°79 p107
+    === "Corrigés :"  
+        A venir
+!!! question " Equation cartésienne de plan :"
+    === "Exercices :" 
+         N°34-35-36 p103  
+         N°66 p105  
+         N°74-75 p106  
          
+    === "Corrigés :"  
+         A venir
+        
+!!! question "Calcul d'angles :"
+    === "Exercices" 
+        N°27-28-29 p105  
+        N°50-53-54-57 p106  
+    === "Corrigés"  
+          A venir
+
+!!! question "Projection orthogonale - Distance à un plan :"
+    === "Exercices" 
+        N°38-39-40-41-42 p106  
+        N°85-86-87 p108  
+        N°89-90-93 p108  
+        N°100 p109  
+        
+    === "Corrigés"  
+          A venir
+
+!!! question "Equations de sphères - problèmes :"
+    === "Exercices" 
+        N°44-45 p106  
+        N°110 p112  
+        N°117 p115  
+        Interserction de plan : sujets BAC
+    === "Corrigés"  
+          A venir
