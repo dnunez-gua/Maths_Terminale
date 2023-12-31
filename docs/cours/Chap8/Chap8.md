@@ -6,9 +6,9 @@
     === "Séances" 
         **Séances 1-2 :** Produit scalaire analytique    
         **Séances 3-5 :** Equation cartésienne du plan  
-        **Séances 6 :** Calcul d'angle
-        **Séance 7 :** Projection orthogonal
-        **Séance 8 :** Equation de sphères - Problèmes
+        **Séances 6 :** Calcul d'angle  
+        **Séance 7 :** Projection orthogonal  
+        **Séance 8 :** Equation de sphères - Problèmes  
     === "A faire"
         **Séances :** Etudier le cours     
     === "Evaluation"  
