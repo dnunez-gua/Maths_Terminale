@@ -60,6 +60,6 @@
         N°44-45 p106  
         N°110 p112  
         N°117 p115  
-        Interserction de plan : sujets BAC
+        Interserction de plans : sujets BAC
     === "Corrigés"  
           A venir
