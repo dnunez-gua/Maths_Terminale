@@ -53,25 +53,19 @@
 
 ### [Chapitre 2- Suites Numériques](./cours/Chap2/Chap2.md)
 
-
 ### [Chapitre 3- Continuité de fonctions et Applications](./cours/Chap3/Chap3.md)
 
 ### [Chapitre 4- Compléments sur la dérivation](./cours/Chap4/Chap4.md)
-
-  
-
     
 ### [Chapitre 5- Dénombrement](./cours/Chap5/Chap5.md)
 
 ### [Chapitre 6- Vecteurs, droites et plans de l'espace](./cours/Chap6/Chap6.md)    
 
 ### [Chapitre 7- Loi Binomiale](./cours/Chap7/Chap7.md)    
+
+### [Chapitre 8- Orthogonalité dans l'espace](./cours/Chap8/Chap8.md)    
+
 <!--  
-
-### Chapitre 6- Loi Binomiale
-??? info "Cours "
-    Le cours : [Chap 6](./cours/Chap6/Cours_Chap6.pdf)
-
 ### Chapitre 7- Produit scalaire dans l'espace
 ??? info "Cours "
     Le cours : [Chap 7](./cours/Chap7/Cours-Chap7.pdf)
