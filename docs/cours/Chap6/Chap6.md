@@ -47,7 +47,7 @@
     === "Correction :" 
         [31](./corr/31.pdf){:target="_blank"}   
         [59-60](./corr/59-60.pdf){:target="_blank"}   
-        [79-80](./corr/79-80.pdf){:target="_blank"}   
+        [79-80-81](./corr/79-80-81.pdf){:target="_blank"}   
         [82-83](./corr/82-83-84.pdf){:target="_blank"}  
         [94](./corr/94.pdf){:target="_blank"}  
         [86](./corr/86.pdf){:target="_blank"}   
