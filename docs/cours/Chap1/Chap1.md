@@ -2,14 +2,14 @@
 # Chapitre 1 - Limites de fonctions
 ## Progression
 !!! info " Méthodes "
-   - $a$ désigne un nombre réel ou $+\infty$ ou $-\infty$. $f$ est une fonction définie au voisinage de $a$.
+   1. $a$ désigne un nombre réel ou $+\infty$ ou $-\infty$. $f$ est une fonction définie au voisinage de $a$.
    - Dire que $f$ a pour limite $a$ quand $x$ tend vers $a$ (resp $+\infty$) signifie que, quelque soit le réel $A,f(x)>A$ dès que $x$ suffisamment proche de $a$)(resp. $x$ suffisamment grand). On écrit : $\displaystyle\lim_{x \to a} f(x)=+\infty$ (resp. $\displaystyle\lim_{x \to +\infty} f(x)=+\infty$).
    - De façon analoque : $\displaystyle\lim_{x \to -\infty} f(x)=+\infty$ ;  $\displaystyle\lim_{x \to +\infty} f(x)=-\infty$ ;  $\displaystyle\lim_{x \to -\infty} f(x)=-\infty$
    - Dire que $f$ a pour limite $l$ quand $x$ tend vers $a$ (resp $+\infty$) signifie que quelques soit $\epsilon>0; |f(x)-l|<\epsilon$ dès que $x$ suffisamment proche de $a$)(resp. $x$ suffisamment grand). On écrit $\displaystyle\lim_{x \to a} f(x)=l$ (resp. $\displaystyle\lim_{x \to +\infty} f(x)=l$).
-   - Cela permet de :
+   - Cela permet de :  
      Etudier le comportement de $f$ même lorsque la fonction n'est pas définie (pour une valeur interdite).  
      Déterminer des asymptotes
-
+   2.Des théorèmes permettent de donner la limite d'une somme, d'un produit ou d'un quotient de fonctions. Les formes indéterminées sont de la forme $\infty -\infty$ ou $0\times \infty$ ou $\infty / \infty$ ou $0/0$
     
     
 ## Cours 
