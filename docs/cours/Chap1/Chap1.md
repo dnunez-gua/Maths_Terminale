@@ -1,25 +1,16 @@
 [Retour](../../Chap.md)
 # Chapitre 1 - Limites de fonctions
 ## Progression
-!!! info "Plan de travail - 6 Séances"
-    === "Séances"
-        **Séance 1 :** Presentation de la specialité <br>
-        Notion de limite : Activites en classe <br>
-        **Séance 2 :** Recherche de limites - formalisme- Démonstration du cours<br>
-        **Séance 3 :** Opérations sur les limites<br>
-        **Séance 4 :** Formes indéterminées<br>
-        **Séance 5 :** Comparaisons - Théorème des gendarmes<br>
-        **Séance 6 :** Croissances comparées
-        
-    === "A faire"
-        **Seance 1 :** Etudier la partie 2.1 du cours sauf les démonstrations<br>
-        **Séance 3 :** Exercices 2 à 10 dans le cours - Etudier la page 9<br>
-        **Séance 4 :** Exercices 11 à 14 dans le cours
-        
-    === "Evaluation"
-        Travail de groupe à rendre :[Activité](./TAF.pdf){:target="_blank"}  
-        Bilan la semaine du 18 septembre
-        
+!!! info " Méthodes "
+   - $a$ désigne un nombre réel ou $+\infty$ ou $-\infty$. $f$ est une fonction définie au voisinage de $a$.
+   - Dire que $f$ a pour limite $a$ quand $x$ tend vers $a$ (resp $+\infty$) signifie que, quelque soit le réel $A,f(x)>A$ dès que $x$ suffisamment proche de $a$)(resp. $x$ suffisamment grand). On écrit : $\displaystyle\lim_{x \to a} f(x)=+\infty$ (resp. $\displaystyle\lim_{x \to +\infty} f(x)=+\infty$).
+   - De façon analoque : $\displaystyle\lim_{x \to -\infty} f(x)=+\infty$ ;  $\displaystyle\lim_{x \to +\infty} f(x)=-\infty$ ;  $\displaystyle\lim_{x \to -\infty} f(x)=-\infty$
+   - Dire que $f$ a pour limite $l$ quand $x$ tend vers $a$ (resp $+\infty$) signifie que quelques soit $\epsilon>0; |f(x)-l|<\epsilon$ dès que $x$ suffisamment proche de $a$)(resp. $x$ suffisamment grand). On écrit $\displaystyle\lim_{x \to a} f(x)=l$ (resp. $\displaystyle\lim_{x \to +\infty} f(x)=l$).
+   - Cela permet de :
+         - Etudier le comportement de $f$ même lorsque la fonction n'est pas définie (pour une valeur interdite)
+         - Déterminer des asymptotes
+
+    -
     
 ## Cours 
 
