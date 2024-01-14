@@ -7,8 +7,8 @@
     Cela permet de :
     - montrer qu'une suite converge vers un réel $l$.  
     - Etudier le comportement asymptotique d'une suite, notamment dans la modélisation de problème.  
-    **Méthode 2** : Une suite $(u_n)$ a pour limite $+\infty$ lorsque, pour tout $A$ on peut trouver un rang $n_0$ à partir duquel $u_n>A$.  
-    Une suite $(u_n)$ a pour limite $-\infty$ lorsque, pour tout $B$ on peut trouver un rang $n_0$ à partir duquel $u_n<B$.  
+    **Méthode 2** : Une suite $(u_n)$ a pour limite $+\infty$ lorsque, pour tout $A$ on peut trouver un rang $n_0$ à partir duquel $u_n > A$.  
+    Une suite $(u_n)$ a pour limite $-\infty$ lorsque, pour tout $B$ on peut trouver un rang $n_0$ à partir duquel $u_n < B$.  
     Cela permet de : 
     - montrer qu'une suite diverge.  
     - Etudier le comportement asymptotique d'une suite, notamment dans la modélisation de problème.   
