@@ -3,7 +3,7 @@
 
 ## Progression
 !!! info "Méthodes" 
-    **Méthode 1** : Une suite $(u_n)$ a pour limite $l$ lorsque, pour tout $\epsilon$ on peut trouver un rang $n_0$ à partir duquel $l-\epsilon <u_n<l+\epsilon$.   
+    **Méthode 1** : Une suite $(u_n)$ a pour limite $l$ lorsque, pour tout $\epsilon$ on peut trouver un rang $n_0$ à partir duquel $l-\epsilon < u_n < l+\epsilon$.   
     Cela permet de :
     - montrer qu'une suite converge vers un réel $l$.  
     - Etudier le comportement asymptotique d'une suite, notamment dans la modélisation de problème.  
