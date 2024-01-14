@@ -3,7 +3,7 @@
 
 ## Progression
 !!! info "Méthodes"
-    **Méthode 1**: Soient $u$ une fonction définie et  dérivable sur un intervalle I à valeurs dans J, et $v$ une fonction définie et dérivable sur J. Alors la fonction $v \ovoid u$ est dérivable sur I. et pour tout $x_0 \in I, (v\circle u)'(x_0)=u'(x_0)\times (v'\circle u)$  
+    **Méthode 1**: Soient $u$ une fonction définie et  dérivable sur un intervalle I à valeurs dans J, et $v$ une fonction définie et dérivable sur J. Alors la fonction $v°u$ est dérivable sur I. et pour tout $x_0 \in I, (v° u)'(x_0)=u'(x_0)\times (v'° u)$  
     **Méthode 2** : Soit $f$ une fonction dérivable sur I, f est convexe si et seulement si $f'$ est croissante sur I.  Cela permet de :   
     - déterminer la convexité d'une fonction.  
     - étudier la position de la courbe par rapport à ses sécantes ou ses tangentes  
