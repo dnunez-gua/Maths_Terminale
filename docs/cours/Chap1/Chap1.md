@@ -7,10 +7,10 @@
    - De façon analoque : $\displaystyle\lim_{x \to -\infty} f(x)=+\infty$ ;  $\displaystyle\lim_{x \to +\infty} f(x)=-\infty$ ;  $\displaystyle\lim_{x \to -\infty} f(x)=-\infty$
    - Dire que $f$ a pour limite $l$ quand $x$ tend vers $a$ (resp $+\infty$) signifie que quelques soit $\epsilon>0; |f(x)-l|<\epsilon$ dès que $x$ suffisamment proche de $a$)(resp. $x$ suffisamment grand). On écrit $\displaystyle\lim_{x \to a} f(x)=l$ (resp. $\displaystyle\lim_{x \to +\infty} f(x)=l$).
    - Cela permet de :
-         - Etudier le comportement de $f$ même lorsque la fonction n'est pas définie (pour une valeur interdite)
-         - Déterminer des asymptotes
+     Etudier le comportement de $f$ même lorsque la fonction n'est pas définie (pour une valeur interdite).  
+     Déterminer des asymptotes
 
-    -
+    
     
 ## Cours 
 
