@@ -2,19 +2,15 @@
 # Continuité de fonctions
 
 ## Progression
-!!! info "Plan de travail - 7 Séances"
-    === "Séances" 
-        **Séance 1-2 :** Notion de continuité  
-        **Séance 3-4 :** T.V.I - Théorème de la Bijection  
-        **Séance 5 :** Algorithme de la dichotomie  
-        **Séance 6-7 :** Application aux suites  
-    === "A faire"
-        **Seance 1 :** Etudier le cours  
-        **Séance 4 :** Bien comprendre la rédaction du TVI
-        **Séance 5 :** DM
-    
-    === "Evaluation"
-        Evaluation en BB semaine du 13 novembre
+!!! info "Méthodes" 
+    **Méthode 1** : $f$ est continue en $a$ si $\display\lim_{x\to a}f(x)$ existe et est égale à $f(a)$. Cela permet de :  
+    - savoir su la courbe représentative de $f$ peut se tracer "sans lever le crayon".  
+    - appliquer certains théorèmes  
+    - dire que toute fonction dérivable est continue.   
+    **Méthode 2** : Le théorème des valeurs intermédiaires permet de savoir si l'équation $f(x)=k$ admet des solutions.  
+    Son corollaire, le théorème de la bijection, permet de savoir si cette solution est unique.  
+    **Méthode 3** : Application aux suites ; le théorème du point fixe donne 
+    " Soit $f$ est une fonction continue de I à valeurs dans I, et $u_{n+1}=f(u_n)$. Si $u_n$ converge alors sa limite $l$ est solution de $f(x)=x$.
     
 ## Cours 
 [cours Chap3](./Cours-chap3.pdf){:target="_blank"}
