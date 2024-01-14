@@ -2,7 +2,7 @@
 # Chapitre 1 - Limites de fonctions
 ## Progression
 !!! info " Méthodes "
-    méthode 1 : $a$ désigne un nombre réel ou $+\infty$ ou $-\infty$. $f$ est une fonction définie au voisinage de $a$.
+    **méthode 1** : $a$ désigne un nombre réel ou $+\infty$ ou $-\infty$. $f$ est une fonction définie au voisinage de $a$.
     - Dire que $f$ a pour limite $a$ quand $x$ tend vers $a$ (resp $+\infty$) signifie que, quelque soit le réel $A,f(x)>A$ dès que $x$ suffisamment proche de $a$)(resp. $x$ suffisamment grand). On écrit : $\displaystyle\lim_{x \to a} f(x)=+\infty$ (resp. $\displaystyle\lim_{x \to +\infty} f(x)=+\infty$).
     - De façon analoque : $\displaystyle\lim_{x \to -\infty} f(x)=+\infty$ ;  $\displaystyle\lim_{x \to +\infty} f(x)=-\infty$ ;  $\displaystyle\lim_{x \to -\infty} f(x)=-\infty$
     - Dire que $f$ a pour limite $l$ quand $x$ tend vers $a$ (resp $+\infty$) signifie que quelques soit $\epsilon>0; |f(x)-l|<\epsilon$ dès que $x$ suffisamment proche de $a$)(resp. $x$ suffisamment grand). On écrit $\displaystyle\lim_{x \to a} f(x)=l$ (resp. $\displaystyle\lim_{x \to +\infty} f(x)=l$).
@@ -10,11 +10,11 @@
      Etudier le comportement de $f$ même lorsque la fonction n'est pas définie (pour une valeur interdite).  
      Déterminer des asymptotes
      
-     méthode 2 : Des théorèmes permettent de donner la limite d'une somme, d'un produit ou d'un quotient de fonctions. Les formes indéterminées sont de la forme $\infty -\infty$ ou $0\times \infty$ ou $\infty / \infty$ ou $0/0$. Il faudra transformer la fonction pour casser l'indetermination.  
-     méthode 3 : Si pour tout $x\in I, f(x)\geq g(x)$ et $\displaystyle\lim_{x \to +\infty} g(x)=+\infty$ alors $\displaystyle\lim_{x \to +\infty} f(x)=+\infty$  
+     **méthode 2** : Des théorèmes permettent de donner la limite d'une somme, d'un produit ou d'un quotient de fonctions. Les formes indéterminées sont de la forme $\infty -\infty$ ou $0\times \infty$ ou $\infty / \infty$ ou $0/0$. Il faudra transformer la fonction pour casser l'indetermination.  
+     **méthode 3** : Si pour tout $x\in I, f(x)\geq g(x)$ et $\displaystyle\lim_{x \to +\infty} g(x)=+\infty$ alors $\displaystyle\lim_{x \to +\infty} f(x)=+\infty$  
      Si pour tout $x\in I, f(x)\leq g(x)$ et $\displaystyle\lim_{x \to +\infty} g(x)=-\infty$ alors $\displaystyle\lim_{x \to +\infty} f(x)=-\infty$  
      Si pour tout $x\in I, g(x)\leq f(x)\leq h(x)$ et $\displaystyle\lim_{x \to +\infty} g(x)=\displaystyle\lim_{x \to +\infty} h(x)=l$ alors $\displaystyle\lim_{x \to +\infty} f(x)=l$ (théorème des gendarmes)  
-     méthode 4 : $ \displaystyle\lim_{x \to +\infty} e^x=+\infty$ et $ \displaystyle\lim_{x \to -\infty} e^x=0$.
+     **méthode 4** : $ \displaystyle\lim_{x \to +\infty} e^x=+\infty$ et $ \displaystyle\lim_{x \to -\infty} e^x=0$.
       Pour tout n entier $ \displaystyle\lim_{x \to +\infty} \dfrac{e^x}{x^n}=+\infty$ et $ \displaystyle\lim_{x \to -\infty} x^n.e^x=0$ (théorème des croissances comparées)
    
     
