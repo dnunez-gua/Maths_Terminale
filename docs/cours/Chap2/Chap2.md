@@ -13,8 +13,8 @@
     - montrer qu'une suite diverge.  
     - Etudier le comportement asymptotique d'une suite, notamment dans la modélisation de problème.   
     **Méthode 3** : Les limites de suites usuelles et les tableaux d'opérations sur les limites sont à connaitre.  
-    **Méthode 4 ** : Théorèmes de comparaison, théorème des gendarmes.
-    ** Méthode 5**: Théorème des convergences monotone : Toute suite croissante majorée converge. Toute suite décroissante minorée converge.
+    **Méthode 4** : Théorèmes de comparaison, théorème des gendarmes.
+    **Méthode 5**: Théorème des convergences monotone : Toute suite croissante majorée converge. Toute suite décroissante minorée converge.
     
     
     
