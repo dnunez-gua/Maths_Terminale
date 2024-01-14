@@ -3,7 +3,7 @@
 
 ## Progression
 !!! info "Méthodes" 
-    **Méthode 1** : $f$ est continue en $a$ si $\display\lim_{x\to a}f(x)$ existe et est égale à $f(a)$. Cela permet de :  
+    **Méthode 1** : $f$ est continue en $a$ si $\displaystyle\lim_{x\to a}f(x)$ existe et est égale à $f(a)$. Cela permet de :  
     - savoir su la courbe représentative de $f$ peut se tracer "sans lever le crayon".  
     - appliquer certains théorèmes  
     - dire que toute fonction dérivable est continue.   
