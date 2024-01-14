@@ -2,24 +2,21 @@
 # Suites Numériques
 
 ## Progression
-!!! info "Plan de travail - 7 Séances"
-    === "Séances" 
-        **Séance 1 :** Pré-requis<br>
-        **Séance 2 :** Démonstration par récurrence <br>
-        **Séance 3 :** Opérations sur les limites<br>
-        **Séance 4 :** Démonstrations <br>
-        **Séance 5 :** Limites finies <br>
-        **Séance 6 :** Problème
-    === "A faire"
-        **Seance 1 :** Etudier les rappels de 1ere dans le cours - lien vers exercices et syntèse<br>
-        **Séance 3 :** Exercices 1 et 2 dans le cours <br>
-        **Séance 4 :** Etudier le cours <br>
-        **Séance 5 :** DM à travailler/
+!!! info "Méthodes" 
+    **Méthode 1** : Une suite $(u_n)$ a pour limite $l$ lorsque, pour tout $\epsilon$ on peut trouver un rang $n_0$ à partir duquel $l-\epsilon <u_n<l+\epsilon$.  
+    Cela permet de :
+    - montrer qu'une suite converge vers un réel $l$.  
+    - Etudier le comportement asymptotique d'une suite, notamment dans la modélisation de problème.  
+    **Méthode 2** : Une suite $(u_n)$ a pour limite $+\infty$ lorsque, pour tout $A$ on peut trouver un rang $n_0$ à partir duquel $u_n>A$.  
+    Une suite $(u_n)$ a pour limite $-\infty$ lorsque, pour tout $B$ on peut trouver un rang $n_0$ à partir duquel $u_n<B$.  
+    Cela permet de : 
+    - montrer qu'une suite diverge.  
+    - Etudier le comportement asymptotique d'une suite, notamment dans la modélisation de problème.   
+    **Méthode 3** : Les limites de suites usuelles et les tableaux d'opérations sur les limites sont à connaitre.  
+    **Méthode 4 ** : Théorèmes de comparaison, théorème des gendarmes.
+    ** Méthode 5**: Théorème des convergences monotone : Toute suite croissante majorée converge. Toute suite décroissante minorée converge.
     
-    === "Evaluation"  
-        Travail de groupe : N°105 page 159  
-        TP Python : TP2  page 143  
-        Bilan la semaine du 9 octobre  
+    
     
 ## Cours 
 [cours Chap2](./Cours-chap2.pdf){:target="_blank"}
