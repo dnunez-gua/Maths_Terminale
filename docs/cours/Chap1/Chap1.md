@@ -13,7 +13,7 @@
      méthode 2 : Des théorèmes permettent de donner la limite d'une somme, d'un produit ou d'un quotient de fonctions. Les formes indéterminées sont de la forme $\infty -\infty$ ou $0\times \infty$ ou $\infty / \infty$ ou $0/0$. Il faudra transformer la fonction pour casser l'indetermination.  
      méthode 3 : Si pour tout $x\in I, f(x)\geq g(x)$ et $\displaystyle\lim_{x \to +\infty} g(x)=+\infty$ alors $\displaystyle\lim_{x \to +\infty} f(x)=+\infty$  
      Si pour tout $x\in I, f(x)\leq g(x)$ et $\displaystyle\lim_{x \to +\infty} g(x)=-\infty$ alors $\displaystyle\lim_{x \to +\infty} f(x)=-\infty$  
-     Si pour tout $x\in I, g(x)\leq f(x)\leq h(x)$ et $\displaystyle\lim_{x \to +\infty} g(x)=$\displaystyle\lim_{x \to +\infty} h(x)=l$ alors $\displaystyle\lim_{x \to +\infty} f(x)=l$ (théorème des gendarmes)  
+     Si pour tout $x\in I, g(x)\leq f(x)\leq h(x)$ et $\displaystyle\lim_{x \to +\infty} g(x)=\displaystyle\lim_{x \to +\infty} h(x)=l$ alors $\displaystyle\lim_{x \to +\infty} f(x)=l$ (théorème des gendarmes)  
      méthode 4 : $ \displaystyle\lim_{x \to +\infty} e^x=+\infty$ et $ \displaystyle\lim_{x \to -\infty} e^x=0$.
       Pour tout n entier $ \displaystyle\lim_{x \to +\infty} \dfrac{e^x}{x^n}=+\infty$ et $ \displaystyle\lim_{x \to -\infty} x^n.e^x=0$ (théorème des croissances comparées)
    
