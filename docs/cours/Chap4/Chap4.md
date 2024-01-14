@@ -2,20 +2,17 @@
 # Compléments sur les dérivées
 
 ## Progression
-!!! info "Plan de travail - 6 Séances"
-    === "Séances" 
-        **Séance 1-2 :** Calcul des dérivées  
-        **Séance 3-4 :** Position relative  
-        **Séance 5-6 :**  Dérivées secondes - Convexité  
-    === "A faire"
-        **Seance 1 :**  Revoir les formules  
-        **Séance 4 :** Etudier les nouvelles formules  
-        **Séance 5 :** Etudier le cours  
+!!! info "Méthodes"
+    **Méthode 1**: Soient $u$ une fonction définie et  dérivable sur un intervalle I à valeurs dans J, et $v$ une fonction définie et dérivable sur J. Alors la fonction $v\circle u$ est dérivable sur I. et pour tout $x_0 \in I, (v\circle u)'(x_0)=u'(x_0)\times (v'\circle u)$  
+    **Méthode 2** : Soit $f$ une fonction dérivable sur I, f est convexe si et seulement si $f'$ est croissante sur I.  Cela permet de :   
+    - déterminer la convexité d'une fonction.  
+    - étudier la position de la courbe par rapport à ses sécantes ou ses tangentes  
+    - déterminer les points d'inflexion  
+    **Méthode 3** : Soit $f$ dérivable sur I et $f'$ dérivable sur I. $f$ est convexe sur I si et seulement si $f''$ est positive sur I. Cela permet de :   
+    - déterminer la convexité d'une fonction.  
+    - étudier la position de la courbe par rapport à ses sécantes ou ses tangentes  
+    - déterminer les points d'inflexion  
     
-    === "Evaluation"  
-        <!--Travail de groupe 92 p231-->  
-        Travail de groupe semaine du 6 novembre
-        Evaluation en Bac Blanc semaine du 13 novembre
 ## Démonstrations Chapitre 4
 !!! attention "Démonstration "
     === "Propriété : "  
