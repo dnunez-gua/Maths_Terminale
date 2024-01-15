@@ -15,6 +15,11 @@
     **Méthode 3** : Les limites de suites usuelles et les tableaux d'opérations sur les limites sont à connaitre.  
     **Méthode 4** : Théorèmes de comparaison, théorème des gendarmes.  
     **Méthode 5**: Théorème des convergences monotone : Toute suite croissante majorée converge. Toute suite décroissante minorée converge.
+    **Méthode 6** : Démonstration par récurrence :  
+    - Initialisation : Montrer qu'une propriété est vraie au rang 0 ou 1 (ou $n_0$).  
+    - Hypothèse de récurrence : On suppose qu'il existe un $k$ entier plus grand que $n_0$ telque la propriété est vraie au rang $k$.  
+    - Hérédité : On montre que la propriété est vraie au rang $k+1$.  
+    - Conclusion : pour tout n, la propriété est vraie.  
     
     
     
