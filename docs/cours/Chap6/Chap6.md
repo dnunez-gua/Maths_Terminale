@@ -14,7 +14,9 @@
     === "Evaluation"  
         Evaluation 
         <!--   Travail de groupe 91 p 80  -->
-    
+## Evaluations 
+[Eval G1](./eval-G1.pdf){:target="_blank"}  
+[Eval G2](./eval-G2.pdf){:target="_blank"}  
 ## Cours 
 [cours Chap6](./Cours-Chap6.pdf){:target="_blank"}
 
