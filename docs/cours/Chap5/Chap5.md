@@ -12,7 +12,7 @@
     - connaître le nombre d'issues d'un tirage avec ordre et sans remise dans un ensemble à n éléments ;  
     - dénombrer les situations où les répétitions ne sont pas permises et où l'ordre a une importance.  
     **Méthode 4** : Soient $n$ et $k$ deux entiers naturels tels que $k < n$. Une combinaison de $k$ éléments d'un ensemble fini à $n$ éléments est un sous-ensemble à $k$ éléments de cet ensemble. Il en existe $\frac{n!}{k!(n-k)!}$.  Cela permet de :  
-    - connaître le nombre d'issues d'un tirage simultané de $k$ éléments dans un ensemble à $n$ éléments ;
+    - connaître le nombre d'issues d'un tirage simultané de $k$ éléments dans un ensemble à $n$ éléments ;  
     - dénombrer les situations où les répétitions ne sont pas permises et où l'ordre n'a pas d'importance.
     
 ## Cours 
