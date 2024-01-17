@@ -2,17 +2,18 @@
 # Combinaison et dénombrement
 
 ## Progression
-!!! info "Plan de travail - 6 Séances"
-    === "Séances" 
-        **Séance 1-2 :** Cardinal d'ensemble  
-        **Séance 3-4 :** Arrangement  
-        **Séance 5-6 :**  Combinaison  
-    === "A faire"
-        **Séances 1 à 6:** Etudier le cours  
-    
-    === "Evaluation"  
-        <!--Travail de groupe 92 p231-->  
-        Evaluation 
+!!! info "Méthodes"
+    **Méthode 1** : Le cardinal d'une réunion disjointe d'ensembles finis est égal à la somme des cardinaux de ces ensembles. Cela permet de :  
+    - calculer le cardinal d'ensembles complexes ;  
+    - déterminer le nombre d'éléments d'un ensemble en le découpant en ensembles disjoints.  
+    **Méthode 2** : Le cardinal d'un produit cartésien d'ensembles finis est égal au produit des cardinaux de ces ensembles. Cela permet de :  
+    - déterminer le nombre de possibilités dans une situation qui comporte plusieurs étapes successives.  
+    **Méthode 3** : Soient $n$ et $k$ deux entiers naturels tels que $k < n$. Un arrangement de $k$ éléments d'un ensemble fini à $n$ étéments est nu k-uplet d'éléments distincts de cet ensemble. Il en existe $\frac{n!}{(n-k)!}$. Cela permet de :  
+    - connaître le nombre d'issues d'un tirage avec ordre et sans remise dans un ensemble à n éléments ;  
+    - dénombrer les situations où les répétitions ne sont pas permises et où l'ordre a une importance.
+    **Méthode 4** : Soient $n$ et $k$ deux entiers naturels tels que $k < n$. Une combinaison de $k$ éléments d'un ensemble fini à $n$ éléments est un sous-ensemble à $k$ éléments de cet ensemble. Il en existe $\frac{n!}{k!(n-k)!}$.  Cela permet de :  
+    - connaître le nombre d'issues d'un tirage simultané de $k$ éléments dans un ensemble à $n$ éléments ;
+    - dénombrer les situations où les répétitions ne sont pas permises et où l'ordre n'a pas d'importance.
     
 ## Cours 
 [cours Chap5](./Cours-Chap5.pdf){:target="_blank"}
