@@ -23,6 +23,8 @@
 
     === "Corrigés : "
         [Corrigé Novembre 2022](./cours/corr/corrige-BB1.pdf){:target="_blank"}
+        [Corrigé Lundi 16 janvier](./cours/corr/BB2-Sujet1-correction){:target="_blank"}
+        [Corrigé Mardi 17 janvier](./cours/corr/BB2-Sujet2-correction){:target="_blank"}
 
 
 ### STAGES RAN
