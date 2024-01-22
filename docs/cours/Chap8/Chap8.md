@@ -60,7 +60,7 @@
         N°44-45 p106  
         N°110 p112  
         N°117 p115  
-        Interserction de plans :   
+        Intersection de plans :   
         N°83p108  
         N°106 p111  
     === "Corrigés"  
