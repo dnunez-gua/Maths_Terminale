@@ -4,12 +4,9 @@
 ## Méthodes 
 **Méthode1** : Connaitre les formules du produit scalaire :  
 - $\vec{u}.\vec{v}=\left\lVert\\vec{u}\right\rVert \times \left\lVert\\vec{v}\right\rVert\times \cos(\vec{u},\vec{v})$
-- $\overrightarrow{AB}.\overrightarrow{AC}= \left \{
-\begin{array}
+- $\overrightarrow{AB}.\overrightarrow{AC}= 
 AB\times AH& si (\overrightarrow{AB},\overrightarrow{AC})\in [-\dfrac{\pi}{2}; \dfrac{\pi}{2}]\\
--AB\times AH sinon}
-\end{array}
-\right.$
+-AB\times AH sinon $
 Avec H le projeté orthogonal de C sur (AB)
 - Formules de polarisation : 
 
