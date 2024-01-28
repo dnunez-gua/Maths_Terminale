@@ -3,8 +3,15 @@
 
 ## Méthodes 
 **Méthode1** : Connaitre les formules du produit scalaire :  
-$\vec{u}.\vec{v}=\left\lVert\\vec{u}\right\rVert \times \left\lVert\\vec{v}\right\rVert\times \cos(\vec{u},vec{v})$
-        
+- $\vec{u}.\vec{v}=\left\lVert\\vec{u}\right\rVert \times \left\lVert\\vec{v}\right\rVert\times \cos(\vec{u},\vec{v})$
+- $\overrightarrow{AB}.\overrightarrow{AC}= \left \{
+\begin{array}
+AB\times AH& si (\overrightarrow{AB},\overrightarrow{AC})\in [-\dfrac{\pi}{2}; \dfrac{\pi}{2}]\\
+-AB\times AH sinon}
+\end{array}
+\right.$
+Avec H le projeté orthogonal de C sur (AB)
+- Formules de polarisation : 
 
     
 ## Cours 
@@ -30,7 +37,7 @@ $\vec{u}.\vec{v}=\left\lVert\\vec{u}\right\rVert \times \left\lVert\\vec{v}\righ
          A venir
         
 !!! question "Calcul d'angles :"
-    === "Exercices" 
+    === "Exercices"
         N°27-28-29 p105  
         N°50-53-54-57 p106  
     === "Corrigés"  
