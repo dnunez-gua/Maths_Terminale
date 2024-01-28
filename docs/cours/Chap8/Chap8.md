@@ -7,9 +7,11 @@
 - $\overrightarrow{AB}.\overrightarrow{AC}= 
 AB\times AH  si (\overrightarrow{AB},\overrightarrow{AC})\in [-\dfrac{\pi}{2}; \dfrac{\pi}{2}]$
 
-$=-AB\times AH$ sinon.
+$=-AB\times AH$ sinon.  
 Avec H le projeté orthogonal de C sur (AB)
-- Formules de polarisation : 
+- Formules de polarisation :
+$\vec{u}.\vec{v}=\dfrac{1}{2}[\left\lVert\\vec{u}\right\rVert^2 + \left\lVert\\vec{v}\right\rVert\^2-\left\lVert\\vec{u}-vec{v}\right\rVert\^2$
+$\vec{u}.\vec{v}=\dfrac{1}{2}[-\left\lVert\\vec{u}\right\rVert^2 - \left\lVert\\vec{v}\right\rVert\^2+\left\lVert\\vec{u}+vec{v}\right\rVert\^2
 
     
 ## Cours 
