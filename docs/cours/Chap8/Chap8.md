@@ -3,7 +3,7 @@
 
 ## Méthodes 
 **Méthode1** : Connaitre les formules du produit scalaire :  
-- $\vec{u}.\vec{v}=\left\lVert\\vec{u}\right\rVert \times \left\lVert\\vec{v}\right\rVert\times \cos(\vec{u},\vec{v})$
+- $\vec{u}.\vec{v}=\left\lVert \vec{u}\right\rVert \times \left\lVert \vec{v}\right\rVert\times \cos(\vec{u},\vec{v})$
 - $\overrightarrow{AB}.\overrightarrow{AC}= AB\times AH$ si $(\overrightarrow{AB},\overrightarrow{AC})\in [-\dfrac{\pi}{2}; \dfrac{\pi}{2}]$
 
 $=-AB\times AH$ sinon.  
