@@ -1,18 +1,9 @@
 [Retour](../../Chap.md)
 # Orthogonalité dans l'espace
 
-## Progression
-!!! info "Plan de travail - 8 Séances"
-    === "Séances" 
-        **Séances 1-2 :** Produit scalaire analytique    
-        **Séances 3-5 :** Equation cartésienne du plan  
-        **Séances 6 :** Calcul d'angle  
-        **Séance 7 :** Projection orthogonal  
-        **Séance 8 :** Equation de sphères - Problèmes  
-    === "A faire"
-        **Séances :** Etudier le cours     
-    === "Evaluation"  
-        Evaluation 
+## Méthodes 
+**Méthode1** : Connaitre les formules du produit scalaire :  
+$\vec{u}.\vec{v}=\left\lVert\\vec{u}\right\rVert \times \left\lVert\\vec{v}\right\rVert\times \cos(\vec{u},vec{v})$
         
 
     
