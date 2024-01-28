@@ -16,6 +16,9 @@ $\vec{u}.\vec{v}=\dfrac{1}{2}[-\left\lVert\\vec{u}\right\rVert^2 - \left\lVert\\
 **Méthode 2** : Un plan a pour équation cartésienne $ax+by+cz+d=0$ avec le vecteur normal  
 $\vec{n}=(a,b,c)$
 
+**Méthode 3:** Trouver les intersections de droites et plans, intersection de plans, intersection de sphère et plan.   
+Projection orthogonal d'un point sur un plan  
+Distance d'un point à un plan.
     
 ## Cours 
 [cours Chap8](./Cours-Chap8.pdf){:target="_blank"}
