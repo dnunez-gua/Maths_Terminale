@@ -32,6 +32,12 @@ $\vec{n}=(a,b,c)$
         $\vec{n}$ est normal au plan P contenant le point A. Donc pour tout $M(x,y,z)$ du plan P, le produit scalaire $\overrightarrow{AM}.\vec{n}=0$  
         $a(x-x_A)+b(y-y_A)+c(z-z_A)=0 \Leftrightarrow ax+by+cz-(ax_A+by_A+cz_A)=0$.  
         En posant $d=-(ax_A+by_A+cz_A)$ on a bien l'équation cartésienne de P:  $ax+by+cz+d=0$
+
+!!! note "Distance et projeté :" 
+    === "Propriété : " 
+        Si H est le projeté orthogonal de A sur un plan P, alors la distance de A à P est AH.
+    === "Démonstration :" 
+        Soit M un point du plan différent de H. Le triangle AHM est rectangle en H, donc l'hypoténuse AM>AH. Ainsi AH est la plus petite longueur de A au plan P.
 ## Exercices
 
 !!! question " Produit scalaire analytique :"
