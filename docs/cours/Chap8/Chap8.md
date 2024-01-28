@@ -22,6 +22,16 @@ Distance d'un point à un plan.
 ## Cours 
 [cours Chap8](./Cours-Chap8.pdf){:target="_blank"}
 
+## Démonstrations
+
+!!! note "Equation cartésienne du plan :" 
+    === "Propriété : " 
+         Un plan a pour équation cartésienne $ax+by+cz+d=0$ avec le vecteur normal  
+$\vec{n}=(a,b,c)$  
+    === "Démonstration :"
+        $\vec{n}$ est normal au plan P contenant le point A. Donc pour tout $M(x,y,z)$ du plan P, le produit scalaire $\overrightarrow{AM}.\vec{n}=0$  
+        $a(x-x_A)+b(y-y_A)+c(z-z_A)=0 \Leftrightarrow ax+by+cz-(ax_A+by_A+cz_A)=0$.  
+        En posant $d=-(ax_A+by_A+cz_A)$ on a bien l'équation cartésienne de P:  $ax+by+cz+d=0$
 ## Exercices
 
 !!! question " Produit scalaire analytique :"
