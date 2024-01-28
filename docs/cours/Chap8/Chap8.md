@@ -13,11 +13,11 @@ Avec H le projeté orthogonal de C sur (AB)
 $\vec{u}.\vec{v}=\dfrac{1}{2}[\left\lVert\\vec{u}\right\rVert^2 + \left\lVert\\vec{v}\right\rVert\^2-\left\lVert\\vec{u}-\vec{v}\right\rVert\^2]$  
 $\vec{u}.\vec{v}=\dfrac{1}{2}[-\left\lVert\\vec{u}\right\rVert^2 - \left\lVert\\vec{v}\right\rVert\^2+\left\lVert\\vec{u}+\vec{v}\right\rVert\^2]$
 
-**Méthode 2** : Un plan a pour équation cartésienne $ax+by+cz+d=0$ avec le vecteur normal $\vec{n}=\left(\begin{matrix}
+**Méthode 2** : Un plan a pour équation cartésienne $ax+by+cz+d=0$ avec le vecteur normal $\vec{n}=\left(\begin{pmatrix}
 a\\
 b\\
 c
-\end{matrix}\right).$
+\end{pmatrix}\right).$
 
     
 ## Cours 
