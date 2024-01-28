@@ -67,15 +67,11 @@
 
 ### [Chapitre 8- Orthogonalité dans l'espace](./cours/Chap8/Chap8.md)    
 
-<!--  
-### Chapitre 7- Produit scalaire dans l'espace
-??? info "Cours "
-    Le cours : [Chap 7](./cours/Chap7/Cours-Chap7.pdf)
-    
-### Chapitre 8 - Logarithme Népérien
-??? info "Cours "
-    Le cours : [Chap 8](./cours/Chap8/Cours-Chap8.pdf)
 
+
+### [Chapitre 9 - Logarithme Népérien](./cours/Chap9/Chap9.md)
+
+<!--  
 ### Chapitre 9 - Primitives et Intégrales
 ??? info "Cours "
     Le cours : [Chap 9](./cours/Chap9/Cours-Chap9.pdf)
