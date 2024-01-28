@@ -9,8 +9,8 @@
 $=-AB\times AH$ sinon.  
 Avec H le projeté orthogonal de C sur (AB)
 - Formules de polarisation :
-$\vec{u}.\vec{v}=\dfrac{1}{2}[\left\lVert\\vec{u}\right\rVert^2 + \left\lVert\\vec{v}\right\rVert\^2-\left\lVert\\vec{u}-\vec{v}\right\rVert\^2]$  
-$\vec{u}.\vec{v}=\dfrac{1}{2}[-\left\lVert\\vec{u}\right\rVert^2 - \left\lVert\\vec{v}\right\rVert\^2+\left\lVert\\vec{u}+\vec{v}\right\rVert\^2]$
+$\vec{u}.\vec{v}=\dfrac{1}{2}[\left\lVert\ vec{u}\right\rVert^2 + \left\lVert\ vec{v}\right\rVert\^2-\left\lVert \vec{u}-\vec{v}\right\rVert\^2]$  
+$\vec{u}.\vec{v}=\dfrac{1}{2}[-\left\lVert\ vec{u}\right\rVert^2 - \left\lVert\ vec{v}\right\rVert\^2+\left\lVert\ vec{u}+\vec{v}\right\rVert\^2]$
 
 **Méthode 2** : Un plan a pour équation cartésienne $ax+by+cz+d=0$ avec le vecteur normal  
 $\vec{n}=(a,b,c)$
