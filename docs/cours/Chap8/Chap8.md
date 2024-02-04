@@ -53,7 +53,9 @@ Distance d'un point à un plan.
          N°66 p105  
          N°74-75 p106       
     === "Corrigés :"  
-         A venir
+        [34-36](./corr/34-36.pdf){:target="_blank"}  
+        [66](./corr/66.pdf){:target="_blank"}  
+        [74-75](./corr/74-75.pdf){:target="_blank"}  
         
 !!! question "Calcul d'angles :"
     === "Exercices"
