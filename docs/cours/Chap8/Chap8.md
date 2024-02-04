@@ -62,7 +62,8 @@ Distance d'un point à un plan.
         N°29-28-27 p105  
         N°53-54-57 p106  
     === "Corrigés"  
-          A venir
+          [29-28-27](./corr/29-28-27.pdf){:target="_blank"}  
+           [53-54-57](./corr/53-54-57.pdf){:target="_blank"}  
 
 !!! question "Projection orthogonale - Distance à un plan :"
     === "Exercices" 
@@ -71,9 +72,9 @@ Distance d'un point à un plan.
         N°100 p109  
         
     === "Corrigés"  
-          A venir
+        [38-39-40-42-43](./corr/38-39-40-42-43.pdf){:target="_blank"}  
 
-!!! question "Equations de sphères - problèmes :"
+!!! question "Equations de sphères - Intersection de plans :"
     === "Exercices" 
         N°44-45 p106  
         N°110 p112  
@@ -81,7 +82,12 @@ Distance d'un point à un plan.
         N°83p108  
         N°106 p111  
     === "Corrigés"  
-          A venir
+        [44-45](./corr/44-45.pdf){:target="_blank"}  
+        [110](./corr/110.pdf){:target="_blank"} 
+        [83](./corr/83.pdf){:target="_blank"} 
+        [106](./corr/106.pdf){:target="_blank"} 
+
+
 
 !!! question "Problèmes :"
     === "Exercices" 
