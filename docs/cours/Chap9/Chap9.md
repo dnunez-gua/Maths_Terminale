@@ -3,7 +3,7 @@
 
     
 ## Cours 
-[cours Chap9](./Cours-Chap9.pdf){:target="_blank"}
+[cours Chap9](./Cours-Chap9.pdf){:target="_blank"}  
 
 ## Exercices
 
@@ -13,7 +13,9 @@
          N°38-39 p250  
          N°40-41-42 p251  
     === "Corrigés :"  
-        A venir
+        [38-39](./corr/38-39.pdf){:target="_blank"}  
+        [40-41-42](./corr/40-41-42.pdf){:target="_blank"}  
+
 
 !!! question " Equations - Inéquations :"
     === "Exercices :" 
@@ -21,8 +23,9 @@
          N°60-62-63 p252  
          Applications aux suites : N°47-48-49 p251
     === "Corrigés :"  
-        A venir
-
+        [27-28](./corr/27-28.pdf){:target="_blank"}  
+        [60-62-63](./corr/60-62-63.pdf){:target="_blank"} 
+        [47-48-49](./corr/47-48-49.pdf){:target="_blank"} 
 !!! question " Etude de fonctions :"
     === "Exercices :" 
          N°51 p251  
