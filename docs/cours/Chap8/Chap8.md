@@ -20,7 +20,7 @@ Projection orthogonal d'un point sur un plan
 Distance d'un point à un plan.
     
 ## Cours 
-[cours Chap8](./Cours-Chap8.pdf){:target="_blank"}
+[cours Chap8](./Cours-Chap8.pdf){:target="_blank"}  
 
 ## Démonstrations
 
@@ -45,8 +45,9 @@ Distance d'un point à un plan.
          N°64-65 p105  
          N°79 p107
     === "Corrigés :"  
-        A venir
-!!! question " Equation cartésienne de plan :"
+         [22-30](./corr/22-30.pdf){:target="_blank"}  
+         [64-65](./corr/64.65.pdf){:target="_blank"}  
+         [79](./corr/79.pdf){:target="_blank"}   
     === "Exercices :" 
          N°34-36 p103  
          N°66 p105  
