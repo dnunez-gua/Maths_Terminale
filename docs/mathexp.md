@@ -105,11 +105,26 @@ L'option est évaluée en controle continu.
 
 !!! note "Transformations géométriques "
     En construction
+!!! note "Les graphes "
+    En construction
 
+## Chapitre 4 - Les complexes point de vue géométrique
+!!! info "Cours" 
+    Le cours [Cours](./cours/MEXP/Chap4/Cours-Chap4.pdf)
+
+!!! note "Rappels"
+    N°1-5-6 p48  
+
+!!! note " Géométrie et complexes"
+    A p50  
+    N°26-27-28 p66  
+
+!!! note " Module et argument"
+    B p50  
+    N°29-30-31-32 p67
+    N°60 p69 
+    N°68 p70
 <!--
-## Chapitre 3 - Matrice 
-??? info "Cours" 
-    Le cours [Cours](./cours/MEXP/Chap3/Cours-chap3.pdf)
 
 ## Chapitre 4 - Les complexes point de vue géométrique
 ??? info "Cours" 
