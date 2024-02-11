@@ -28,7 +28,7 @@
          N°115-116 p304
     === "Corrigés :"  
         A venir
-!!! question " Applications- Problèmes $ :"
+!!! question " Applications- Problèmes  :"
     === "Exercices :" 
          N°121-122 p305  
          N°124 p306  
