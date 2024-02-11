@@ -30,8 +30,8 @@
     === "Sujets "
          [Sujet G1 Novembre 2023 ](./cours/BB1-G1.pdf){:target="_blank"}  
          [Sujet G2 Novembre 2023 ](./cours/BB1-G2.pdf){:target="_blank"}  
-         [Sujet G1 Janvier 2024 ](./cours/BB1.pdf){:target="_blank"}  
-         [Sujet G2 Janvier 2023 ](./cours/BB2.pdf){:target="_blank"}  
+         [Sujet G1 Janvier 2024 ](./cours/BB2-G1.pdf){:target="_blank"}  
+         [Sujet G2 Janvier 2023 ](./cours/BB2-G2.pdf){:target="_blank"}  
         
 ### STAGES RAN
 !!! note "Octobre 2023" 
