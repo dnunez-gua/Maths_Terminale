@@ -26,7 +26,13 @@
         [Corrigé Lundi 16 janvier](./cours/corr/BB2-Sujet1-correction.pdf){:target="_blank"}  
         [Corrigé Mardi 17 janvier](./cours/corr/BB2-Sujet2-correction.pdf){:target="_blank"}
 
-
+!!! note "Bac Blanc 2023-2024"
+    === "Sujets "
+         [Sujet G1 Novembre 2023 ](./cours/BB1-G1.pdf){:target="_blank"}  
+         [Sujet G2 Novembre 2023 ](./cours/BB1-G2.pdf){:target="_blank"}  
+         [Sujet G1 Janvier 2024 ](./cours/BB1.pdf){:target="_blank"}  
+         [Sujet G2 Janvier 2023 ](./cours/BB2.pdf){:target="_blank"}  
+        
 ### STAGES RAN
 !!! note "Octobre 2023" 
     === "Fiches exercices "
