@@ -22,7 +22,7 @@
     === "Corrigés :"  
         A venir
 
-  !!! question " Equations différentielles de type $y'=ay+f$ :"
+!!! question " Equations différentielles de type $y'=ay+f$ :"
     === "Exercices :" 
          N°47-48-49-50-51-52-53 p299  
          N°115-116 p304
