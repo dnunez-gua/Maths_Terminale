@@ -77,6 +77,8 @@
 
 ### [Chapitre 9 - Logarithme Népérien](./cours/Chap9/Chap9.md)
 
+### [Chapitre 10 - Equations différentielles](./cours/Chap10/Chap10.md)
+
 <!--  
 ### Chapitre 9 - Primitives et Intégrales
 ??? info "Cours "
@@ -86,9 +88,7 @@
 ??? Info "Cours "
     Le cours : [Chap10](./cours/Chap10/Cours-Chap10.pdf)
     
-### Chapitre 11 - Equations différentielles
-??? Info "Cours "
-    Le cours : [Chap11](./cours/Chap11/Cours-Chap11.pdf)
+
     
 ### Chapitre 12- Sommes de variables aleatoires - Loi faible des grands nombres
 ??? Info "Cours "
