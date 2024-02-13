@@ -38,4 +38,9 @@
     === "Corrigés :"  
         A venir
 
-      
+!!! question " Type BAC :"
+    === "Exercices :" 
+        [BAC2019](./corr/EXO-BAC1.pdf){:target="_blank"}  
+        [BAC2022-1](./corr/EXO-BAC2.pdf){:target="_blank"}  
+        
+        
