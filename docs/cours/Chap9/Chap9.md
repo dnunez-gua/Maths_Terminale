@@ -40,7 +40,7 @@
 
 !!! question " Type BAC :"
     === "Exercices :" 
-        [BAC2019](./corr/EXO-BAC1.pdf){:target="_blank"}  
-        [BAC2022-1](./corr/EXO-BAC2.pdf){:target="_blank"}  
+        [BAC2019](./EXO-BAC1.pdf){:target="_blank"}  
+        [BAC2022-1](./EXO-BAC2.pdf){:target="_blank"}  
         
         
