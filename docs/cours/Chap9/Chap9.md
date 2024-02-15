@@ -42,5 +42,5 @@
     === "Exercices :" 
         [BAC2019](./EXO-BAC1.pdf){:target="_blank"}  
         [BAC2022-1](./EXO-BAC2.pdf){:target="_blank"}  
-        
+        [BAC2023](./BAC2023.pdf){:target="_blank"}          
         
