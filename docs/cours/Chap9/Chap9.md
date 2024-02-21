@@ -5,6 +5,11 @@
 ## Cours 
 [cours Chap9](./Cours-Chap9.pdf){:target="_blank"}  
 
+
+## Evaluation 
+!!! question " Sujets "
+    [EVALG1](./evalG1.pdf){:target="_blank"}  
+    [EVALG2](./evalG2.pdf){:target="_blank"}  
 ## Exercices
 
 !!! question " Calculs algébriques :"
