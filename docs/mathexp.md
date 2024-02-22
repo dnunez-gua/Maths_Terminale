@@ -120,10 +120,17 @@ L'option est évaluée en controle continu.
     N°26-27-28 p66  
 
 !!! note " Module et argument"
-    B p50  
     N°29-30-31-32 p67
     N°60 p69 
     N°68 p70
+!!! note " forme trigonometrique"  
+    N°33-34 p67  
+    N°73-74-75 p70  
+
+!!! note " forme exponentielle"  
+    N°36 p67  
+    N°92-93p72  
+    
 <!--
 
 ## Chapitre 4 - Les complexes point de vue géométrique
