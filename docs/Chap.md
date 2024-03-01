@@ -74,27 +74,12 @@
 
 ### [Chapitre 8- Orthogonalité dans l'espace](./cours/Chap8/Chap8.md)    
 
-
-
 ### [Chapitre 9 - Logarithme Népérien](./cours/Chap9/Chap9.md)
 
 ### [Chapitre 10 - Equations différentielles](./cours/Chap10/Chap10.md)
 
-<!--  
-### Chapitre 9 - Primitives et Intégrales
-??? info "Cours "
-    Le cours : [Chap 9](./cours/Chap9/Cours-Chap9.pdf)
-    
-### Chapitre 10 - Dénombrement
-??? Info "Cours "
-    Le cours : [Chap10](./cours/Chap10/Cours-Chap10.pdf)
-    
+### [Chapitre 11 - Fonctions trigonométriques](./cours/Chap11/Chap11.md)
 
-    
-### Chapitre 12- Sommes de variables aleatoires - Loi faible des grands nombres
-??? Info "Cours "
-    Le cours : [Chap12](./cours/Chap12/Cours-Chap12.pdf)
--->
 ### Python
 ??? info "TP"
     TP python de notions d'algorithmes de 1ere et Terminale.[python-term](./python-term.ipynb)
