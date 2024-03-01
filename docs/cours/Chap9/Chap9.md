@@ -41,7 +41,14 @@
          N°121 p258  
          N°127p259  
     === "Corrigés :"  
-        A venir
+        [51](./corr/51.pdf){:target="_blank"} 
+        [37](./corr/37.pdf){:target="_blank"} 
+        [67](./corr/67.pdf){:target="_blank"} 
+        [104](./corr/104.pdf){:target="_blank"} 
+        [110](./corr/110.pdf){:target="_blank"} 
+        [121](./corr/121.pdf){:target="_blank"} 
+        
+
 
 !!! question " Type BAC :"
     === "Exercices :" 
