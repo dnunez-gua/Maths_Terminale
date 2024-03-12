@@ -6,8 +6,8 @@
 [cours Chap11](./Cours-Chap11.pdf){:target="_blank"}  
 
 ## Exercices
-!!! question " Pré-requis"
- === "Exercices :" 
+!!! question "Pré-requis"
+    === "Exercices :" 
          N°1-2-3-4p264
 
 !!! question " Parité et périodicité"
