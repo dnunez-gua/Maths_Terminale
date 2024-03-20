@@ -12,14 +12,14 @@
 
 !!! question " Parité et périodicité"
     === "Exercices :" 
-         N°21-26-27-28 p276
+         N°21-26-27-28 p276  
          N°59-60-61p278
     === "Corrigés :"  
         A venir
 !!! question " Equations-Inéquations"
     === "Exercices :" 
          N°30-31p277
-         N°75-76-83p280
+         N°75-76-83p280  
          N°35-36-37-38 p277
          N°85p281
     === "Corrigés :"  
@@ -34,10 +34,9 @@
          Activité B p 266
     === "Corrigés :"  
         A venir
-
-  !!! question " Etude de fonctions"
+!!! question " Etude de fonctions"
     === "Exercices :" 
-         N°81-82 p280
+         N°81-82 p280  
          N°99-100p282
     === "Corrigés :"  
         A venir
