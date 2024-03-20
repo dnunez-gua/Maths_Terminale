@@ -18,7 +18,7 @@
         A venir
 !!! question " Equations-Inéquations"
     === "Exercices :" 
-         N°30-31p277
+         N°30-31p277  
          N°75-76-83p280  
          N°35-36-37-38 p277
          N°85p281
