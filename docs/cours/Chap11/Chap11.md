@@ -12,7 +12,7 @@
 
 !!! question " Parité et périodicité"
     === "Exercices :" 
-         N°21-26-27-28 p276  
+         N°21-26-27-28p276  
          N°59-60-61p278
     === "Corrigés :"  
         A venir
@@ -20,7 +20,7 @@
     === "Exercices :" 
          N°30-31p277  
          N°75-76-83p280  
-         N°35-36-37-38 p277
+         N°35-36-37-38p277  
          N°85p281
     === "Corrigés :"  
         A venir
