@@ -129,7 +129,17 @@ L'option est évaluée en controle continu.
 
 !!! note " forme exponentielle"  
     N°36 p67  
-    N°92-93p72  
+    N°92-93-91p72
+!!! note " applications à la géométrie"
+    N°96-98 p73  
+    N°82-83p71  
+    N°37-38-39-40p 67
+    N°112-116-118p74   
+    N°121-122-123p75
+
+!!! note "Racines de l'unité "
+    N°44-45p67  
+    N°125-126-127p 75
     
 <!--
 
