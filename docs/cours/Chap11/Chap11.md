@@ -9,6 +9,8 @@
 !!! question "Pré-requis"
     === "Exercices :" 
          N°1-2-3-4p264
+    === "Corrigés :"  
+        [1-2-3-4](corr/1-2-3-4.pdf){:target="_blank"}  
 
 !!! question " Parité et périodicité"
     === "Exercices :" 
