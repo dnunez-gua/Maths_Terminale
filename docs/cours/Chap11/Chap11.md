@@ -17,7 +17,9 @@
          N°21-26-27-28p276  
          N°59-60-61p278
     === "Corrigés :"  
-        A venir
+        [21-26-27-28](corr/21-26-27-28.pdf){:target="_blank"}  
+        [59-60-61](corr/59-60-61.pdf){:target="_blank"}  
+        
 !!! question " Equations-Inéquations"
     === "Exercices :" 
          N°30-31p277  
