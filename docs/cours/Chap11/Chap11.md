@@ -27,12 +27,14 @@
          N°35-36-37-38p277  
          N°85p281
     === "Corrigés :"  
-        A venir
+         [30-31-75-76-83](corr/30-31-75-76-83.pdf){:target="_blank"}  
+         [35-36-37-38](corr/35-36-37-38.pdf){:target="_blank"}  
+         [85](corr/85.pdf){:target="_blank"}  
 !!! question " Propriétés "
     === "Exercices :" 
          N°40-41p277
     === "Corrigés :"  
-        A venir
+         [40-41](corr/40-41.pdf){:target="_blank"}  
 !!! question " Formule d'addition et duplication"
     === "Exercices :" 
          Activité B p 266
@@ -43,4 +45,4 @@
          N°81-82 p280  
          N°99-100p282
     === "Corrigés :"  
-        A venir
+        [81-82-99-100](corr/81-82-99-100.pdf){:target="_blank"}  
