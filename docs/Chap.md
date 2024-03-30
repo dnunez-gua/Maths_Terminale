@@ -1,4 +1,4 @@
-# Chapitres  
+--# Chapitres  
 
 ### SUJETS BAC
 !!! note "Suites" 
@@ -79,6 +79,8 @@
 ### [Chapitre 10 - Equations différentielles](./cours/Chap10/Chap10.md)
 
 ### [Chapitre 11 - Fonctions trigonométriques](./cours/Chap11/Chap11.md)
+
+### [Chapitre 12- Calcul Intégral](./cours/Chap12/Chap12.md)
 
 ### Python
 ??? info "TP"
