@@ -46,7 +46,7 @@ L'option est évaluée en controle continu.
 
 ## Chapitre 2 - Arithmétique - Divisibilité dans $\mathbb{Z}$
 !!! info "Cours" 
-    Le cours [Cours](./cours/MEXP/Chap2/Cours_Chap2.pdf)   
+    [Cours](./cours/MEXP/Chap2/Cours_Chap2.pdf)   
 
 !!! alerte "devoir 2022"
     [Eval](./cours/MEXP/Chap2/eval.pdf)  
@@ -85,7 +85,7 @@ L'option est évaluée en controle continu.
     
 ## Chapitre 3 - Matrices et application aux graphes
 !!! info "Cours" 
-    Le cours [Cours](./cours/MEXP/Chap3/Cours-chap3.pdf)   
+    [Cours](./cours/MEXP/Chap3/Cours-chap3.pdf)   
 
 
     
@@ -140,7 +140,22 @@ L'option est évaluée en controle continu.
 !!! note "Racines de l'unité "
     N°44-45p67  
     N°125-126-127p 75
-    
+
+
+## Chapitre 5- PGCD - Théorème de Bézout - Théorème de Gauss
+!!! info "Cours" 
+    [Cours](./cours/MEXP/Chap4/Cours-Chap4.pdf)
+
+!!! note "PGCD"
+    N°21-28-29-30-31-32-33-34-35 p132  
+    N°37-38-39 p132  
+    N°68-69p134
+
+!!! note "Théorème de Bézout - Equations Diohantiennes"
+    N°43-44-45-46 p133
+    N°48-49-50 p133   
+    N°54-57-59p133  
+
 <!--
 
 ## Chapitre 4 - Les complexes point de vue géométrique
