@@ -144,14 +144,14 @@ L'option est évaluée en controle continu.
 
 ## Chapitre 5- PGCD - Théorème de Bézout - Théorème de Gauss
 !!! info "Cours" 
-    [Cours](./cours/MEXP/Chap4/Cours-Chap4.pdf)
+    [Cours](./cours/MEXP/Chap5/Cours-Chap5.pdf)
 
 !!! note "PGCD"
     N°21-28-29-30-31-32-33-34-35 p132  
     N°37-38-39 p132  
     N°68-69p134
 
-!!! note "Théorème de Bézout - Equations Diohantiennes"
+!!! note "Théorème de Bézout - Equations Diophantiennes"
     N°43-44-45-46 p133
     N°48-49-50 p133   
     N°54-57-59p133  
