@@ -152,8 +152,9 @@ L'option est évaluée en controle continu.
     N°68-69p134
 
 !!! note "Théorème de Bézout - Equations Diophantiennes"
-    N°43-44-45-46 p133
+    N°43-44-45-46 p133  
     N°48-49-50 p133   
+    N°51-52p133  
     N°54-57-59p133  
 
 <!--
