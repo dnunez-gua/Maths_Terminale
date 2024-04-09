@@ -19,7 +19,7 @@
 !!! question "Intégrales"  
     === "Exercices"
         N°18-25p326  
-        N°33-35p327
+        N°33-35-36p327  
         N°6p432  
     === "Corrigés :"  
         A venir
