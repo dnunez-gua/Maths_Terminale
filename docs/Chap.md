@@ -34,18 +34,11 @@
          [Sujet G2 Janvier 2024 ](./cours/BB2-G2.pdf){:target="_blank"}  
          [Sujet Rattrap Février 2024 ](./cours/BB-rattrapage.pdf){:target="_blank"}   
         
-### STAGES RAN
-!!! note "Octobre 2023" 
-    === "Fiches exercices "
-        [Suites](./cours/Suites.pdf){:target="_blank"}  
-        [Suites-recurrence](./cours/Suites-recurr.pdf){:target="_blank"}  
-        [Fonctions](./cours/Fonctions.pdf){:target="_blank"}  
-        [Continuité](./cours/Continuite.pdf){:target="_blank"}  
-    === "Correction" 
-        [Suites](./cours/corr/Suites-corr.pdf){:target="_blank"}  
-        [Suites-recurrence](./cours/corr/Suites-recurr-corr.pdf){:target="_blank"}  
-        [Fonctions](./cours/corr/Fonctions-corr.pdf){:target="_blank"}  
-        [Continuité](./cours/corr/Continuite-corr.pdf){:target="_blank"}  
+!!! note "sujets 0"
+    === "Sujets"
+        [Sujet](./cours/Sujets0.pdf){:target="_blank"}  
+    === "Corrigés"
+        [corrigé](./cours/Corriges-Sujets0.pdf){:target="_blank"}  
 
 
 ### Calculatrices 
