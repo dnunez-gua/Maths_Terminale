@@ -75,6 +75,9 @@
 
 ### [Chapitre 12- Calcul Intégral](./cours/Chap12/Chap12.md)
 
+### [Chapitre 13- Somme de variables aléatoires - Loi des grands nombres](./cours/Chap13/Chap13.md)
+
+
 ### Python
 ??? info "TP"
     TP python de notions d'algorithmes de 1ere et Terminale.[python-term](./python-term.ipynb)
