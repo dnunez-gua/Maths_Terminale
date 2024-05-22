@@ -40,7 +40,10 @@
     === "Corrigés"
         [corrigé](./cours/Corriges-Sujets0.pdf){:target="_blank"}  
 
-
+!!! note "Révisions "
+    === "Sujets"
+        [Asie2023](./Asie_spe_J1_23_mars_2023_DV.pdf){:target="_blank"}  
+        [CentresEtrangers2023](./BAC-Spe-Madagascar.pdf){:target="_blank"}  
 ### Calculatrices 
 !!! alerte " NOTICES "
 
