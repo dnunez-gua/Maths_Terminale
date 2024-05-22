@@ -42,8 +42,8 @@
 
 !!! note "Révisions "
     === "Sujets"
-        [Asie2023](./Asie_spe_J1_23_mars_2023_DV.pdf){:target="_blank"}  
-        [CentresEtrangers2023](./BAC-Spe-Madagascar.pdf){:target="_blank"}  
+        [Asie2023](./cours/Asie_spe_J1_23_mars_2023_DV.pdf){:target="_blank"}  
+        [CentresEtrangers2023](./cours/BAC-Spe-Madagascar.pdf){:target="_blank"}  
 ### Calculatrices 
 !!! alerte " NOTICES "
 
