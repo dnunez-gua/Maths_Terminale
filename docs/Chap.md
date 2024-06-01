@@ -44,6 +44,9 @@
     === "Sujets"
         [Asie2023](./cours/Asie_spe_J1_23_mars_2023_DV.pdf){:target="_blank"}  
         [CentresEtrangers2023](./cours/BAC-Spe-Madagascar.pdf){:target="_blank"}  
+        [AmNord2024-1](./cours/BAC-amerique-nord-sujet1.pdf){:target="_blank"}  
+        [AmNord2024-2](./cours/BAC-amerique-nord-sujet2.pdf){:target="_blank"}  
+
 ### Calculatrices 
 !!! alerte " NOTICES "
 
