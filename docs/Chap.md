@@ -46,6 +46,8 @@
         [CentresEtrangers2023](./cours/BAC-Spe-Madagascar.pdf){:target="_blank"}  
         [AmNord2024-1](./cours/BAC-amerique-nord-sujet1.pdf){:target="_blank"}  
         [AmNord2024-2](./cours/BAC-amerique-nord-sujet2.pdf){:target="_blank"}  
+        [Metropole2023-1](./cours/BAC-metropole-sujet1.pdf){:target="_blank"}  
+        [Metropole2023-2](./cours/BAC-metropole-sujet2.pdf){:target="_blank"}  
 
 ### Calculatrices 
 !!! alerte " NOTICES "
