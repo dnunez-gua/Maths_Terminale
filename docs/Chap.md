@@ -48,7 +48,8 @@
         [AmNord2024-2](./cours/BAC-amerique-nord-sujet2.pdf){:target="_blank"}  
         [Metropole2023-1](./cours/BAC-metropole-sujet1.pdf){:target="_blank"}  
         [Metropole2023-2](./cours/BAC-metropole-sujet2.pdf){:target="_blank"}  
-
+        [CentresEtrangers 1](./cours/CentreEtrangers1.pdf){:target="_blank"}  
+        [CentresEtrangers 2](./cours/CentreEtrangers2.pdf){:target="_blank"}  
 ### Calculatrices 
 !!! alerte " NOTICES "
 
