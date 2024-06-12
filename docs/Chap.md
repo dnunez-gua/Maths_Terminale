@@ -50,6 +50,8 @@
         [Metropole2023-2](./cours/BAC-metropole-sujet2.pdf){:target="_blank"}  
         [CentresEtrangers 1](./cours/CentreEtrangers1.pdf){:target="_blank"}  
         [CentresEtrangers 2](./cours/CentreEtrangers2.pdf){:target="_blank"}  
+        [Asie 1](./cours/Asie1.pdf){:target="_blank"}  
+        [Asie 2](./cours/Asie2.pdf){:target="_blank"}  
 ### Calculatrices 
 !!! alerte " NOTICES "
 
